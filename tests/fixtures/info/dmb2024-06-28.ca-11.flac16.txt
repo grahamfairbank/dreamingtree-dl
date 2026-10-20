@@ -1,0 +1,62 @@
+Dave Matthews Band
+Deer Creek Music Center
+Noblesville, IN
+June 28, 2024
+
+Taper:  bersey
+Location:  Section E, Row G, Seat 25, Left Stack-ish, mics about 15' high
+Source:  CA-11 cardioids > CA-9100 > Sony PCM-M10 @ 24 bit/48kHz
+Conversion:  Sony PCM-M10 > PC > Sony Sound Forge Audio Studio 9.0 (fades, normalize,  
+             resample to 44.1 kHz, dither to 16 bit) > CD Wave Editor (tracking) > 
+             Trader's Little Helper (encode to flac,level 6) > foobar 2000 (tagging)
+
+**************************************************************************************
+********************RECORDING IS NOT FOR SALE OR ANY COMMERCIAL USE*******************
+**************************************************************************************
+
+01. Intro	                   03:01.00
+02. Grey Street                    08:28.00
+03. #41                            09:55.00
+04. Idea of You                    05:16.00
+05. Do You Remember                06:10.00
+06. Pantala Naga Pampa >           00:40.00
+07. Seek Up                        21:27.00
+08. Warehouse                      11:05.00
+09. Madman's Eyes                  08:50.00
+10. You Never Know                 09:08.00 
+11. Dancing Nancies                12:19.00
+12. Black and Blue Bird            05:50.00 
+13. Rapunzel                       09:01.00
+14. Lying In the Hands of God >    06:48.00
+15. American Baby Intro >          05:04.00 
+16. Break Free                     07:55.00
+17. Sledgehammer *                 07:21.00
+18. Say Goodbye                    07:29.00
+19. You & Me                       05:50.00
+20. Ants Marching                  09:13.00
+21. Encore Break                   08:19.00
+22. Baby Blue ^                    04:46.00
+23. You Might Die Trying           08:05.00
+     
+Total:                           3:02:00.00
+
+
+Notes:
+* Peter Gabriel cover
+^ Dave solo
+
+
+
+Dave Matthews Band:
+Dave Matthews - acoustic guitar, electric guitar, vocals
+Carter Beauford - drums, percussion, backing vocals
+Stefan Lessard - electric bass guitar
+Tim Reynolds - electric guitar
+Jeff Coffin - saxophones, flute, backing vocals
+Rashawn Ross - trumpet, backing vocals
+Arthur "Buddy" Strong - keys, backing vocals
+
+
+Thanks to Dave Matthews Band and Deer Creek for letting me tape the show!
+
+Compiled by Kurt Berwanger on July 4, 2024

@@ -1,0 +1,50 @@
+Dave Matthews Band
+February 29, 2020
+Innings Festival at Tempe Arts Park - Tempe, AZ
+
+Taper: Zachary Semcken
+Source: AKG C1000S > XLR > Tascam DR-10mkiii (24/96)
+Location: Soundbooth, Back of Floor, Mics DIN ~9'
+Transfer: Tascam DR-10mkiii > PC
+Editing: Wav > Adobe Audition > Audacity (Tracking) > FLAC (Level 8)
+
+Setlist:
+01. Introduction                     02:03.300
+02. Don't Drink The Water*           09:02.912
+03. Samuari Cop (Oh Joy Begin)       05:09:987
+04. Warehouse! >                     11:14.461
+05. Crush^/Kill The Preacher (Tease) 16:23.653
+06. Why I Am                         04:59.640
+07. Come Tomorrow                    06:44.272
+08. So Much To Say >                 04:09.929
+09. Anyone Seen The Bridge$ >        01:56.842
+10. Too Much                         06:14.243
+11. The Riff                         06:30.958
+12. Long Train Runnin'%              04:25.559
+13. Jimi Thing& >                    11:23.848
+14. Tell Me Something Good@          04:50.740
+15. You & Me                         05:44.684
+16. Sweet Up And Down >              04:33.012
+17. Ants Marching#                   09:20.568
+18. Encore Break                     05:39.619
+19. Corn Bread^                      08:24.272
+20. Grey Street                      05:58.902
+    Total: 2:14:51.401
+
+Notes:
+* includes prelude with Forty Six & 2 and Schism interpolations
+! with vocal prelude, salsa jam
+^ Stefan solo intro
+$ Also Sprach Zarathustra and Heartbreaker interpolations
+% Doobie Brothers cover
+& crowd sings first verse
+@ Chaka Khan cover, Buddy on lead vocals
+# Carter solo intro, Shake Your Body (Down to the Ground) interpolation
+^ Carter solo intro, Down By The Riverside interpolation
+
+There was a particularly loud clapper in the left channel audio.
+Thanks to Mark T for helping me by scrubbing hundreds of claps, tracking, and converting.
+Thanks to the DMB crew for letting me set up inside the cage.
+This show is dedicated to all the tapers before me who have helped preserve this magnificent band.
+
+Compiled on 2020-03-22

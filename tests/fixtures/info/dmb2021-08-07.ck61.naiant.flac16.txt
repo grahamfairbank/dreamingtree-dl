@@ -1,0 +1,40 @@
+Dave Matthews Band
+August 7, 2021
+Huntington Bank Pavilion at Northerly Island
+Chicago, IL
+
+Taper: Mike Peters (<email>)
+Location: GA PIT, Front Rail, Right Stack (mics DIN at ~12ft)
+Source: AKG CK61-ULS Caps (Active Cables) > Naiant Midbox > Sony PCM-10 (24/96 LPCM)
+Conversion: Samsung Pro 64GB SD Card > USB 3.0 > Sound Forge Pro 11 (Normalize to -0.01dB, Resample to 44,100 Hz with anti-alias filter, Convert to 16 bit [iZotope MBIT+ advanced ultra dither]) > CD Wave Editor 1.97 (Tracking) > foobar2000 (Tagging, conversion to FLAC Level 8)
+
+*** A 24-bit 96kHz version of this source is also available ***
+
+01: Introduction
+02: Granny
+03: Seek Up
+04: Sweet Up and Down
+05: The Song That Jane Likes
+06: Dancing Nancies >
+07: Funny the Way It Is
+08: Warehouse
+09: Samurai Cop (Oh Joy Begin)
+10: Crush
+11: Walk Around the Moon
+12: Louisiana Bayou
+13: Sweet
+14: Minarets
+15: Jimi Thing >
+16: I Want a New Drug >
+17: Sexy M.F.
+18: Everyday
+19: #41
+20: Don't Drink the Water >
+21: Corn Bread >
+22: Ants Marching
+23: Encore Break
+24: Singing from the Windows
+25: Pantala Naga Pampa >
+26: Rapunzel
+
+Compiled by: Mike Peters 8/8/2021

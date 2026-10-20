@@ -1,0 +1,46 @@
+Dave Matthews Band
+John Paul Jones Arena
+Charlottesville, VA
+November 11, 2023
+
+Taper: Jason Johnson (<email>)
+Location: Left of FOH, DIN @ 10'
+Source: akg ck63s > nbob actives > SD MixPre-6ii (32/48)
+Conversion: MixPre-6ii > Adobe Audition (EQ, dither) > Trader's Little Helper > Foobar2000
+
+01 Intro
+02 Old Dirt Hill (Bring That Beat Back)
+03 The Best of What's Around
+04 #27
+05 Walk Around the Moon
+06 Hunger for the Great Light
+07 Pantala Naga Pampa >
+08 Rapunzel
+09 The Ocean and the Butterfly
+10 Rooftop
+11 Minarets
+12 Cry Freedom
+13 So Damn Lucky
+14 Monsters
+15 The Maker @
+16 Warehouse @
+17 Looking for a Vein
+18 Spaceman
+19 Jimi Thing # >
+20 Brick House #
+21 Carter Solo >
+22 Ants Marching #
+23 Encore Break
+24 Sister
+25 Two Step
+
+Notes:
+@ w/John D'earth
+# w/Trombone Shorty
+* Dave solo
+
+16/44.1 version also exists.
+Thanks to Zach for helping secure us a spot on the floor.
+
+Compiled by Jason Johnson on November 20, 2023.
+www.greppson.net

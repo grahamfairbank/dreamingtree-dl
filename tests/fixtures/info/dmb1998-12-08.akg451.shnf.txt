@@ -1,0 +1,48 @@
+Dave Matthews Band
+Worcestor Civic Centrum, Worcestor, MA
+December 08, 1998
+
+Taper:		Unknown
+Source:		AKG 451 > DAT
+Conversion:	Tascam DA-30 > Sek'd Prodif32 > Cool Edit Pro > SHN (mkw audio compression tool)
+		Jon Ice (<email>)
+		Seek tables appended to files
+
+Disc One:
+01:		Intro						02:22
+02:		Seek Up *		>			17:59
+03:		Heartbeat Intro	*	>			03:09
+04:		Linus and Lucy	*	>			01:41
+05:		Heartbeat Intro	*	>			04:33
+06:		Pantala Naga Pampa *	>			04:40
+07:		Rapunzel					08:23
+08:		Satellite					07:36
+09:		Don't Drink The Water	**			09:12
+Total:								55:35
+
+Disc Two:
+01:		Jimi Thing					14:44
+02:		Stay	*					08:18
+03:		#41	@					21:32
+04:		So Much To Say			>		04:14
+05:		Anyone Seen The Bridge? *	>		01:32
+06:		Too Much *					05:33
+Total:								55:53
+
+Disc Three:
+01:		Drive In Drive Out *				07:26
+02:		Tripping Billies *				08:32
+03:		I'll Back You Up (Dave, Carter, Tim, Stefan)	06:45
+04:		Intro to.....		>			02:31
+05:		The Last Stop (reprise)	**			16:15
+Total:								41:29
+
+entire set with Tim Reynolds
+* with Butch Taylor
+** with Butch Taylor & Bela Fleck
+@ with Butch Taylor, Bela Fleck, and Jeff Coffin
+
+Notes:		There was a fade in the dat after Tripping Billies (during the encore break)
+		Show can be fit on 2-80 minute discs if split after d2t02
+
+converted 12.4.01 (<email>)

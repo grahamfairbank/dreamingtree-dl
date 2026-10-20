@@ -1,0 +1,48 @@
+Dave Matthews Band
+July 28, 2023
+iTHINK Financial Amphitheatre 
+West Palm Beach, FL
+
+Source: SiriusXM HLS "Extreme" quality stream > ffmpeg-gyan-nightly
+Conversion: Decompress AAC to WAV via ffmpeg-5.0.1-win64-full_build > CD Wave Editor 1.97 (Tracking) > foobar2000 (Tagging, conversion to FLAC Level 8)
+
+01 - So Much to Say				04:51
+02 - Anyone Seen the Bridge			01:57
+03 - Too Much					07:09
+04 - Busted Stuff				06:20
+05 - Seven					06:09
+06 - Walk Around the Moon			05:57
+07 - Funny the Way It Is			06:56
+08 - Lying in the Hands of God >		07:35
+09 - American Baby Intro 			08:13	
+10 - Break Free					09:46
+11 - Pantala Naga Pampa >			00:38
+12 - Rapunzel					07:04
+13 - Digging a Ditch				06:58
+14 - The Song That Jane Likes			05:04
+15 - Madman's Eyes (fake) >			02:09
+16 - So Damn Lucky				11:03
+17 - Monsters					07:50
+18 - Help Myself				05:29
+19 - Looking for a Vein				03:34
+20 - Grey Street				07:12
+21 - What You Are				07:07
+22 - Two Step					17:41
+23 - ==========					07:15
+24 - Baby Blue *				04:51
+25 - Jimi Thing					10:28
+26 - Brick House				04:02
+TOTAL						173:18
+
+* - Dave solo
+
+Compiled on 7/30/2023
+
+Notes: Original media info for ADTS format AAC prior to conversion to FLAC for distribution is included below for reference. No further "lossy" conversions took place in processing this capture.
+
+General
+Complete name                            : dmb2023-07-28.aac
+Format                                   : ADTS
+Format/Info                              : Audio Data Transport Stream
+File size                                : 325 MiB
+Overall bit rate mode                    : Variable

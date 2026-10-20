@@ -1,0 +1,37 @@
+Dave Matthews Band
+June 10, 2022
+Blossom Music Center, Cuyahoga Falls, OH
+
+Source: SiriusXM HLS "Extreme" quality stream > VLC > WAV
+Conversion: Decompress AAC to WAV via VLC > Audacity (Tracking) > foobar2000 (Tagging, conversion to FLAC Level 8)
+
+01: Intro
+02: One Sweet World
+03: Granny
+04: What Would You Say
+05: Funny the Way It Is
+06: Break for It
+07: Grace Is Gone »
+08: Seek Up
+09: Stay or Leave
+10: Walk Around the Moon
+11: #41
+12: Samurai Cop (Oh Joy Begin)
+13: Squirm
+14: The Space Between
+15: Come On Come On
+16: Dancing Nancies »
+17: Warehouse
+18: Gravedigger
+19: Grey Street
+20: Stay (Wasting Time)
+-----------------------------------
+21: Rye Whiskey
+22: Two Step
+
+Compiled on 6/11/2022
+
+Notes: 
+- Live stream had dropout in Samurai Cop, which was fixed using On Demand source
+- Most of Squirm and all of The Space Between were missing from live stream, added back with On Demand stream
+

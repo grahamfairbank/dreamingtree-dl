@@ -1,0 +1,58 @@
+Dave Matthews Band
+May 30, 2018
+Walmart Arkansas Music Pavilion
+Rogers, AR
+
+Source: SiriusXM HLS "Extreme" quality stream > ffmpeg-2020-04-03-52523b6-win64-static
+Conversion: Decompress AAC to WAV via ffmpeg-2020-04-03-52523b6-win64-static > CD Wave Editor 1.97 (Tracking) > foobar2000 (Tagging, conversion to FLAC Level 8)
+
+01: Introduction
+02: Come Tomorrow
+03: Don't Drink the Water
+04: Satellite
+05: Hello Again
+06: Tripping Billies
+07: Samurai Cop (Oh Joy Begin)
+08: Louisiana Bayou
+09: Crash into Me
+10: Can't Stop
+11: The Song That Jane Likes
+12: Minarets
+13: Do You Remember
+14: What Would You Say &
+15: Lying in the Hands of God &
+16: Funny the Way It Is
+17: Recently
+18: She
+19: Crush
+20: Stand Up (for It)
+21: Stay (Wasting Time)
+22: Outro
+
+Compiled on 6/24/2020
+
+Notes: 
+
+& with Ron Blake (saxophone)
+
+Original media info for ADTS format AAC prior to conversion to FLAC for distribution is included below for reference. No further "lossy" conversions took place in processing this capture.
+
+General
+Complete name                            : dmb2018-05-30.aac
+Format                                   : ADTS
+Format/Info                              : Audio Data Transport Stream
+File size                                : 294 MiB
+Overall bit rate mode                    : Variable
+
+Audio
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format version                           : Version 4
+Format profile                           : LC
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 kHz
+Frame rate                               : 43.066 FPS (1024 spf)
+Compression mode                         : Lossy
+Stream size                              : 294 MiB (100%)

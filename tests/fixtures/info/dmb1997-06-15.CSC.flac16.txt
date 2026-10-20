@@ -1,0 +1,75 @@
+Dave Matthews Band
+June 15, 1997
+Nissan Pavilion at Stone Ridge
+Bristow, VA
+
+
+Taper: Unknown
+Location: 5th Row, Left Stack 
+Source: Coresound Cardioids>Sony TCD-D8 (@16/32kHz)
+Transfer: DAT>Tascam DA-20>Edirol UA5 (Digi-mod)>USB>PC 
+Conversion: Tom Gambichler-DAT>Sound Forge 8,Recorded @ 16/32kHz,Resampled to 16/44kHz, Fade in & fade out applied>L3 Waves Volume Maximizer>CD Wav Editor for track splitting>WAV>Flac Frontend, compression @ level 5
+
+***********************************************************************
+**************DO NOT ENCODE THIS SHOW TO LOSSY FORMATS*****************
+****************DO NOT SELL OR DISTRIBUTE FOR PROFIT*******************
+***********************************************************************
+
+Disc 1
+
+01. Intro                                       00:56
+02. Two Step                                    08:12
+03. The Song That Jane Likes                    04:56
+04. Jimi Thing                                  14:39
+05. Crash Into Me *                             06:57
+06. Seek Up *                                   16:01
+07. Ants Marching (Snare intro) *               10:05
+08. Say Goodbye                                 09:33 
+
+
+
+Total time Disc 1                               71:38
+
+
+Disc 2
+
+09. The Best of What's Around                   06:32
+10. Help Myself                                 06:57
+11. #41 *$                                      14:26
+12. Tripping Billies (Nature intro)             07:29
+13. Lover Lay Down                              07:57
+14. So Much to Say->                            04:09
+15. Anyone Seen the Bridge->                    01:22
+16. Too Much                                    04:57 
+
+17. Encore Break                                04:39 
+
+Encore
+
+18. Leave Me Praying                            07:02 
+19. Drive In Drive Out                          06:35
+
+
+
+Total time Disc 2                               72:33
+
+
+
+
+* with Bela Fleck on banjo
+$ with Jeff Coffin on saxophone
+
+
+
+
+Received this DAT from Tye on Taperssection.com and it was well preserved over the years.  Thanks to Tye for sending me this DAT to convert. The taper recorded this in 16 bit/32kHz instead of the normal 16/44 or 16/48.  The quality or dynamic range might not be as good as a result.  It was probably recorded this way to save space on the DAT tape if the show exceeded 2 hours. However, after converting and tracking this show, it sounds VERY good.  You be the judge.
+
+
+Errors:
+-------
+Slight skip at 1:56 of Crash, pop at 8:20 of Ants (fixed with Sound Forge pencil tool)
+
+
+
+
+Compiled by Tom Gambichler on May 16, 2011

@@ -1,0 +1,69 @@
+Dave Matthews Band
+11 May 2023
+Auditorio Pabellón M - Monterrey, NL, MEX
+
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+*=*=*=*=* 16/48 RECORDING *=*=*=*=*
+*=* NOT SUITABLE FOR CD BURNING *=*
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+
+Taper: Zachary Semcken
+Source: AKG C414 XLII (Hypercardioid) > MixPre 10 II (32 Bit Float @ 96)
+Location: Preferente B, Fila P, Asiento 39, Slightly Stage Right of Center, Mics PAS @ 9'
+Editing: WAV > Reaper 6.79 (Gain, Mixing/Post Processing, Normalizing, Resample 32/48) > Audacity 3.3.2 (Fades, Tracking) > FLAC (Level 8)
+
+Setlist:
+
+01. Intro/Tuning
+02. One Sweet World¹
+03. Dave Speak: Español
+04. When the World Ends
+05. Dave Speak: Te Amo
+06. Busted Stuff
+07. Madman's Eyes²
+08. Grace Is Gone
+09. Rooftop
+10. Crush³
+11. Fool to Think
+12. Virginia in the Rain
+13. Dave Speak: Enseñando a mi hijo a nadar
+14. Sweet
+15. Break Free
+16. You Never Know⁴
+17. The Space Between
+18. Dave Speak: Habitación de hotel con vistas a la montaña
+19. Monsters
+20. Grey Street
+21. Band Introductions
+22. Satellite
+23. You Might Die Trying
+24. Encore Break
+25. Looking for a Vein⁵
+26. Ants Marching⁶
+
+Set Time: [02:29:59.112]
+
+Dave Matthews Band:
+
+Dave Matthews - Guitar, Lead Vocals
+Tim Reynolds - Electric Guitar
+Stefan Lessard - Bass
+Buddy Strong - Keyboards, Vocals
+Rashawn Ross - Trumpet, Vocals
+Jeff Coffin - Saxophone, Flute
+Carter Beauford - Drums
+
+Notes:
+
+¹ Dave's guitar dies during the outro; Improv outro
+² Dave album intro vocals
+³ Stefan solo intro
+⁴ with prelude
+⁵ with prelude & false start
+⁶ Carter solo intro; Shake Your Body (Down to the Ground) interpolation
+
+My undying gratitude to Red Light Management for making this recording possible.
+
+This recording is dedicated to all the tapers that have taught me to love archiving live music.
+
+Compiled on 2023/05/12.

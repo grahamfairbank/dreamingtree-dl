@@ -1,0 +1,39 @@
+Dave Matthews Band 
+September 16, 2022
+North Island Credit Union Amphitheatre - Chula Vista, CA
+
+Taper: Jon Koch 
+Source: Schoeps MK4 > active cables > Nbox Platinum > Edirol R-09HR (24/48) 
+Location: Back of the pit, in line with right stacks, Mics DIN ~12'  
+Transfer: Edirol R-09HR > SDHC > PC 
+Edit: wav > Sony Soundforge 9.0a > wav > CD Wave > wav 
+Conversion: wav > Trader's Little Helper 2.4.1 > .flac 
+
+---PRESERVE THE QUALITY, PLEASE DO NOT ENCODE INTO MP3 OTHER THAN FOR PERSONAL USE--- 
+
+01: Intro				[02:20]
+02: Squirm				[05:53]
+03: Where Are You Going			[04:52]
+04: Louisiana Bayou			[09:45]
+05: Granny				[05:03]
+06: Drive In Drive Out			[07:47]
+07: Sweet				[07:30]
+08: Grey Street				[07:21]
+09: Drunken Soldier			[08:26]
+10: Madman's Eyes			[07:25]
+11: Seek Up				[21:16]
+12: She					[06:36]
+13: Fool in the Rain			[07:53]
+14: The Ocean and the Butterfly		[03:18]
+15: You & Me				[06:34]
+16: What You Are			[07:14]
+17: Jimi Thing				[14:30]
+18: Ants Marching			[09:22]
+19: Encore break/intro			[06:33]
+20: Pay for What You Get		[05:41]
+21: Stay (Wasting Time)			[06:01]
+Total:	      			       [2:41:20] 
+
+Notes: This recording is dedicated to the memory of LeRoi Moore. 
+
+Compiled on 09.17.22

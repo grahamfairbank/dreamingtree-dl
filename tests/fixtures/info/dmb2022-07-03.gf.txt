@@ -1,0 +1,72 @@
+Dave Matthews Band
+Alpine Valley Music Theatre
+East Troy, WI
+July 3, 2022
+
+Taper:  bersey
+Location:  Section 202, Row MM, Seat 100, Right Stack, mics about 15' high
+Source:  CA-11 cardioids > CA-9100 > Sony PCM-M10 @ 24 bit/48kHz
+Conversion:  Sony PCM-M10 > PC > Sony Sound Forge Audio Studio 9.0 (fades, normalize,  
+             resample to 44.1 kHz, dither to 16 bit) > CD Wave Editor (tracking) > 
+             Trader's Little Helper (encode to flac,level 6) > foobar 2000 (tagging)
+
+**************************************************************************************
+********************RECORDING IS NOT FOR SALE OR ANY COMMERCIAL USE*******************
+**************************************************************************************
+
+01. Intro                             02:56.00
+02. That Girl Is You                  05:09.00
+03. Granny                            04:46.00
+04. The Stone                         13:07.00
+05. Walk Around the Moon              05:49.00
+06. Can't Stop                        05:01.00
+07. Bass Intro to...                  01:00.00
+08. Crush                             17:32.00
+09. Sweet                             06:31.00
+10. Sledgehammer *                    06:25.00 
+11. The Dreaming Tree                 11:09.00
+12. Kill the Preacher (tease)         00:56.00 
+13. Why I Am                          04:49.00
+14. Louisiana Bayou                   10:08.00
+15. Stolen Away on 55th & 3rd         06:46.00 
+16. Lie In Our Graves ~               11:17.00
+17. So Right                          06:49.00
+18. Jimi Thing                        15:10.00
+19. Thank You "Jam"                   01:05.00
+20. Ocean and the Butterfly           04:29.00
+21. Don't Drink the Water             06:17.00
+22. Improv Intro to...                01:15.00
+23. You & Me                          05:07.00
+24. Stay                              06:47.00
+25. Encore Break                      05:38.00
+26. Funny How Time Slips Away ^       03:26.00
+27. Bass Intro to...                  01:17.00
+28. All Along the Watchtower !        08:19.00 
+     
+Total:                              2:59:00.00
+
+
+Notes:
+* Peter Gabriel cover
+~ with Eric Krasno on electric guitar
+^ Willie Nelson cover, Dave solo
+! Bob Dylan cover with Stairway to Heaven interpolation
+
+
+Dave Matthews Band:
+Dave Matthews - acoustic guitar, electric guitar, ukelele, vocals
+Carter Beauford - drums, percussion, backing vocals
+Stefan Lessard - electric bass guitar, bass ukelele (?)
+Tim Reynolds - electric guitar
+Jeff Coffin - saxophones, backing vocals
+Rashawn Ross - trumpet, backing vocals
+Arthur "Buddy" Strong - keys, backing vocals
+
+
+Thanks to Dave Matthews Band and Alpine Valley for letting me tape the show!
+
+Thanks to Mark Terrell for the dead rat windscreens!
+
+Saw Puke Boy again.  He was doing much better the second night.
+
+Compiled by Kurt Berwanger on July 4, 2022

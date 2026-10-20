@@ -1,0 +1,53 @@
+Dave Matthews Band
+February 28, 2020
+The Chelsea at the Cosmopolitan of Las Vegas - Las Vegas, NV
+
+Taper: Zachary Semcken
+Source: AKG C1000S > XLR > Tascam DR-10mkiii (24/96)
+Location: Soudbooth, Back of Floor, Mics DIN ~9'
+Transfer: Tascam DR-10mkiii > PC
+Editing: Wav > Adobe Audition > Audacity (Tracking) > FLAC (Level 8)
+
+Setlist:
+01. Introduction                02:33.531
+02. Granny                      05:25.278
+03. Grey Street                 05:57.896
+04. #41                         09:13.036
+05. Do You Remember             05:47.079
+06. What Would You Say          05:18.642
+07. The Riff                    07:47.461
+08. Stolen Away On 55th & 3rd > 05:52.985
+09. Warehouse!                  12:24.029
+10. Lying In The Hands Of God@  12:11.354
+11. Why I Am                    05:20.998
+12. Jimi Thing >                12:16.406
+13. Tell Me Something Good#     04:46.589
+14. Beach Ball                  04:15.531
+15. What You Are$               06:58.319
+16. Come Tomorrow               06:58.535
+17. Long Train Runnin'%         03:55.224
+18. Crash Into Me^              06:17.738
+19. Pantala Naga Pampa >        00:39.627
+20. Rapunzel                    06:23.578
+21. Encore Break                06:27.826
+22. Sweet Up And Down& >        03:26.804
+23. Ants Marching*              10:15.982
+    Total: 2:30:34.448
+
+Notes:
+
+! with vocal prelude, salsa jam
+@ Bourbons & Lacs and American Baby Intro interpolations
+# Chaka Khan cover, Buddy on lead vocals
+$ includes prelude
+% Doobie Brothers cover, Dave starts off in the wrong key
+^ Dixie Chicken interpolation
+& Major instrumental miscues
+* Carter solo intro, Shake Your Body (Down to the Ground) interpolation, includes Tim delay outro
+
+Crowd is on the chatty side, but not too bad.
+Thanks to Mark T for helping me with mastering, tracking, and converting.
+Thanks to the DMB crew for letting me set up inside the cage.
+This show (my first ever recording) is dedicated to all the tapers before me who have helped preserve this magnificent band.
+
+Compiled on 2020-03-22

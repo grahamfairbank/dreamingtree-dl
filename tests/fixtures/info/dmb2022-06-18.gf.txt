@@ -1,0 +1,69 @@
+Dave Matthews Band
+June 17, 2022
+Xfinity Theatre - Hartford, CT
+
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+*=*=*=*=* 16/48 RECORDING *=*=*=*=*
+*=* NOT SUITABLE FOR CD BURNING *=*
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+
+Taper: Zachary Semcken
+Source: AKG C414 XLII (Cardioid) > MixPre 6 II (32 Bit Float @ 96)
+Location: Rear of GA Pit, Stage Right Stack, Mics PAS @ 12'
+Editing: WAV > Reaper 6.60 (Gain, Mixing, Normalizing, Resample 32/48) > Audacity 3.1.3 (Fades, Tracking) > FLAC (Level 8)
+
+Setlist:
+
+01. Intro
+02. One Sweet World¹
+03. When the World Ends
+04. What Would You Say
+05. Break for It
+06. The Stone²
+07. Funny the Way It Is
+08. Lying in the Hands of God³
+09. Grace Is Gone
+10. Can't Stop
+11. Dancing Nancies
+12. Walk Around the Moon
+13. So Damn Lucky⁴
+14. Break Free
+15. Say Goodbye
+16. Crush⁵
+17. Kill the Preacher (Tease)
+18. Why I Am
+19. Come On Come On
+20. Ants Marching⁶
+21. Encore Break
+22. Dave Speak: Requests
+23. Steady As We Go⁷
+24. Two Step⁸
+
+Total Performance Time: [02:51:14.371]
+
+Dave Matthews Band:
+
+Dave Matthews - Guitar, Lead Vocals
+Tim Reynolds - Electric Guitar
+Stefan Lessard - Bass
+Buddy Strong - Keyboards, Vocals
+Rashawn Ross - Trumpet, Vocals
+Jeff Coffin - Saxophone, Flute
+Carter Beauford - Drums
+
+Notes:
+
+¹ Swim Naked outro
+² with "Can't Help Falling in Love" interpolation
+³ with "Bourbon & Lacs" and "American Baby Intro" interpolations
+⁴ with "Thank You (Falettinme Be Mice Elf Agin)" interpolation
+⁵ with Stefan solo intro
+⁶ with Carter solo intro, "Shake Your Body (Down to the Ground)" interpolation
+⁷ Dave & Buddy only, played in response to a fan's request
+⁸ Time Bomb intro
+
+Huge thanks to Dino & Kristin Acquarelli for the pit ticket.
+
+This recording is dedicated to all the tapers before me who continue to preserve live music.
+
+Compiled on 2022/06/20.

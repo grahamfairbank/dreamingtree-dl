@@ -1,0 +1,72 @@
+Dave Matthews Band
+July 10, 2024
+PNC Bank Arts Center - Holmdel, NJ
+
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+*=*=*=*=* 16/48 RECORDING *=*=*=*=*
+*=* NOT SUITABLE FOR CD BURNING *=*
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+
+Taper: Zachary Semcken
+Source: AKG C414 XLII (Hypercardioid) > MixPre 10 II (32 Bit Float @ 96)
+Location: Front House Left of FOH, DFC, Mics PAS @ 11'
+Editing: WAV > Reaper 7.18 (Gain, Mixing, Normalizing, Resample 24/48) > Audacity 3.5.1 (Fades, Tracking) > FLAC (Level 8)
+
+Setlist:
+
+01. Intro
+02. What Would You Say
+03. Recently¹
+04. Granny
+05. Pantala Naga Pampa >
+06. Crash Into Me²
+07. Madman's Eyes
+08. Lie in Our Graves
+09. Drunken Soldier
+10. Rooftop
+11. Idea of You
+12. Stolen Away on 55th & 3rd
+13. Bartender³
+14. Say Goodbye
+15. Robert Randolph Intro⁴
+16. Grace Is Gone⁴⁵
+17. Hello Again⁴
+18. Typical Situation
+19. Tripping Billies⁶
+20. You Might Die Trying
+21. Encore Break
+22. Here On Out⁷
+23. So Much to Say >
+24. Anyone Seen the Bridge⁸ >
+25. Too Much
+
+Set Time: [02:54:33.396]
+
+Dave Matthews Band:
+
+Dave Matthews - Guitar, Lead Vocals
+Tim Reynolds - Electric Guitar
+Stefan Lessard - Bass
+Buddy Strong - Keyboards, Vocals
+Rashawn Ross - Trumpet, Vocals
+Jeff Coffin - Saxophone, Flute
+Carter Beauford - Drums
+
+Notes:
+
+¹ Pretty Pretty Girl outro with Take Me to the River interpolation
+² Dixie Chicken interpolation
+³ If I Only Had a Brain interpolation
+⁴ with Robert Randolph on pedal steel guitar
+⁵ with Robert Randolph solo intro
+⁶ Theme from Lost in Space interpolation
+⁷ Dave Solo
+⁸ Also Sprach Zarathustra and Heartbreaker interpolations
+
+During the encore break, the venue screens displayed an "In Memory of" photograph in tribute to longtime DMB fan Chris Joy, who passed away in 2021.
+
+Huge thanks to the entire DMB organization for supporting live taping.
+
+This recording is dedicated to the memory of Chris Joy and all those whose lives he touched.
+
+Compiled on 2024/07/15.

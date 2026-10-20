@@ -1,0 +1,44 @@
+Dave Matthews Band
+Bank of NH Pavilion
+Gilford, NH
+July 17, 2024
+
+Taper: Jason Johnson (<email>)
+Location: Pit Stage Right, DIN @ 15'
+Source: akg ck61s > nbob actives > SD MixPre-6ii (32/48)
+Conversion: MixPre-6ii > Adobe Audition (hi-pass filter, dither, resample) > Trader's Little Helper > Foobar2000
+
+01: Intro
+02: Ants Marching
+03: Pantala Naga Pampa >
+04: Minarets
+05: You Might Die Trying
+06: Crash Into Me
+07: Fool to Think
+08: Break for It
+09: You Never Know
+10: Samurai Cop (Oh Joy Begin)
+11: Dancing Nancies
+12: Idea of You
+13: Lying in the Hands of God >
+14: American Baby Intro
+15: Come On Come On
+16: #41
+17: Black and Blue Bird
+18: Intro to... >
+19: All Along the Watchtower
+20: The Space Between
+21: Rapunzel
+22: Encore Break
+23: Some Devil*
+24: Crush
+
+Notes:
+* Dave solo
+
+Thanks to Kelley and John for all the help.
+
+24/48 version also exists.
+
+Compiled by Jason Johnson on July 18, 2024.
+www.greppson.net

@@ -1,0 +1,59 @@
+Dave Matthews Band
+July 26, 2008
+Verizon Wireless Music Center
+Noblesville, Indiana
+
+Taper: Chris Drews
+Source: AT853s > SP-XLRM-MINI-2 (48v phantom power) > UA-5 (w-mod) > iRiver iHP-120 (Rockbox)
+Location: Section C, Row N, Seats 1 & 2, clamped to Crumbo
+Editing: WAV > Audacity 2.3.2 (Gain, Mixing, Normalizing, Fades, Tracking) > FLAC (Level 8)
+
+Setlist:
+01. Seek Up*
+02. One Sweet World
+03. Granny
+04. Grey Street
+05. Old Dirt Hill (Bring That Beat Back)^
+06. Pantala Naga Pampa >
+07. Rapunzel
+08. What Would You Say
+09. Rhyme & Reason
+10. Out of My Hands
+11. Everyday&
+12. Crash into Me$
+13. Lie in Our Graves
+14. Money# >
+15. Money (That's What I Want)@
+16. Crush
+17. Anyone Seen the Bridge! >
+18. Too Much (Fake) > Ants Marching?
+19. Encore Break
+20. Sister (> Little Thing (Tease))
+21. Gravedigger
+22. Thank You (Falettinme Be Mice Elf Agin)%
+
+Dave Matthews Band:
+
+Dave Matthews - Guitar, Lead Vocals
+Tim Reynolds - Electric Guitar
+Stefan Lessard - Bass
+Boyd Tinsley - Violin
+Rashawn Ross - Trumpet, Vocals
+Jeff Coffin - Saxophone, Flute
+Carter Beauford - Drums
+
+Notes:
+
+* Intro is missing approx. 20 secs, begins just before the song kicks in.
+^ with Why I Am outro
+& with You Can't Rollerskate in a Buffalo Herd interpolation
+$ with Dixie Chicken interpolation
+# Pink Floyd cover
+@ Barret Strong cover
+! with Also Sprach Zarathustra and Funk #49 interpolations
+? direct intro; Shake Your Body (Down to the Ground) interpolation
+% Sly and the Family Stone cover
+
+LeRoi Moore did not play at this show due to injury.
+
+Compiled on 2022/01/03 by Mark Terrell and Zachary Semcken.

@@ -1,0 +1,44 @@
+Dave Matthews Band
+09/21/2021
+Northwell Health at Jones Beach Theater
+Wantagh, NY
+
+Recorded By: Scott Brown 
+Source: DPA 4028 > Nagra EMP > Mytek Brooklyn ADC @ 24 bit, 96khz > Sound Devices 744T 
+744T > Apple MacBook Pro >  DSP Quattro 5.6.1 > xACT 2.51b (8454) > flac 
+Microphone Location: back of the GA pit on the stage right speaker stack
+
+
+01. Intro                          01:58.28
+02. Seek Up                        19:16.05
+03. Funny The Way It Is            06:42.22
+04. When The World Ends            04:45.45
+05. You Never Know                 07:53.33
+06. That Girl Is You               06:04.36
+07. Squirm                         06:18.16
+08. So Much To Say >               04:13.04
+09. Anyone Seen The Bridge >       01:56.18
+10. Too Much                       06:30.45
+11. The Space Between              05:54.18
+12. Sweet Up And Down              05:42.57
+13. Jimi Thing                     14:17.26
+14. (I Can’t Get No) Satisfaction  05:51.24
+15. #41                            12:00.13
+16. Say Goodbye                    06:51.34
+17. Dancing Nancies                10:45.12
+18. The Song That Jane Likes       04:07.13
+19. So Damn Lucky                  12:26.33
+20. Grey Street                    10:12.31
+Encore:
+21. Some Devil                     04:39.71
+22. Intro >                        03:40.04
+23. Don’t Drink The Water          08:20.22
+
+Total: 170:27.10
+ 
+
+notes: 
+-This is a 16 bit/44.1khz version for CD. The original 23 bit, 96khz recording exists in flac format.
+-Thanks to Chris Jones for the ticket.
+
+compiled by scott brown on 09/26/2021

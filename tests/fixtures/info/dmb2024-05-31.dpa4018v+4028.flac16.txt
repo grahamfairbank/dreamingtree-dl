@@ -1,0 +1,34 @@
+Dave Matthews Band 
+May 31, 2024
+The Cynthia Woods Mitchell Pavilion 
+The Woodlands, TX
+
+Taper:		Justin Kacz
+Source:		DPA 4018v + DPA 4028 > Sound Devices MixPre-6ii
+Location:	back of the pit, stage left
+Conversion:	Adobe Audition 2024 > CD Wave Editor v1.98 to .flac, level 8
+Mixing:		4018v L/R channels boosted the highs, mixed a single 4028 channel to center and cut the lows below 175Hz, normalize and limit, fade in/outs
+
+01 - Intro					02:09
+02 - One Sweet World				07:37
+03 - PNP > Pig					08:24
+04 - The Dreaming Tree >			12:05
+05 - Old Dirt Hill (Bring That Beat Back)	08:57
+06 - Don't Drink the Water			10:37
+07 - Looking for a Vein				03:34
+08 - Stay or Leave				04:19
+09 - #27					06:09
+10 - Jimi Thing >				11:13
+11 - So Damn Lucky				11:04
+12 - Walk Around the Moon			05:21
+13 - The Song That Jane Likes			06:13
+14 - Break Free					07:21
+15 - So Much to Say > ASTB >			06:08
+16 - Too Much					07:39
+17 - The Last Stop				10:57
+18 - You Might Die Trying			15:11
+==========
+19 - Rye Whiskey (Dave solo)			02:45
+20 - Crush					16:14
+
+Compiled by Henry Hart on 6.21.2024

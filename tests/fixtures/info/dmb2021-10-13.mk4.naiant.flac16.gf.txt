@@ -1,0 +1,48 @@
+Dave Matthews Band
+October 13, 2021
+Walmart Arkansas Music Pavilion
+Rogers, Arkansas
+
+Taper: Mark Terrell
+Source: Schoeps MK4s > Naiant IPA > Tascam DR-05X
+"Ants Marching" has an additional patch of the CAFSs > CA-ST9100 > Edirol R-09 rig (see below).
+Location: Stage left by front pit rail, under the stack, 1ft from the rail, mics DIN @ 12'
+Editing: WAV > Audacity 2.3.2 (Gain, Mixing, Normalizing, Fades, Tracking) > FLAC (Level 8)
+
+Setlist:
+01. Introduction
+02. JTR
+03. Crash Into Me >
+04. Warehouse
+05. Hello Again
+06. Pantala Naga Pampa >
+07. Rapunzel
+08. Sweet
+09. Seven
+10. You & Me
+11. Recently
+12. Granny
+13. Dancing Nancies
+14. When The World Ends
+15. Say Goodbye
+16. Louisiana Bayou
+17. Typical Situation
+18. So Damn Lucky
+19. Ants Marching
+
+Well, we did it! The outdoor DMB summer run had every show recorded in 2021 - a huge effort by the DMB community.
+Thank you to everyone across the country who helped make this possible with your sacrifices, effort, time, and money.
+As of this show, this is the first tour since summer 2012 to have every show recorded and circulating.
+
+Here's the "Great Storm in Rogers" tape. Gusting wind and sideways rain all night with the pit having rivers of water.
+On "Ants Marching" it all broke loose into a big torrential mess. I did the best I could editing it.
+The Schoeps and AT853s (yes, I ran 3 rigs luckily) were a mess on the last song, but the CAFS's are so small they made it.
+I turned the Schoeps track way down in the mix, subbed in an edited CAFS source for the last song, and edited accordingly.
+
+A huge thank you to Cindy Kearney for the ticket, rain gear, company, and more.
+Thank you to Chris Drews and Chester Copperpot for getting things arranged for this show.
+This recording is dedicated to Cindy Kearney and "chadizzy1" on antsmarching.org - thanks for all you do for the DMB world.
+Thank you to Ryan Jonik from Nine Inch Nails Live (ninlive.com) for the gear.
+Shout out to the awesome DMB crew, especially Tommy who went above & beyond helping so many tapers this tour. You're an MVP.
+
+Compiled on 2021/10/14.

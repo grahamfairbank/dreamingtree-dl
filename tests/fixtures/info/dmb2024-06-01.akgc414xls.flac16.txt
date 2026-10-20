@@ -1,0 +1,66 @@
+Dave Matthews Band
+June 1, 2024
+Dos Equis Pavilion - Dallas, TX
+
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+*=*=*=*=* 16/48 RECORDING *=*=*=*=*
+*=* NOT SUITABLE FOR CD BURNING *=*
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+
+Taper: Zachary Semcken
+Source: AKG C414 XLS (Hypercardioid) > MixPre 10 II (32 Bit Float @ 96)
+Location: Front House Left of FOH, Left of DFC, Mics ORFT @ ~11'
+Editing: WAV > Reaper 7.16 (Gain, Mixing, Normalizing, Resample 24/48) > Audacity 3.5.1 (Fades, Tracking) > FLAC (Level 8)
+
+Setlist:
+
+01. Intro
+02. When the World Ends
+03. Funny the Way It Is
+04. You Never Know
+05. Madman's Eyes
+06. #41
+07. Can't Stop
+08. Samurai Cop (Oh Joy Begin)
+09. Black and Blue Bird
+10. Warehouse¹
+11. Lover Lay Down (Aborted)
+12. Lover Lay Down²
+13. Let's Dance³
+14. Stolen Away on 55th & 3rd
+15. Lie in Our Graves
+16. Spaceman
+17. Grey Street
+18. Everyday⁴ >
+19. Ants Marching⁵
+20. Encore Break
+21. Some Devil⁶
+22. All Along the Watchtower⁷
+
+Set Time: [02:36:53.702]
+
+Dave Matthews Band:
+
+Dave Matthews - Guitar, Lead Vocals
+Tim Reynolds - Electric Guitar
+Stefan Lessard - Bass
+Buddy Strong - Keyboards, Vocals
+Rashawn Ross - Trumpet, Vocals
+Jeff Coffin - Saxophone, Flute
+Carter Beauford - Drums
+
+Notes:
+
+¹ improv intro
+² Happy Birthday to You interpolation
+³ David Bowie cover
+⁴ You Can't Rollerskate in a Buffalo Herd interpolation
+⁵ Carter solo intro; Shake Your Body (Down to the Ground) interpolation
+⁶ Dave Solo
+⁷ Bob Dylan cover; Stefan solo intro; with Stairway to Heaven interpolation
+
+Huge thank you to the DMB Road Crew for being so supportive of live taping.
+
+This recording is dedicated to all the tapers that have taught me to love archiving live music.
+
+Compiled on 2024/06/19.

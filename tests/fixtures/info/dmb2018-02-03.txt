@@ -1,0 +1,41 @@
+Dave Matthews Band
+February 3, 2018
+The Night Before
+Xcel Energy Center, Saint Paul, MN
+
+Taper: Mike Peters (<email>)
+Location: Center Ice, Right Stack ~ 14ft (A-B configuration)
+Source: AKG CK61-ULS Caps (Active Cables) > Naiant Midbox > Sony PCM-10 (24/96 LPCM)
+Conversion: Samsung Pro 64GB SD Card > USB 3.0 > Sound Forge Pro 11 (Normalize to -0.01dB, iZotope 64-bit SRC resample, iZotope MBIT+ 16-bit advanced light dither) > CD Wave Editor (Track Splits) > Foobar2000 (Tagging)
+
+*** A 24-bit 96kHz version of this source is also available ***
+
+01: Don't Drink the Water
+02: So Much to Say
+03: Satellite
+04: Why I Am
+05: You Never Know
+06: #41
+07: Granny
+08: The Space Between
+09: Alligator Pie
+10: Jimi Thing #*
+11: Runnin' Down a Dream %
+12: Samurai Cop
+13: When the World Ends
+14: Time Bomb
+15: What Would You Say
+16: You & Me
+17: Pantala Naga Pampa »
+18: Rapunzel
+-----------------------------------
+19: Grey Street
+20: Ants Marching
+
+Notes:
+
+* Robert Randolph (Pedal Steel Guitar)
+# Interpolation of Sexy M.F. (Prince cover)
+% Tom Petty cover
+
+Compiled by: Mike Peters 2/4/2018

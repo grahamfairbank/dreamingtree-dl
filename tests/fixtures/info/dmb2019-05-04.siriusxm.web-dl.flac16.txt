@@ -1,0 +1,28 @@
+Dave Matthews Band
+May 4th 2019
+New Orleans Jazz & Heritage Festival
+Fair Grounds Race Course & Slots, New Orleans, LA
+
+Source: SiriusXM HLS "Extreme" quality stream > VLC > WAV
+Conversion: Decompress AAC to WAV via VLC > Audacity (Tracking) > foobar2000 (Tagging, conversion to FLAC Level 8)
+
+01: Intro
+02: What Would You Say »
+03: Anyone Seen the Bridge »
+04: Too Much
+05: Warehouse
+06: Louisiana Bayou
+07: That Girl Is You
+08: Stand Up (for It)
+09: Don't Drink the Water
+10: #41 »
+11: Funny the Way It Is
+12: Tripping Billies
+13: Shake Me Like a Monkey
+14: Jimi Thing
+15: Joe Avery's Blues »
+16: Ants Marching
+-----------------------------------
+17: All Along the Watchtower
+
+Compiled on 4/3/2022

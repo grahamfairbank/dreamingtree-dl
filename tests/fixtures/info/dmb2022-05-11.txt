@@ -1,0 +1,65 @@
+Dave Matthews Band
+May 11, 2022
+Moody Center - Austin, TX
+
+Taper: Mark Terrell
+Source: Schoeps MK4 (Cardioid) > Baby nBox > Tascam DR-05X (24/48)
+Location: Floor, Left of FOH, Approx. 125' from Stage, Mics DIN @ 10'
+Editing: WAV > Reaper 6.57 (Gain, Mixing, Normalizing) > Audacity 3.1.3 (Fades, Tracking) > FLAC (Level 8)
+
+Setlist:
+
+01. Intro
+02. Warehouse
+03. Don't Drink the Water¹
+04. You & Me
+05. Madman's Eyes
+06. Grace Is Gone
+07. Grey Street
+08. Dave Speak: Eating in Austin
+09. Break for It
+10. Shotgun
+11. Pantala Naga Pampa >
+12. Rapunzel
+13. Satellite
+14. Funny the Way It Is
+15. Break Free
+16. What Would You Say
+17. Crush²
+18. Band Introductions
+19. Where Are You Going
+20. The Only Thing
+21. The Space Between
+22. Dancing Nancies
+23. Kill the Preacher (Tease) >
+24. Why I Am
+25. Encore Break
+26. Dave Speak: Daughter's Choice
+27. Sister
+28. Ants Marching³
+
+Total Runtime: [02:48:53.147]
+
+Dave Matthews Band:
+
+Dave Matthews - Guitar, Lead Vocals
+Tim Reynolds - Electric Guitar
+Stefan Lessard - Bass
+Buddy Strong - Keyboards, Vocals
+Rashawn Ross - Trumpet, Vocals
+Jeff Coffin - Saxophone, Flute
+Carter Beauford - Drums
+
+Notes:
+
+¹ includes prelude intro
+² with Stefan solo intro
+³ with Carter solo intro, Shake Your Body (Down to the Ground) interpolation
+
+Thank you to Ryan Jonik for the gear. If you have any unreleased Nine Inch Nails recordings, visit him at NINLive.com.
+
+Thank you to Tyler Anderson for all his assistance both before and after the show.
+
+Thank you to Tom from the DMB sound team for his constant support of the DMB taping scene.
+
+Compiled by Zachary Semcken on 2022/05/12.

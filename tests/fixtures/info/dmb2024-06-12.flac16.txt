@@ -1,0 +1,110 @@
+Dave Matthews Band
+Ameris Bank Amphitheatre
+Alpharetta, Georgia
+6/12/2024
+
+Source: Schoeps CCM4V'S>Sound Devices Mix-Pre 6 II (48/32)
+BOB/DFC/KFC/ZFC/AARP Section 102, ADA Section, Seat 15, 8' High
+DSP: Sound Devices Mix-Pre 6 II>Sound Forge 10.0>CD Wave>flac(16)
+ID3 Tagged In Foobar 2000
+Recorded By: Z-Man
+Seeded By: Z-Man
+
+Show #201 Of 2024
+
+A Team Dirty South And Home Team Recording
+
+Disc I 
+
+01 When The World Ends 
+02 Warehouse 
+03 Sweat
+04 Busted Stuff
+05 Pantala Naga Pampa >
+06 Pig
+07 Dreamgirl 
+08 Madman's Eyes 
+09 Black And Blue Bird 
+10 Dancin' Nancies
+
+Disc II 
+
+01 Dave Banter
+02 Lover Lay Down
+03 It Could Happen 
+04 So Much To Say >
+05 Anyone Seen The Bridge >
+06 Too Much
+07 Drunken Soldier
+08 American Baby Intro >
+09 Break Free
+10 Rapunzel 
+11 You Might Die Tryin'
+Encore:
+12 Dave Banter 
+13 *Something To Tell My Baby 
+14 Stop (Wasting Time)
+
+* Dave Solo Acoustic
+
+Dave Matthews - Acoustic Guitar, Electric Guitar And Vocals
+Tim Reynolds - Electric Guitar
+Steffan Lassard - Bass
+Buddy Strong - Keyboards And Vocals
+Jeff Coffin - Saxophone, Flute, Clarinet, And Vocals
+Rashawn Ross - Trumpet And Vocals
+Carter Buford - Drums
+
+dmb2024-06-12d01t01.flac:85973f46b4afb64de53cd548715b3760
+dmb2024-06-12d01t02.flac:e9dc0a0e7bf505ece3e5f3579444ff7a
+dmb2024-06-12d01t03.flac:444d102699e8d219aa271cc6ec1b84e9
+dmb2024-06-12d01t04.flac:50199a2d23f68c219c7a84ef11d8a102
+dmb2024-06-12d01t05.flac:e14fc8a45cb0a83b99068f35196c01c9
+dmb2024-06-12d01t06.flac:500fe820b858cdc9a79abfd2f8deaf2e
+dmb2024-06-12d01t07.flac:c98719018fa17723ec6cfc05be24e87d
+dmb2024-06-12d01t08.flac:97d7de728b078d04815456687668c117
+dmb2024-06-12d01t09.flac:a0ee90589addadd4177be73bfd15b7f8
+dmb2024-06-12d01t10.flac:ccc14796a85156eff403fb65a6ff047e
+dmb2024-06-12d02t01.flac:09737ab8bc818c0d7597865a9ddd3d04
+dmb2024-06-12d02t02.flac:5d234ac7981f480fa6534c074fac6e2e
+dmb2024-06-12d02t03.flac:cbd1ee7c01842859685741f99aad1917
+dmb2024-06-12d02t04.flac:892cf095f8583daac77458d152604e6b
+dmb2024-06-12d02t05.flac:5de2543d6477f371e565ed395bf22926
+dmb2024-06-12d02t06.flac:2d82eba3e63e34cb9c4866df8697f929
+dmb2024-06-12d02t07.flac:b454a144ef87de507726fc0ac41c1cff
+dmb2024-06-12d02t08.flac:f8b8459a99f30b0a3743943d4c281f28
+dmb2024-06-12d02t09.flac:9f8b43e215b3d08fba816e6df88066f2
+dmb2024-06-12d02t10.flac:765dfeed442fd846264986f9cd7b4a8c
+dmb2024-06-12d02t11.flac:6ba3e02d166721f6f8a2c8ff6fa75d4f
+dmb2024-06-12d02t12.flac:290051a391bc5fc19c3fd4a305f1937a
+dmb2024-06-12d02t13.flac:4d10ece2cba5508c42ed4449a27387f2
+dmb2024-06-12d02t14.flac:d8e87c1fb089eca6bd1a8fbaae8d55f4
+
+length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     5:19.08       56290460 B   ---   --   ---xx   flac  0.4651  dmb2024-06-12d01t01.flac
+    11:25.32      120909308 B   ---   --   ---xx   flac  0.5010  dmb2024-06-12d01t02.flac
+     6:49.01       72149996 B   ---   --   ---xx   flac  0.4286  dmb2024-06-12d01t03.flac
+     6:54.72       73198988 B   ---   --   ---xx   flac  0.4515  dmb2024-06-12d01t04.flac
+     0:41.32        7307708 B   ---   --   ---xx   flac  0.5094  dmb2024-06-12d01t05.flac
+     8:24.13       88936220 B   ---   --   ---xx   flac  0.4891  dmb2024-06-12d01t06.flac
+     5:31.24       58444892 B   ---   --   ---xx   flac  0.4767  dmb2024-06-12d01t07.flac
+     9:34.45      101359484 B   ---   --   ---xx   flac  0.4590  dmb2024-06-12d01t08.flac
+     4:42.58       49881260 B   ---   --   ---xx   flac  0.4558  dmb2024-06-12d01t09.flac
+    11:00.58      116560460 B   ---   --   ---xx   flac  0.4899  dmb2024-06-12d01t10.flac
+     1:30.57       16010108 B   ---   --   ---xx   flac  0.3901  dmb2024-06-12d02t01.flac
+     9:26.69      100004732 B   ---   --   ---xx   flac  0.4490  dmb2024-06-12d02t02.flac
+     4:00.22       42387788 B   ---   --   ---xx   flac  0.4868  dmb2024-06-12d02t03.flac
+     4:14.13       44836220 B   ---   --   ---xx   flac  0.5270  dmb2024-06-12d02t04.flac
+     1:57.08       20657660 B   ---   --   ---xx   flac  0.5462  dmb2024-06-12d02t05.flac
+     6:16.37       66413468 B   ---   --   ---xx   flac  0.5439  dmb2024-06-12d02t06.flac
+     8:51.02       93673148 B   ---   --   ---xx   flac  0.4526  dmb2024-06-12d02t07.flac
+     2:41.38       28489820 B   ---   --   ---xx   flac  0.3858  dmb2024-06-12d02t08.flac
+     8:50.50       93609644 B   ---   --   ---xx   flac  0.4560  dmb2024-06-12d02t09.flac
+     6:27.12       68295068 B   ---   --   ---xx   flac  0.5420  dmb2024-06-12d02t10.flac
+     8:24.09       88926812 B   ---   --   ---xx   flac  0.5129  dmb2024-06-12d02t11.flac
+     2:10.36       23016716 B   ---   --   ---xx   flac  0.3796  dmb2024-06-12d02t12.flac
+     3:05.59       32772812 B   ---   --   ---xx   flac  0.3352  dmb2024-06-12d02t13.flac
+     7:26.43       78775580 B   ---   --   ---xx   flac  0.5235  dmb2024-06-12d02t14.flac
+   145:46.48     1542908352 B                            0.4761  (24 files)
+
+

@@ -1,0 +1,63 @@
+Dave Matthews Band
+Deer Creek Music Center
+Noblesville, IN
+June 29, 2024
+
+Taper:  bersey
+Location:  Section E, Row G, Seat 25, Left Stack-ish, mics about 15' high
+Source:  CA-11 cardioids > CA-9100 > Sony PCM-M10 @ 24 bit/48kHz
+Conversion:  Sony PCM-M10 > PC > Sony Sound Forge Audio Studio 9.0 (fades, normalize,  
+             resample to 44.1 kHz, dither to 16 bit) > CD Wave Editor (tracking) > 
+             Trader's Little Helper (encode to flac,level 6) > foobar 2000 (tagging)
+
+**************************************************************************************
+********************RECORDING IS NOT FOR SALE OR ANY COMMERCIAL USE*******************
+**************************************************************************************
+
+01. Intro	                            02:45.00
+02. What Would You Say                      05:24.00
+03. Crash Into Me                           05:55.00
+04. Bartender                               13:32.00
+05. Old Dirt Hill (Bring That Beat Back)    10:28.00
+06. Spoon                                   07:22.00
+07. Squirm                                  05:57.00
+08. Bass Intro to...                        01:17.00
+09. Crush                                   16:27.00
+10. The Ocean and the Butterfly             04:21.00 
+11. She                                     05:30.00
+12. Grace Is Gone                           08:24.00 
+13. Monsters                                06:28.00
+14. Let's Dance *                           05:55.00
+15. Stolen Away on 55th & 3rd               07:44.00 
+16. So Much to Say >                        04:16.00
+17. Anyone Seen the Bridge >                01:59.00
+18. Too Much                                06:14.00
+19. Kill the Preacher                       02:40.00
+20. Why I Am                                04:55.00
+21. Two Step                                20:27.00
+22. Encore Break                            04:16.00
+23. Just Breathe ^                          04:58.00
+24. So Damn Lucky ~                         11:16.00 
+     
+Total:                                    2:41:00.00
+  
+
+Notes:
+* David Bowie cover
+^ Dave solo, Pearl Jam cover
+~ with Thank You (Falettinme Be Mice Elf Agin) interpolation
+
+
+Dave Matthews Band:
+Dave Matthews - acoustic guitar, electric guitar, vocals
+Carter Beauford - drums, percussion, backing vocals
+Stefan Lessard - electric bass guitar, bass ukulele
+Tim Reynolds - electric guitar
+Jeff Coffin - saxophones, flute, pennywhistle, backing vocals
+Rashawn Ross - trumpet, backing vocals
+Arthur "Buddy" Strong - keys, backing vocals
+
+
+Thanks to Dave Matthews Band and Deer Creek for letting me tape the show!
+
+Compiled by Kurt Berwanger on July 4, 2024

@@ -1,0 +1,8 @@
+# Dev/test image: repo is bind-mounted at /app, nothing copied in.
+FROM python:3.11-slim
+ENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1
+RUN apt-get update && apt-get install -y --no-install-recommends ffmpeg flac ca-certificates \
+    && rm -rf /var/lib/apt/lists/*
+COPY requirements.txt requirements-dev.txt /tmp/
+RUN pip install --no-cache-dir -r /tmp/requirements-dev.txt
+WORKDIR /app

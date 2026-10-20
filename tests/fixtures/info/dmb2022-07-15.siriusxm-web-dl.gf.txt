@@ -1,0 +1,58 @@
+Dave Matthews Band
+July 15, 2022
+Freedom Mortgage Pavilion
+Camden, NJ
+
+Source: SiriusXM HLS "Extreme" quality stream > ffmpeg-5.0.1-win64-full_build
+Conversion: Decompress AAC to WAV via ffmpeg-5.0.1-win64-full_build > CD Wave Editor 1.97 (Tracking) > foobar2000 (Tagging, conversion to FLAC Level 8)
+
+01: Introduction
+02: Fool to Think
+03: Big Eyed Fish
+04: Bartender
+05: Samurai Cop (Oh Joy Begin)
+06: So Much to Say
+07: Anyone Seen the Bridge
+08: Too Much
+09: Sweet
+10: Rooftop
+11: Seek Up
+12: When the World Ends
+13: Walk Around the Moon
+14: Pantala Naga Pampa
+15: Rapunzel
+16: Grace Is Gone
+17: You Might Die Trying
+18: Come On Come On
+19: What You Are
+20: Everyday
+21: Don't Drink the Water
+22: Encore Break
+23: Sister
+24: Ants Marching
+25: Outro
+
+Compiled on 7/16/2022
+
+Notes:  Original media info for ADTS format AAC prior to conversion to FLAC for distribution is included below for reference.  No further "lossy" conversions took place in processing this capture.
+
+General
+Complete name                            : dmb2022-07-15.aac
+Format                                   : ADTS
+Format/Info                              : Audio Data Transport Stream
+File size                                : 319 MiB
+Overall bit rate mode                    : Variable
+
+Audio
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format version                           : Version 4
+Format profile                           : LC
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 kHz
+Frame rate                               : 43.066 FPS (1024 spf)
+Compression mode                         : Lossy
+Stream size                              : 319 MiB (100%)
+

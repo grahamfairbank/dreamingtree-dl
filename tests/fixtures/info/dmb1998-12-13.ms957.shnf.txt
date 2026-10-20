@@ -1,0 +1,117 @@
+Dave Matthews Band
+
+December 13, 1998
+
+Target Center
+
+Minneapolis, MN
+
+
+
+Taper:		Stephen Pzynski
+
+Source:		Sony MS957 > D6 (analogue)
+
+
+
+Conversion:	(D6>DAT) DA-P1 > COAX/TOSLINK converter >
+
+		Dio2448 > Cool Edit Pro v1.2a > CDWav >
+
+		MKWact > Plextor 12x/8x/32x via Adaptec
+
+
+
+Disc #1:
+
+1.	Intro			2:11
+
+2.	Best of What's Around	8:08
+
+3.	Don't Drink the Water	7:54
+
+4.	Jimi Thing		12:50
+
+5.	Crash Into Me		6:45
+
+6.	Too Much		4:49
+
+-------------------------------------
+
+Total:				42:37
+
+
+
+Disc #2:
+
+1.	PNP Intro ->		4:49
+
+2.	Pantala Naga Pampa ->	0:40
+
+3.	RAPUNZEL		11:23
+
+4.	Lie In Our Graves	14:50
+
+5.	Say Goodbye		10:17
+
+6.	The Last Stop		11:16
+
+-------------------------------------
+
+Total:				53:15
+
+
+
+Disc #3:
+
+1.	Crush			11:02
+
+2.	Rhyme & Reason		5:41
+
+3.	Stay (Wasting Time)	11:38
+
+Encore:
+
+4.	Christmas Song		6:27
+
+5.	Two Step		12:46
+
+-------------------------------------
+
+Total:				47:34
+
+
+
+Entire show with Tim Reynolds
+
+
+
+notes:
+
+Dropouts during BOWA, and LIOG
+
+
+
+I edited out the tape flips
+
+
+
+I did a bass lift/mid-range cut EQ job in Cool Edit.  It still sounds
+
+below average, but it's better than before.
+
+
+
+This show was taped with a D6 which is the analogue predecessor
+
+to the D7.  I don't know of the conversion from the D6 tapes to the
+
+DAT I got it on, but it came straight from the taper via Adam Meyer.
+
+So, thank you Adam for the DAT (wow, people really DO live in
+
+South Dakota :).
+
+
+
+Compiled by Henry Hart on 5.17.02

@@ -1,0 +1,46 @@
+Dave Matthews Band 
+September 20, 2022
+Hollywood Bowl - Hollywood, CA
+
+Taper: Jon Koch 
+Source: Schoeps MK4 > active cables > Nbox Platinum > Edirol R-09HR (24/48) 
+Location: FOH, DFC, Mics DIN ~12'  
+Transfer: Edirol R-09HR > SDHC > PC 
+Edit: wav > Sony Soundforge 9.0a > wav > CD Wave > wav 
+Conversion: wav > Trader's Little Helper 2.4.1 > .flac 
+
+---PRESERVE THE QUALITY, PLEASE DO NOT ENCODE INTO MP3 OTHER THAN FOR PERSONAL USE--- 
+
+01: Intro				[01:35]
+02: Samurai Cop (Oh Joy Begin)		[06:30]
+03: Rooftop				[07:32]
+04: The Maker				[07:48]
+05: Louisiana Bayou			[09:51]
+06: Fool to Think			[04:31]
+07: Crush				[17:05]
+08: The Ocean and the Butterfly		[04:03]
+09: What Would You Say			[06:28]
+10: Seek Up@				[23:49]
+11: Sledgehammer			[06:20]
+12: Dancing Nancies >			[09:43]
+13: Warehouse				[12:31]
+14: Something to Tell My Baby+		[02:30]
+15: Interlude [What You Are]+		[01:02]
+16: Drive In Drive Out+			[07:07]
+17: If Only+				[07:04]
+18: Madman's Eyes+			[08:27]
+19: So Damn Lucky			[10:45]
+20: Tripping Billies^			[05:58]
+21: Encore break/intro			[08:10]
+22: Sister				[03:25]
+23: Two Step				[13:13]
+Total:	      		       	       [3:05:27] 
+
+@ w/ Robert Glasper (keyboards)
++ w/ string section conducted by Dave Campbell
+^ w/ Ann Marie Simpson (violin) 
+
+Notes: This recording is dedicated to the memory of LeRoi Moore.
+Thanks to the DMB sound crew for all their work and for providing space at FOH.  
+
+Compiled on 09.21.22

@@ -1,0 +1,40 @@
+Dave Matthews Band
+August 21, 1998
+Blockbuster Pavilion
+Charlotte, NC
+
+Taper:		???
+Source:		AKG 480 CK61
+
+Conversion:	DA-P1 > COAX/TOSLINK converter > Dio2440 >
+		Cool Edit Pro v1.2a > CDWav > MKWact >
+		Plextor 12x/8x/32x via Adaptec
+
+Disc #1:
+1.	Intro				1:36
+2.	One Sweet World 		9:30
+3.	The Song That Jane Likes 	4:26
+4.	PNP Intro ->			2:21
+5.	Pantala Naga Pampa ->		0:40
+6.	Rapunzel			7:28
+7.	Crush 				12:45
+8.	Two Step 			11:29
+
+Disc #2:
+1.	Tripping Billies 		7:20
+2.	#41*				9:45
+3.	Warehouse*			11:07
+4.	Stay (Wasting Time)*		8:30
+5.	Pig 				10:32
+
+Disc #3:
+1.	Don't Drink the Water 		8:52
+2.	Typical Situation 		16:31
+3.	All Along the Watchtower 	17:19
+Encore:
+4.	Ants Marching 			7:53
+
+* w/Herbie Hancock
+Entire show, except "Ants Marching", with Tim Reynolds
+
+Compiled by Henry Hart on 12.9.01

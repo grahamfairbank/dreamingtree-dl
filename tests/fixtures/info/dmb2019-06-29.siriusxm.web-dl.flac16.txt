@@ -1,0 +1,57 @@
+Dave Matthews Band
+June 29, 2019
+Ruoff Home Mortgage Music Center
+Noblesville, IN
+
+Source: SiriusXM HLS "Extreme" quality stream > ffmpeg-20200403-52523b6-win64-static
+Conversion: Decompress AAC to WAV via ffmpeg-20200403-52523b6-win64-static > CD Wave Editor 1.97 (Tracking) > foobar2000 (Tagging, conversion to FLAC Level 8)
+
+01: Introduction
+02: Anyone Seen the Bridge >
+03: Too Much
+04: Louisiana Bayou
+05: Minarets >
+06: Crush
+07: Samurai Cop (Oh Joy Begin)
+08: Idea of You
+09: Tripping Billies
+10: Here On Out
+11: Squirm
+12: Warehouse
+13: Fool to Think
+14: Again and Again
+15: Rooftop
+16: The Song That Jane Likes >
+17: Water into Wine
+18: Satellite
+19: Don't Drink the Water
+20: Pantala Naga Pampa >
+21: Rapunzel
+22: Two Step >
+23: Ants Marching
+24: Outro
+
+Compiled on 5/9/2020
+
+Original media info for ADTS format AAC prior to conversion to FLAC for distribution is included below for reference.  No further "lossy" conversions took place in processing this capture.
+
+General
+Complete name                            : dmb2019-06-29.aac
+Format                                   : ADTS
+Format/Info                              : Audio Data Transport Stream
+File size                                : 267 MiB
+Overall bit rate mode                    : Variable
+
+Audio
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format version                           : Version 4
+Format profile                           : LC
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 kHz
+Frame rate                               : 43.066 FPS (1024 spf)
+Compression mode                         : Lossy
+Stream size                              : 267 MiB (100%)
+

@@ -1,0 +1,55 @@
+Dave Matthews Band
+November 6, 2021
+Van Andel Arena - Grand Rapids, MI
+
+Taper: Zachary Semcken
+Source: AKG C414 XLII (Hypercardioid) > Zoom F6 (32 Bit Float)
+Location: Back of FOH, DFC, on floor approx. between Sec. 106 & 125, Mics DIN @ 12'.
+Editing: WAV > Reaper 6.40 (Gain, Mixing, Normalizing) > Audacity 3.1.0 (Fades, Tracking) > FLAC (Level 8)
+
+01. Intro
+02. That Girl Is You
+03. Funny the Way It Is
+04. Satellite
+05. Seek Up
+06. Stay or Leave
+07. She
+08. Where Are You Going
+09. Pantala Naga Pampa >
+10. Rapunzel
+11. You & Me
+12. Why I Am
+13. Again and Again
+14. Warehouse&
+15. Madman's Eyes
+16. Grace Is Gone
+17. What Would You Say
+18. Dancing Nancies
+19. Band Intros
+20. Louisiana Bayou
+21. Grey Street
+22. Encore Break
+23. Corn Bread* >
+24. Ants Marching%
+
+Dave Matthews Band:
+
+Dave Matthews - Guitar, Lead Vocals
+Tim Reynolds - Electric Guitar
+Stefan Lessard - Bass
+Buddy Strong - Keyboards, Vocals
+Rashawn Ross - Trumpet, Vocals
+Jeff Coffin - Saxophone, Flute
+Carter Beauford - Drums
+
+Notes:
+
+& UTTAD intro
+* Stop intro, Down By The Riverside interpolation
+% Carter solo intro
+
+Huge thanks to the DMB Crew for letting me set up at FOH.
+
+This recording is dedicated to all the tapers before me who continue to preserve live music.
+
+Compiled on 2021/11/07.

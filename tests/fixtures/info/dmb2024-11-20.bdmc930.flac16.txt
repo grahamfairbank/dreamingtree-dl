@@ -1,0 +1,36 @@
+Dave Matthews Band
+November 20, 2024
+Mohegan Sun Arena
+Uncasville, CT
+
+Taper:		Steven Walkuski (<email>)
+Source:		Beyerdynamic MC930 (Cardioids) > Lunatec V3 (Digital out)> Tascam HD-P2 (recorded as 24-bit/48kHz, resampled to 16-bit)
+Location:	front row of the seats, next to the stage left stack pit back corner
+Conversion:	Adobe Audition 2024 > CD Wave Editor V1.98 to flac, level 8
+Mixing:		Scooped the bass -5dB at 60Hz, various volume adjustments to amplify
+
+01 - Intro					02:15
+02 - Bartender					13:29
+03 - Hello Again				06:53
+04 - Sweet					07:08
+05 - Walk Around the Moon			06:34
+06 - PNP > Rapunzel				08:14
+07 - Lover Lay Down				09:07
+08 - Fool to Think				04:57
+09 - The Song That Jane Likes >			04:06
+10 - Seek Up					21:38
+11 - Corn Bread					08:04
+12 - Warehouse					12:02
+13 - Again and Again				05:43
+14 - Gravedigger				05:10
+15 - Monsters					06:04
+16 - What You Are				06:53
+17 - The Space Between				04:06
+18 - All Along the Watchtower			19:29
+==========
+19 - Singing From the Windows (Dave solo)	04:24
+20 - Two Step					16:00
+
+There were quick volume adjustments during the beginning of Bartender that were smoothed out as best as possible.
+
+Compiled by Henry Hart on 11.23.2024

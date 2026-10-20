@@ -1,0 +1,42 @@
+Dave Matthews Band
+6/24/2023
+Merriweather Post Pavilion
+Columbia, MD
+
+Source: Microtech Geffell SMS2000/M20 (cards) > Sound Designs MixPre6 (24/44.1)
+	NOS, 11ft high, Sec 201 Row H (In front of right stack 50 ft away)
+Taper:	Bill Lakenan
+Conversion: WAV > Audacity (normalized and patched, No EQ) > FLAC
+
+0. Intro
+1. Satellite *
+2. Pantala Naga Pampa * >
+3. Rapunzel *
+4. Dancing Nancies *
+5. Madman's Eyes *
+6. Looking for a Vein *
+7. Grace Is Gone *
+8. Funny the Way It Is *
+9. It Could Happen *
+10. So Damn Lucky *
+11. Break Free *
+12. So Much to Say * >
+13. Anyone Seen the Bridge * >
+14. Too Much *
+15. Walk Around the Moon *
+16. You Never Know *
+17. Why I Am *
+18. (Brick House *)
+19. Louisiana Bayou *
+-------- ENCORE BREAK --------
+20. Singing From the Windows +
+21. Crash Into Me *
+
+Song Notes:
+* Buddy, Carter, Dave, Jeff, Rashawn, Stefan, Tim
++ Dave Solo
+(song name) indicates a partial song
+> indicates a segue into next song
+
+Source Notes:
+Due to a power issue, the original source was missing about 4 minutes of audio.  Thanks to Henry Hart, all was not lost.  This gap was patched with audio from a pair of DPA 4061s on the same stand/location.  The DPA source was patched in from 3:04 in Grace is Gone to 0:10 into Funny the Way It Is. 

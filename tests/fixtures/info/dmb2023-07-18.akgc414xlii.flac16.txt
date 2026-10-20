@@ -1,0 +1,70 @@
+Dave Matthews Band
+July 18, 2023
+PNC Bank Arts Center - Holmdel, NJ
+
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+*=*=*=*=* 16/48 RECORDING *=*=*=*=*
+*=* NOT SUITABLE FOR CD BURNING *=*
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+
+Taper: Zachary Semcken
+Source: AKG C414 XLII (Hypercardioid) > MixPre 10 II (32 Bit Float @ 96)
+Location: FOH, Stage Right, DFC, Mics PAS @ 10'
+Editing: WAV > Reaper 6.81 (Gain, Mixing/Post Processing, Normalizing, Resample 32/48) > Audacity 3.3.3 (Fades, Tracking) > FLAC (Level 8)
+
+Setlist:
+
+01. Intro
+02. American Baby Intro¹
+03. So Right
+04. Spaceman
+05. All You Wanted Was Tomorrow
+06. Dancing Nancies >
+07. Warehouse²
+08. It Could Happen
+09. Gravedigger³
+10. Fool in the Rain⁴
+11. Looking for a Vein
+12. Grace Is Gone
+13. What Would You Say
+14. Too Much (Fake) >
+15. Brick House⁵
+16. Old Dirt Hill (Bring That Beat Back)
+17. Grey Street
+18. Band & Warren Haynes Introductions
+19. Monsters⁶
+20. Tripping Billies⁶⁷
+21. All Along the Watchtower⁶⁸
+22. Encore Break
+23. Sister
+24. Crush⁹
+
+Set Time: [02:41:13.109]
+
+Dave Matthews Band:
+
+Dave Matthews - Guitar, Lead Vocals
+Tim Reynolds - Electric Guitar
+Stefan Lessard - Bass
+Buddy Strong - Keyboards, Vocals
+Rashawn Ross - Trumpet, Vocals
+Jeff Coffin - Saxophone, Flute
+Carter Beauford - Drums
+
+Notes:
+
+¹ with Buddy intro
+² Louie Loue interpolation
+³ with Carter solo intro
+⁴ Led Zeppelin cover
+⁵ The Commodores cover
+⁶ with Warren Haynes on Electric Guitar
+⁷ Nature intro
+⁸ Bob Dylan cover; Warren solo intro; Warren on vocals for final chorus
+⁹ with Stefan solo intro
+
+After Warehouse, Dave sings the first few lines of Barbara Streisand's "The Way We Were" acapella.
+
+This recording is dedicated to all the tapers that have taught me to love archiving live music.
+
+Compiled on 2023/07/21.

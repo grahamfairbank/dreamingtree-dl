@@ -1,0 +1,94 @@
+Dave Matthews Band
+Trax
+Charlottesville, VA
+Remember Two Things Release Party
+November 9, 1993
+
+
+Taper:      	Unknown
+Source Info:    SBD -> Cassette (unknown generation) -> CD
+
+Conversion: Adam Nelson (<email>)
+CD > flac:  EAC (secure mode, all tracks 100%) -> WAV -> flac frontend (level 6)
+Tracks split using CD Wave v1.93.3
+
+Reconversion: Flac>wav>Soundforge 8 to fix errors>fixed wav>Flac Frontend at Level 6
+
+Fixed-v2 Reconversion: flac to wav via dBpoweramp > Adobe Audition 2019 > CDWAV to flac, level 8
+
+
+Track | Name           	 		| Time (m:s)
+------------------------------------------------------------------
+t01	Minarets 			08:00.55
+t02	Satellite			05:43.65
+t03	Song That Jane Likes		04:18.15
+t04	Granny				05:04.16
+t05	One Sweet World			08:24.36
+t06	Lie In Our Graves		05:26.64
+t07	Dancing Nancies			07:36.41
+t08	True Reflections		07:30.04
+t09	Say Goodbye *			05:33.33
+t10	Heathcliff's Haiku Warriors *	03:37.23
+t11	Christmas Song ^		05:20.62
+t12	Ants Marching			05:47.17
+t13	Tripping Billies		05:16.46
+t14	Lover Lay Down			08:01.59
+t15	Jimi Thing			11:02.44
+t16	Seek Up				14:31.72
+t17	Recently			13:16.13
+t18	Angel From Montgomery~		06:35.61
+t19	Warehouse			09:46.68
+TOTAL:				     02:20:55.74	
+
+NOTES:
+----------
+* = Dave solo
+^ = Dave & Carter
+~ = Dave & Boyd
+
+This is the Charlottesville Remember Two Things Release Party.
+
+This has the last full performance of Heathcliff's Haiku Warriors. Dave only played it in full 3 times (the others on 03/23 and 07/06/93...plus a few teases).
+
+Warehouse has some alternate lyrics in the begining of the song.
+
+There are a few spots of static in Ants.
+
+The start of Jimi Thing is missing, plus there is a 4 sec dropout at the end of the song.
+
+There is some skipping and static at the end of True Reflections.
+
+These rare older shows have been collected and converted through a collaborative effort to get them into circulation. Sometimes these shows do not have the best sound quality (and maybe that's why they aren't circulated much to begin with), but people should have access to them. 
+
+Thanks to Dan Pyrik for the CD source used for the conversion. 
+
+Compiled By Adam Nelson on November 9, 2006 (Hey it's the 13th anniversery of this show!)
+
+
+Reconversion notes:
+-------------------
+Reviewed this source I received from Adam. The tape had problems on other tracks so there was a lot more fixing up to do. Using Soundforge 8, applied pencil tool to tracks affected by static spikes.  Other errors fixed as noted below.  Created new flac files and fingerprints using Flac Frontend. 
+
+Errors fixed:
+-------------
+Static at 7:41-7:42 & 7:45 of OSW
+Left channel intermittent dropoff between 1:33 & 1:48, 5:16 to 5:34 and 6:14 to 6:38 of Nancies, copied right channel  
+Static from 5:57 to 6:14 of True Reflections,static removed but skips like a broken record remain. Probably present on the cd source due to dirt or scratches and not the original DAT.
+Static at 5:03 of Christmas Song, applied crossfade since a dropout was there after removing static
+Static at 2:18,2:20-2:21 & 2:23-2:24 of Ants
+Dropout at 9:54 of Jimi, applied crossfade over 4 second period to make more seamless
+
+Recompiled and reconverted by Tom Gambichler on January 18, 2010
+
+---------------------------------------
+
+Fixed-v2 by Henry Hart December 5/6, 2021:
+
+Fixed the speed/pitch issues (extended the length of the recording my roughly 5 minutes
+Significant bass lift for improved audio
+Notch filtered out the analog line noise
+Deleted the tracking blips at the start of each song
+Amplified the whole show by several dB
+Blended the gap between Lie In Our Graves and Dancing Nancies
+Fade out
+

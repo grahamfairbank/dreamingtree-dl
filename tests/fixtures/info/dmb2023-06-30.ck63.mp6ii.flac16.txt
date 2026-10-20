@@ -1,0 +1,43 @@
+Dave Matthews Band
+Deer Creek
+Ruoff Music Center
+Noblesville, IN
+June 30, 2023
+
+Taper: Jason Johnson (<email>)
+Location: Box 34, DIN @ 15'
+Source: akg ck63s > nbob actives > SD MixPre-6ii (32/48)
+Conversion: MixPre-6ii > Adobe Audition (hi-pass filter, dither, resample) > Trader's Little Helper > Foobar2000
+
+01 Intro
+02 Tripping Billies
+03 When the World Ends
+04 You Might Die Trying
+05 Walk Around the Moon
+06 Madman's Eyes [fake] >
+07 Minarets
+08 Sledgehammer
+09 Looking for a Vein
+10 Funny the Way It Is
+11 It Could Happen
+12 Bartender
+13 Rhyme & Reason
+14 Break Free
+15 Proudest Monkey >
+16 Satellite [fake] >
+17 So Damn Lucky
+18 Where Are You Going
+19 Grey Street
+20 All Along the Watchtower
+21 Encore Break
+22 Funny How Time Slips Away *
+23 Warehouse
+
+Notes:
+* Dave solo
+
+24/48 version also exists.
+Thanks to Scott and Kathy for the hospitality.
+
+Compiled by Jason Johnson on July 1, 2023.
+www.greppson.net

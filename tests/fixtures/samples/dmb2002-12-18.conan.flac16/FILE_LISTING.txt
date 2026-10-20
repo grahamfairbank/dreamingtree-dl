@@ -1,0 +1,8 @@
+.:
+total 47264
+-rw-r--r-- 1 user user      232 Oct 20 06:51 dmb2002-12-18.conan.ffp
+-rw-r--r-- 1 user user  1023084 Oct 20 06:51 dmb2002-12-18d1t01.flac
+-rw-r--r-- 1 user user 24166820 Oct 20 06:51 dmb2002-12-18d1t02.flac
+-rw-r--r-- 1 user user   382331 Oct 20 06:51 dmb2002-12-18d1t03.flac
+-rw-r--r-- 1 user user 22810376 Oct 20 06:51 dmb2002-12-18d1t04.flac
+-rw-r--r-- 1 user user      865 Oct 20 06:51 dmb2002-12-18.txt

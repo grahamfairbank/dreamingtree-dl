@@ -1,0 +1,54 @@
+Dave Matthews Band
+Riverport Amphitheatre, St. Louis, MO
+September 19, 2000
+
+Taper:		Jeff Travitz
+Source:		Schoeps MK4v (ortf) > Schoeps kcy actives > Schoeps vms021b >
+		Sony sbm-1 > Sony D10
+		
+Location:	11th row, stage left stack
+
+DAT > CD:	Jeff Travitz:  DAT > Standalone CDR recorder
+
+CD  > SHN:	Louie Rendek(<email>):  Plextor 8x20 > EAC 0.85 >
+		CDWAV for retracking > SHN
+
+Disc One:
+
+01:	Intro					-	02:15
+02:	Best of What's Around			-	06:32
+03:	Satellite				-	06:06
+04:	Don't Drink the Water intro *		-	01:56
+05:	Don't Drink the Water *			-	07:49
+06:	Drive In Drive Out			-	06:39
+07:	Angel From Montgomery			-	04:52
+08:	One Sweet World intro			-	03:18
+09:	One Sweet World				-	06:33
+10:	Busted Stuff				-	07:38
+11:	Jimi Thing				-	16:47
+
+Total:						-	70:31
+
+
+Disc Two:
+
+01:	disc two intro				-	00:45
+02:	Grey Street				-	07:56
+03:	True Reflections			-	07:45
+04:	So Much To Say ->			-	04:23
+05:	A.S.T.B. -> Too Much (tease) ->+	-	01:52
+06:	Ants Marching -> + 			-	08:41
+07:	Two Step +				-	28:00
+08:	Pantala Naga Pampa ->			-	00:40
+09:	Rapunzel				-	07:04
+
+Total:						-	67:13
+
+
+* - w/ Bela Fleck
++ - w/ Bela Fleck & the Flecktones
+
+Note:   a bit of wind noise in spots.  there are fade ins/outs at the beginning and end
+	of each disc done by jeff.  the crowd noise between Two Step and the encore was
+	edited out by jeff so the show would fit on two discs.
+

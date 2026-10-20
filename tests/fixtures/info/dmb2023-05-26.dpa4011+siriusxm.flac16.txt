@@ -1,0 +1,38 @@
+Dave Matthews Band
+May 26, 2023
+Bridgestone Arena
+Nashville, TN
+
+Tapers: 	Henry Hart & John Stanfield
+Location:	FOH directly behind the soundboard/cameras, back of the floor
+Source:	DPA 4011 > Sound Devices MixPre-6ii  + SiriusXM stream rebroadcast capture
+Conversion:	Adobe Audition 2023 multichannel mixing, SiriusXM stream to mono, several cut/stretch operations > CDWAV v1.98 to .flac
+
+01 - Intro							02:57
+02 - When the World Ends				04:16
+03 - Satellite						06:36
+04 - Madman's Eyes					07:45
+05 - Busted Stuff						06:13
+06 - PNP » Rapunzel					08:21
+07 - Walk Around the Moon				06:19
+08 - Virginia in the Rain				08:44
+09 - Don't Drink the Water				07:48
+10 - Jimi Thing » 					10:42
+11 - Brick House						04:11
+12 - Monsters						05:27
+13 - So Damn Lucky					11:23
+14 - All Along the Watchtower (w/Zac Brown)	11:01
+15 - #41							09:56
+16 - I Want You (She's So Heavy) »			01:59
+17 - After Everything					04:00
+18 - Granny							05:04
+19 - Kill the Preacher »				02:06
+20 - Why I Am						05:05
+21 - Louisiana Bayou					16:01
+==========
+22 - Looking for a Vein					03:46
+23 - Grey Street						07:20
+
+Compiled on 5.29.23
+
+John and I taped the first seven Summer 2002 Tour shows together as 5.1 mixes... an incredible run of shows with so many friends long ago. We lost touch for many years and only reconnected recently during the COVID shutdown. This show is the first time we've seen each other since that summer and I'm so glad we both made this last minute decision to make it happen! Warms the heart. <3

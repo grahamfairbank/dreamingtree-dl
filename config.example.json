@@ -1,0 +1,37 @@
+{
+  "dreamingtree": {
+    "base_url": "https://dreamingtree.org",
+    "username": "",
+    "password": ""
+  },
+  "qbittorrent": {
+    "url": "http://qbittorrent:8080",
+    "username": "admin",
+    "password": "change-me",
+    "category": "dreamingtree-dl"
+  },
+  "paths": {
+    "staging": "/staging",
+    "library_root": "/library"
+  },
+  "library_mounts": {
+    "/srv/music/": "/library/"
+  },
+  "destinations": [
+    {
+      "label": "Dave Matthews Band",
+      "path": "/srv/music/",
+      "folder_template": {
+        "dmb": "DMB_Live/{torrent_name}",
+        "default": "Dave_Tim/{torrent_name}"
+      }
+    }
+  ],
+  "retention_days": 90,
+  "art": {
+    "use_torrent_image": true,
+    "use_dmbalmanac": true
+  },
+  "convert_to_flac": true,
+  "post_publish_command": ""
+}

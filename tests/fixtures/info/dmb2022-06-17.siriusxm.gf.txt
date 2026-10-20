@@ -1,0 +1,32 @@
+Dave Matthews Band
+June 17, 2022
+Xfinity Center, Mansfield, MA
+
+Source: SiriusXM HLS "Extreme" quality stream > VLC > WAV
+Conversion: Decompress AAC to WAV via VLC > Audacity (Tracking) > foobar2000 (Tagging, conversion to FLAC Level 8)
+
+01: Intro
+02: That Girl Is You
+03: Satellite
+04: The Best of What's Around
+05: Crash into Me
+06: Seek Up
+07: Samurai Cop (Oh Joy Begin)
+08:The Song That Jane Likes
+09: Grey Street
+10: Lover Lay Down
+11: Drive In Drive Out
+12: You & Me
+13: Madman's Eyes
+14: So Right
+15: Stay or Leave
+16: Lie in Our Graves
+17: Come On Come On
+18: Don't Drink the Water
+19: Louisiana Bayou
+-----------------------------------
+20: Funny How Time Slips Away
+21: You Might Die Trying
+
+Compiled on 6/18/2022
+

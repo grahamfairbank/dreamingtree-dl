@@ -1,0 +1,46 @@
+Dave Matthews Band
+Alpine Valley Music Theatre
+East Troy, WI
+June 30, 2024
+
+Taper: Jason Johnson (<email>)
+Location: Sec 202 Row X Seats 148/149, DIN @ 15'
+Source: akg ck61s > nbob actives > SD MixPre-6ii (32/48)
+Conversion: MixPre-6ii > Adobe Audition (hi-pass filter, dither, resample) > Trader's Little Helper > Foobar2000
+
+01: Intro
+02: Hello Again
+03: JTR
+04: Fool in the Rain
+05: Virginia in the Rain
+06: Spoon
+07: Madman's Eyes
+08: Pig
+09: Lying in the Hands of God >
+10: American Baby Intro
+11: The Space Between [aborted]
+12: The Space Between
+13: Let's Dance
+14: Looking for a Vein
+15: You Might Die Trying
+16: Satellite >
+17: Will It Go Round in Circles
+18: Warehouse
+19: Drum solo >
+20: Gravedigger
+21: Grey Street
+22: All Along the Watchtower
+23: Encore Break
+24: Just Breathe *
+25: Ants Marching [fake] >
+26: Halloween
+
+Notes:
+* Dave solo
+Thanks to Crumbo for the all the help.
+Thanks to Beth and Chris for swapping seats.
+
+24/48 version also exists.
+
+Compiled by Jason Johnson on July 1, 2024.
+www.greppson.net

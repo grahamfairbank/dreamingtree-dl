@@ -1,0 +1,52 @@
+Dave Matthews Band
+July 13th, 2024
+Jiffy Lube Live
+Bristow, VA
+
+Source 1: Neumann AK-40s (Rear Pit, ROC, 10' on stand)->Active Cables->Neumann KM-100s->Tascam DR-70D (24 bit/48 kHz)
+Source 2: AKG C460Bs/CK 63-ULS (Rear Pit, ROC, 10' on stand)->Tascam DR-70D (24 bit/48 kHz)
+Transfer: SDHC -> PC
+Mixing: Sony Vegas 7.0
+Processing: Fade in, fade out & tracking using SoundForge 11.0
+Conversion: WAV -> Flac Level 8 using Trader's Little Helper
+Recorded by: Tim Brown (<email>)
+
+01. Pantala Naga Pampa ->
+02. Granny
+03. The Song That Jane Likes
+04. Fool In The Rain
+05. The Dreaming Tree
+06. Fool To Think
+07. What Would You Say
+08. Black And Blue Bird
+09. Jimi Thing ->
+10. Brick House
+11. Virginia In The Rain
+12. American Baby Intro ->
+13. Break Free
+14. Dancing Nancies
+15. Spaceman
+16. Monsters
+17. Say Goodbye
+18. Cornbread (with Joe Lawlor)
+19. #41 (with Joe Lawlor)
+20. Encore Break
+21. Baby Blue (Dave Solo)
+22. The Space Between ->
+23. Don't Drink the Water
+
+Thanks to Ron Powell for the ticket, again!
+Thanks to Jill for the soundcheck
+
+
+
+
+
+
+
+
+
+
+
+
+

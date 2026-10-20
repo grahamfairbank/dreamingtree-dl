@@ -1,0 +1,41 @@
+Dave Matthews Band
+Tweeter Center Chicago
+Tinley Park, IL
+July 3rd, 2003
+
+Taper: 		Ryan Hoyt ( <email> )
+Equipment:	DPA 4022 > Lunatec V3 (16 @ 44.1) > Sony D100
+Location:	10th Row right stack, stand @ 12 feet, ORTF
+DAT > SHN:	D100 > AOpen aw-850 > CDWave > SHNtool
+
+
+*** Please do not convert to MP3 or other lossy formats ***
+
+01	Intro			02:50.40
+02 	Don't Burn The Pig	07:41.05
+03	Granny			05:41.66
+04	Fool To Think		05:42.67
+05	One Sweet World Intro >	03:26.13
+06	One Sweet World		07:06.63
+07	Pay For What You Get	06:37.27
+08	Drive In Drive Out	08:05.25
+09	Bartender		16:43.53
+10	You Never Know		07:41.22
+11	Where Are You Going	05:03.14
+12	#41			11:36.65
+13	Too Much		05:31.65
+14	Dreaming Tree		10:32.21
+15	Tripping Billies	05:57.34
+16	Crash			07:05.31
+17	Pantala Naga Pampa >	00:39.57
+18	Rapunzel		07:12.30
+19	Encore Break		08:44.02
+20	E: (Blue Water) >	01:20.34
+21	E: Typical Situation	13:47.14
+22	E: (Intro) >		04:09.18
+23	E: What You Are		06:14.46
+
+Notes:
+- Entire set with Butch Taylor
+- A huge thanks to George Wang for loaning me the 4022 > V3 combo
+- Compiled by Ryan Hoyt 7/15/2003

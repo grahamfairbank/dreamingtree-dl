@@ -1,0 +1,74 @@
+Dave Matthews Band
+May 21, 2022
+Lakewood Amphitheatre - Atlanta, GA
+
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+*=*=*=*=* 24/48 RECORDING *=*=*=*=*
+*=* NOT SUITABLE FOR CD BURNING *=*
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+
+Taper: Zachary Semcken
+Source: AKG C414 XLII (Hypercardioid) > MixPre 6 II (32 Bit Float @ 96)
+Location: Rear of FOH (Stage Right), DFC, Mics DIN @ 11'
+Editing: WAV > Reaper 6.58 (Gain, Mixing, Normalizing, Resample 32/48) > Audacity 3.1.3 (Fades, Tracking) > FLAC (Level 8)
+
+Setlist:
+
+01. Intro
+02. You Might Die Trying
+03. Madman's Eyes
+04. When the World Ends
+05. Proudest Monkey¹ >
+06. Satellite
+07. Can't Stop²
+08. The Dreaming Tree³
+09. Dancing Nancies
+10. Sweet Up and Down
+11. Stay or Leave
+12. Crush⁴
+13. The Only Thing
+14. Again and Again
+15. Two Step⁵
+16. The Space Between
+17. Jimi Thing⁶
+18. What Would You Say
+19. You & Me⁷
+20. Ants Marching⁸
+21. Encore Break
+22. Time Bomb
+23. Warehouse
+
+Total Performance Time: [02:48:59.144]
+
+Dave Matthews Band:
+
+Dave Matthews - Guitar, Lead Vocals
+Tim Reynolds - Electric Guitar
+Stefan Lessard - Bass
+Buddy Strong - Keyboards, Vocals
+Rashawn Ross - Trumpet, Vocals
+Jeff Coffin - Saxophone, Flute
+Carter Beauford - Drums
+
+Notes:
+
+¹ with Grazing in the Grass [Hugh Masekela] and Jamaican Farewell [Harry Belafonte] interpolations
+² Dave scat intro
+³ with Chocolate Rain [Tay Zonday] interpolation
+⁴ Stefan solo intro
+⁵ Time Bomb intro
+⁶ first verse sung by crowd, I Want to Take You Higher (Sly & The Family Stone) outro
+⁷ with extended intro
+⁸ brief Carter solo intro
+
+Loud clapper in the left channel, particularly in "Crush".
+
+Huge thanks to the DMB Crew for letting me set up at FOH.
+
+My undying gratitude to David Morris and Grace Morris [IG: @wardamnwagle] for the free ticket.
+
+Thank you to Mark Terrell and Tyler Anderson for being the best concert buddies in the world.
+
+This recording is dedicated to all the tapers before me who continue to preserve live music.
+
+Compiled on 2022/05/22.

@@ -1,0 +1,70 @@
+Dave Matthews Band
+May 19, 1993
+Flood Zone
+Richmond, VA
+
+
+Source:		DSBD > Casio D7
+		Mark LYnn
+
+DAT > CD > SHN:	Mike Vernal <<email>>
+		PCM-R500 > Audiomedia III/Powermac G3/233 >
+		Pro Tools 4.3.2 > Panasonic 7502 (burn/extract)
+
+		****MASTERED WITH PERMISSION FROM ORIGINAL TAPER****
+
+Master: 	SHN > 32Bit WAV > DC Remove > Edits/SpRepair > DeNoise > 
+       		PEQ/MD/MHE/MTI/REV/LM/DeEss/Brick > Dither > 16Bit WAV > FLAC
+
+Note: This show fits on two 80 minute discs.
+
+Disc One:
+
+01:	So Much To Say				-	04:05:24
+02:	Redemption Song				-	03:22:25
+03:	All Along the Watchtower		-	05:46:73
+04:	Best of What's Around			-	04:25:20
+05:	Seek Up					-	13:08:73
+06:	Granny					-	07:35:20
+07:	Recently				-	08:53:50
+08:	Satellite				-	06:41:26
+09:	True Reflections			-	06:46:51
+10:	Dancing Nancies				-	09:22:60
+11:	One Sweet World				-	09:38:48
+
+Disc Two:
+
+01:	Typical Situation			-	14:34:47
+02: 	Ants Marching				-	05:22:34
+03:	Minarets				-	07:48:32
+04:	Blue Water Baboon Farm			-	12:57:19
+05:	Pay For What You Get			-	05:29:36
+06:	Help Myself				-	05:19:67
+07:	Jimi Thing				-	19:14:17
+08:	E:  Two Step				-	07:16:12
+
+
+Notes:
+----------
+*	The original SHNs converted by Mike had Cry Freedom at the end
+	of the show.  We found out later that Mark Lynn actually taped
+	this show and he says that the Cry Freedom is really the encore
+	from 6/16/1993 at the Floodzone.  The only encore was Two Step.
+
+*	Here are Mark's notes:
+
+	"I taped this on my Casio DA 7. I ran straight out of the board andtaped
+	onto Denon DT audio grade DAT tape. I used 1 120 and 1 60 min to get the
+	whole thing. So Much through Blue Water is contained on the first tape. 
+	Pay 4 through the encore Two Step is on the second tape. Cry Freedom is
+	not from this show. It is the encore from 6/16/93. I used a 120 minute
+	tape for 6/16/93 and had the second tape from 5/19/93 with me in case
+	they went over 120 minutes on 6/16/93 so that's the reason for the
+	confusion. Two Step was the only encore from 5/19/93. Boyd sure was
+	eager to sell T-shirts back then. I played this show on my college
+	radio station the following Sunday. It would be pretty weird to come
+	across a tape of that broadcast."
+
+Masters Notes:
+----------
+*	Rebalanced to center, then edited and mastered. 

@@ -1,0 +1,55 @@
+Dave Matthews Band
+July 2, 2019
+Riverbend Music Center
+Cincinnati, OH
+
+Source: SiriusXM HLS "Extreme" quality stream > ffmpeg-2020-04-03-52523b6-win64-static
+Conversion: Decompress AAC to WAV via ffmpeg-2020-04-03-52523b6-win64-static > CD Wave Editor 1.97 (Tracking) > foobar2000 (Tagging, conversion to FLAC Level 8)
+
+01: Introduction
+02: What Would You Say
+03: Louisiana Bayou
+04: Do You Remember
+05: #41
+06: Idea of You
+07: Lie in Our Graves
+08: Why I Am
+09: Stay or Leave
+10: Sugar Will
+11: Don't Drink the Water
+12: Rooftop
+13: Typical Situation
+14: Sledgehammer
+15: Here On Out
+16: Fly Like an Eagle
+17: Everyday
+18: The Song That Jane Likes
+19: Crash into Me
+20: Ants Marching
+21: Funny How Time Slips Away
+22: All Along the Watchtower >
+23: Outro
+
+Compiled on 7/19/2020
+
+Original media info for ADTS format AAC prior to conversion to FLAC for distribution is included below for reference. No further "lossy" conversions took place in processing this capture.
+
+General
+Complete name                            : dmb2019-07-02.aac
+Format                                   : ADTS
+Format/Info                              : Audio Data Transport Stream
+File size                                : 266 MiB
+Overall bit rate mode                    : Variable
+
+Audio
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format version                           : Version 4
+Format profile                           : LC
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 kHz
+Frame rate                               : 43.066 FPS (1024 spf)
+Compression mode                         : Lossy
+Stream size                              : 266 MiB (100%)

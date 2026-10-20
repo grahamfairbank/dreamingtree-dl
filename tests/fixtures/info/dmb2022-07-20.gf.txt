@@ -1,0 +1,72 @@
+Dave Matthews Band
+July 20, 2022
+Bethel Woods Center for the Arts - Bethel, NY
+
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+*=*=*=*=* 16/48 RECORDING *=*=*=*=*
+*=* NOT SUITABLE FOR CD BURNING *=*
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+
+Taper: Zachary Semcken
+Source: AKG C414 XLII (Hypercardioid) > MixPre 6 II (32 Bit Float @ 96)
+Location: Section C, Row D, Seat 6, Mics PAS ~15'
+Editing: WAV > Reaper 6.64 (Gain, Mixing, Normalizing, Resample 32/48) > Audacity 3.1.3 (Fades, Tracking) > FLAC (Level 8)
+
+01. Intro/Tuning
+02. Pig
+03. The Maker¹
+04. Funny the Way It Is
+05. When the World Ends
+06. The Dreaming Tree²
+07. Crush³
+08. Madman's Eyes
+09. Stay or Leave⁴
+10. Pantala Naga Pampa >
+11. Rapunzel
+12. Walk Around the Moon
+13. Sledgehammer⁵
+14. Come On Come On
+15. Don't Drink the Water
+16. Lying in the Hands of God⁶
+17. Say Goodbye
+18. The Star-Spangled Banner (Partial)⁷
+19. Corn Bread⁸
+20. Dancing Nancies >
+21. Warehouse⁹
+22. Encore Break
+23. Some Devil
+24. Band Introductions
+25. Ants Marching⁰
+
+Total Performance Time: [02:57:04.991]
+
+Dave Matthews Band:
+
+Dave Matthews - Guitar, Lead Vocals
+Tim Reynolds - Electric Guitar
+Stefan Lessard - Bass
+Buddy Strong - Keyboards, Vocals
+Rashawn Ross - Trumpet, Vocals
+Jeff Coffin - Saxophone, Flute
+Carter Beauford - Drums
+
+Notes:
+
+¹ Daniel Lanois cover
+² Chocolate Rain interpolation 
+³ Stefan solo intro
+⁴ Second verse vocals skipped
+⁵ Peter Gabriel cover
+⁶ American Baby Intro, Eleanor Rigby, and Bourbon and Lacs interpolations
+⁷ Joe Lawlor solo, in the style of Jimi Hendrix, with small Carter accents
+⁸ with Joe Lawlor, Down By the Riverside interpolation
+⁹ Dave breaks a string, guitar is swapped out during second verse, Louie Louie interpolation
+⁰ Carter solo intro, Shake Your Body (Down to the Ground) interpolation
+
+During "Stay or Leave", Dave sings the second verse ["Wake up naked drinking coffee"] as the first. He attempts to swap the verses but aborts, leaving the first verse ["Maybe different but remember"] unsung.
+
+Huge thanks to Greg Mendelsohn for the stand space and Keith Antaya for the clamp.
+
+This recording is dedicated to all the tapers that have taught me to love archiving live music.
+
+Compiled on 2022/07/22.

@@ -1,0 +1,72 @@
+Dave Matthews Band
+July 9, 2024
+Northwell Health at Jones Beach Theater - Wantagh, NY
+
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+*=*=*=*=* 16/48 RECORDING *=*=*=*=*
+*=* NOT SUITABLE FOR CD BURNING *=*
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+
+Taper: Zachary Semcken
+Source: AKG C414 XLS (Hypercardioid) > MixPre 10 II (32 Bit Float @ 96)
+Location: Front House Left of FOH, DFC, Mics PAS @ 14'
+Editing: WAV > Reaper 7.18 (Gain, Mixing, Normalizing, Resample 24/48) > Audacity 3.5.1 (Fades, Tracking) > FLAC (Level 8)
+
+Setlist:
+
+01. Intro
+02. #41¹
+03. Don't Drink the Water²
+04. Pantala Naga Pampa >
+05. Pig
+06. Walk Around the Moon
+07. Busted Stuff
+08. Squirm
+09. Spaceman
+10. Madman's Eyes (Fake) >
+11. Minarets³
+12. Grey Street
+13. Lying in the Hands of God >
+14. American Baby Intro
+15. Dave Speak: What's a Light-year?
+16. Black and Blue Bird
+17. Let's Dance⁴
+18. What Would You Say
+19. Dave Speak: Jones Beach Memories
+20. Digging a Ditch
+21. Dancing Nancies >
+22. Warehouse⁵ >
+23. Ants Marching⁶
+24. Encore Break
+25. I'll Back You Up >
+26. Crush⁷
+
+Set Time: [02:55:19.731]
+
+Dave Matthews Band:
+
+Dave Matthews - Guitar, Lead Vocals
+Tim Reynolds - Electric Guitar
+Stefan Lessard - Bass
+Buddy Strong - Keyboards, Vocals
+Rashawn Ross - Trumpet, Vocals
+Jeff Coffin - Saxophone, Flute
+Carter Beauford - Drums
+
+Notes:
+
+¹ Sojourn of Arjuna interpolation
+² includes prelude with Schism and Forty Six & 2 interpolations; This Land Is Your Land interpolation
+³ Dave scat intro
+⁴ David Bowie cover
+⁵ stop-time intro; Louie Louie interpolation
+⁶ Carter solo intro; Shake Your Body (Down to the Ground) interpolation
+⁷ Stefan solo intro
+
+There was a fairly persistent breeze coming off the ocean which causes some minor wind rumble in the recording.
+
+Huge thanks to the entire DMB organization for supporting live taping.
+
+This recording is dedicated to all the tapers that have taught me to love archiving live music.
+
+Compiled on 2024/07/16.

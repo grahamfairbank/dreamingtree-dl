@@ -1,0 +1,55 @@
+Dave Matthews Band
+August 23, 2019
+Fiddler's Green Amphitheatre
+Greenwood Village, CO
+
+Source: SiriusXM HLS "Extreme" quality stream > ffmpeg-20190722-817235b-win64-static
+Conversion: Decompress AAC to WAV via ffmpeg-20190722-817235b-win64-static > CD Wave Editor 1.97 (Tracking) > foobar2000 (Tagging, conversion to FLAC Level 8)
+
+01: Introduction
+02: One Sweet World
+03: Louisiana Bayou
+04: Rooftop
+05: Come Tomorrow
+06: Granny
+07: Stay or Leave
+08: Do You Remember
+09: Lover Lay Down
+10: The Song That Jane Likes >
+11: Water into Wine
+12: Can't Stop
+13: #41
+14: Funny the Way It Is
+15: Smooth Rider
+16: Satellite
+17: Lying in the Hands of God
+18: Grey Street
+19: Everyday
+20: Shake Me Like a Monkey
+21: Minarets
+22: Pantala Naga Pampa >
+23: Rapunzel
+
+Compiled on 8/24/2019
+
+Notes:  Original media info for ADTS format AAC prior to conversion to FLAC for distribution is included below for reference.  No further "lossy" conversions took place in processing this capture.
+
+General
+Complete name                            : dmb2019-08-23.aac
+Format                                   : ADTS
+Format/Info                              : Audio Data Transport Stream
+File size                                : 388 MiB
+Overall bit rate mode                    : Variable
+
+Audio
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format version                           : Version 4
+Format profile                           : LC
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 kHz
+Frame rate                               : 43.066 FPS (1024 spf)
+Compression mode                         : Lossy
+Stream size                              : 388 MiB (100%)

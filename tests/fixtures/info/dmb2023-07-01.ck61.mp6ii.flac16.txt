@@ -1,0 +1,37 @@
+Dave Matthews Band
+Deer Creek
+Ruoff Music Center
+Noblesville, IN
+July 1, 2023
+
+Taper: Jason Johnson (<email>)
+Location: Section A Row R Seats 17/18, DIN @ 15'
+Source: akg ck61s > nbob actives > SD MixPre-6ii (32/48)
+Conversion: MixPre-6ii > Adobe Audition (hi-pass filter, dither, resample) > Trader's Little Helper > Foobar2000
+
+01 Intro
+02 Lie in Our Graves
+03 Fool in the Rain
+04 The Stone
+05 Monsters
+06 Dancing Nancies
+07 I Want You (She's So Heavy) >
+08 After Everything
+09 Jimi Thing >
+10 Brick House
+11 Gravedigger
+12 She
+13 So Right
+14 Pantala Naga Pampa >
+15 Rapunzel >
+16 Ants Marching
+17 Halloween
+
+Notes:
+24/48 version also exists.
+Show ended early due to weather.
+Thanks to Scott and Kathy for the hospitality.
+
+
+Compiled by Jason Johnson on July 1, 2023.
+www.greppson.net

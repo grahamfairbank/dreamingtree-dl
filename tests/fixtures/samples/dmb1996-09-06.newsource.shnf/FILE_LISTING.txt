@@ -1,0 +1,16 @@
+.:
+total 531896
+-rw-r--r-- 1 user user 34490401 Oct 20 12:01 dmb1996-09-06d1t01.shn
+-rw-r--r-- 1 user user 48546681 Oct 20 12:01 dmb1996-09-06d1t02.shn
+-rw-r--r-- 1 user user 58898813 Oct 20 12:01 dmb1996-09-06d1t03.shn
+-rw-r--r-- 1 user user 42781969 Oct 20 12:01 dmb1996-09-06d1t04.shn
+-rw-r--r-- 1 user user 85009877 Oct 20 12:01 dmb1996-09-06d1t05.shn
+-rw-r--r-- 1 user user  2056117 Oct 20 12:01 dmb1996-09-06d2t01.shn
+-rw-r--r-- 1 user user 30672937 Oct 20 12:01 dmb1996-09-06d2t02.shn
+-rw-r--r-- 1 user user 39533529 Oct 20 12:01 dmb1996-09-06d2t03.shn
+-rw-r--r-- 1 user user 40228121 Oct 20 12:01 dmb1996-09-06d2t04.shn
+-rw-r--r-- 1 user user 46910201 Oct 20 12:01 dmb1996-09-06d2t05.shn
+-rw-r--r-- 1 user user 46905321 Oct 20 12:01 dmb1996-09-06d2t06.shn
+-rw-r--r-- 1 user user 68581681 Oct 20 12:01 dmb1996-09-06d2t07.shn
+-rw-r--r-- 1 user user      696 Oct 20 12:01 dmb1996-09-06.md5
+-rw-r--r-- 1 user user      917 Oct 20 12:01 dmb1996-09-06.txt

@@ -1,0 +1,34 @@
+Dave Matthews Band
+June 24, 2022
+Ruoff Music Center, Noblesville, IN
+
+Source: SiriusXM HLS "Extreme" quality stream > VLC > WAV
+Conversion: Decompress AAC to WAV via VLC > Audacity (Tracking) > foobar2000 (Tagging, conversion to FLAC Level 8)
+
+01: Intro
+02: Pig
+03: Granny
+04: Walk Around the Moon
+05: Break Free
+06: Jimi Thing
+07: That Girl Is You
+08: What Would You Say
+09: Grey Street
+10: Where Are You Going [tease]
+11: Grace Is Gone
+12: Tripping Billies
+13: You & Me
+14: Dancing Nancies »
+15: Warehouse
+16: Where Are You Going
+17: She
+18: Lie in Our Graves
+19: Can't Stop
+20: Joe Avery's Blues »
+21: Ants Marching
+-----------------------------------
+22: Sister
+23: You Might Die Trying
+
+Compiled on 6/18/2022
+

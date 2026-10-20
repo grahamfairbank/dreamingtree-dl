@@ -1,0 +1,46 @@
+Dave Matthews Band
+Daily's Place
+Jacksonville, FL
+May 28, 2024
+
+Taper: Eric Wallace
+Location: PIT, left rail @ 10'
+Source: Avantone CK-1 (cards, A-B) > XLR > Edirol UA-5 (digimod) > digital coax > Tascam DR-100mkii (24/48 recording)
+Conversion: SDHC > PC >  Audacity 3.5.1 (file join, normalize to -0.1db, fades, dithering to 16/44.1) > CD Wave (tracking) > foobar2000 (flac level 6)
+
+*** This recording also exists in original 24/48 format ***
+
+*** Please do not distribute in lossy formats -- personal use is fine, but please share original FLACs ***
+
+01 Intro									02:57.13
+02 When the World Ends						04:08.42
+03 Funny the Way It Is						06:02.00
+04 Old Dirt Hill (Bring That Beat Back)		08:25.25
+05 The Song That Jane Likes					05:56.54
+06 Walk Around the Moon						05:35.27
+07 What Would You Say						06:24.22
+08 Jimi Thing >								10:44.55
+09 Minarets									10:13.14
+10 Dreamgirl								05:22.59
+11 So Damn Lucky							10:57.64
+12 Virginia in the Rain						08:20.34
+13 Madman's Eyes							07:49.59
+14 Crush									19:28.25
+15 Stolen Away on 55th & 3rd				05:45.07
+16 Dancing Nancies							12:14.42
+17 Everyday >								08:14.61
+18 Ants Marching							17:57.55
+Encore:
+19 Singing From the Windows *				03:49.36
+20 What You Are								07:41.22
+
+Total										168:09.41
+
+* Dave solo
+
+Notes:
+- Thanks once again to Henry Hart for the tag-team setup and taper wisdom. Always good to have another taper in the pit!
+- Dave made multiple references to the humidity during the show. Yesterday's high was 94 degrees and humidity was well over 40%.. so yeah, it was pretty muggy.
+- If you're going to burn to CD, suggested track splits are 1-9, 10-15, 16-20
+
+Compiled by Eric Wallace on 2024-05-29

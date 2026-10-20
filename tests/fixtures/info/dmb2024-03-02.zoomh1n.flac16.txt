@@ -1,0 +1,70 @@
+Dave Matthews Band
+March 2, 2024
+Extra Innings Festival
+Tempe Beach Park - Tempe, AZ
+
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+*=*=*=*=* 16/48 RECORDING *=*=*=*=*
+*=* NOT SUITABLE FOR CD BURNING *=*
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+
+Taper: Zachary Semcken
+Source: Zoom H1n Handheld Recorder (24/96)
+Location: Approx. 100' from Stage Lip, DFC, Mic XY @ 7'
+Editing: WAV > Reaper 7.11 (Gain, Mixing, Normalizing, Resample 24/48) > Audacity 3.4.2 (Fades, Tracking) > FLAC (Level 8)
+
+Setlist:
+
+01. Intro
+02. #41
+03. Let's Dance¹
+04. Crash Into Me²
+05. So Much to Say >
+06. Anyone Seen the Bridge³ >
+07. Too Much
+08. Madman's Eyes
+09. Don't Drink the Water
+10. Satellite >
+11. Will It Go Round in Circles⁴
+12. Grey Street
+13. Dave Speak: Jennifer Hartswick Intro
+14. Jimi Thing⁵ >
+15. Cheap Sunglasses⁶
+16. You & Me
+17. Dave Speak: Use Sanity to Find Our Humanity
+18. The Last Stop⁷
+19. Funny the Way It Is >
+20. Ants Marching⁸
+
+Set Time: [01:58:06.403]
+
+Dave Matthews Band:
+
+Dave Matthews - Guitar, Lead Vocals
+Tim Reynolds - Electric Guitar
+Stefan Lessard - Bass
+Buddy Strong - Keyboards, Vocals
+Rashawn Ross - Trumpet, Vocals
+Jeff Coffin - Saxophone, Flute
+Carter Beauford - Drums
+
+Notes:
+
+¹ David Bowie cover
+² with "Dixie Chicken" (Little Feat) interpolation
+³ with "Also Sprach Zarathustra" (Richard Strauss) and "Heartbreaker" (Tom Petty) interpolations
+⁴ Billy Preston cover
+⁵ with Jennifer Hartswick on Trumpet
+⁶ ZZ Top cover
+⁷ truncated version, with "Immigrant Song" (Led Zeppelin) outro
+⁸ Carter solo intro; Shake Your Body (Down to the Ground) interpolation
+
+I originally planned to cover this set with my traditional recording set up. Unfortunately, this festival has adopted a staunch anti-taping policy. Luckily, I came prepared with a different rig that I was able to get into the festival.
+
+I accidentally set the gain level a shade too high for this recording which resulted in peaking/brickwalling. I was able to EQ the tape to sound significantly less harsh and the results are a lot better than I expected. There's still mild distortion on some Carter hits and Stefan riffs. The tape itself won't win any awards, but it's a pretty solid capture of this performance.
+
+Huge thanks to the entire DMB organization for supporting live taping.
+
+This recording is dedicated to all the tapers that have taught me to love archiving live music.
+
+Compiled on 2024/03/08.

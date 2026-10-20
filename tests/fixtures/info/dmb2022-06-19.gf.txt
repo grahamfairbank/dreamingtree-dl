@@ -1,0 +1,60 @@
+Dave Matthews Band
+June 19, 2022 (Father's Day & Juneteenth)
+Something in the Water Festival
+Independence Avenue - Moon Stage - Washington, D.C.
+
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+*=*=*=*=* 16/48 RECORDING *=*=*=*=*
+*=* NOT SUITABLE FOR CD BURNING *=*
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+
+Taper: Zachary Semcken
+Source: AKG C414 XLII (Hyperardioid) > MixPre 6 II (32 Bit Float @ 96)
+Location: Front of House, Stage Left Stack, Approx. 225' from Stage, Mics PAS @ 12'
+Editing: WAV > Reaper 6.61 (Gain, Mixing, Normalizing, Resample 32/48) > Audacity 3.1.3 (Fades, Tracking) > FLAC (Level 8)
+
+Setlist:
+
+01. Intro
+02. Don't Drink the Water¹
+03. Dave Speak: Strange Places
+04. When the World Ends
+05. Sledgehammer²
+06. Madman's Eyes
+07. Dave Speak: Concert Sorbet
+08. That Girl Is You³
+09. Can't Stop³⁴
+10. What Would You Say³
+11. Joe Avery's Blues³⁵ >
+12. Ants Marching³⁶
+
+Total Performance Time: [00:57:01.403]
+
+Dave Matthews Band:
+
+Dave Matthews - Guitar, Lead Vocals
+Tim Reynolds - Electric Guitar
+Stefan Lessard - Bass
+Buddy Strong - Keyboards, Vocals
+Rashawn Ross - Trumpet, Vocals
+Jeff Coffin - Saxophone, Flute
+Carter Beauford - Drums
+
+Notes:
+
+¹ includes prelude
+² Peter Gabriel cover
+³ with members of the Preservation Hall Jazz Band: Ben Jaffe (Sousaphone), Branden Lewis (Trumpet), Clint Maedgen (Saxophone), Revon Andrews (Trombone)
+⁴ without Ben Jaffe
+⁵ Preservation Hall Jazz Band cover, without Dave, Tim, Buddy, or Stefan; "Shave and a Haircut" interpolation
+⁶ snare intro, Shake Your Body (Down to the Ground) interpolation
+
+This was the third day of the festival, which took place on Independence Avenue between 9th St. SW & 3rd St. SW. The Moon Stage was located in front of the northwest corner of the Federal Aviation Administration building.
+
+The stage had audio visual problems throughout the afternoon's performances, including static from microphones, phasing, and dropped input sources. The DMB FOH crew did a great job with compensating for these issues, but it was a noticeable blemish on the performance. It's most noticeable in "Don't Drink the Water" and "When the World Ends", but gets much better as the show goes on.
+
+Huge thanks to the DMB Crew for letting me set up in the cage and all their help.
+
+This recording is dedicated to all the tapers before me who continue to preserve live music.
+
+Compiled on 2022/06/20.

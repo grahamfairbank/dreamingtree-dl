@@ -1,0 +1,75 @@
+Dave Matthews Band
+May 07, 2016	
+John Paul Jones Arena - Charlottesville, VA
+
+Taper: Mike Sarnovsky (<email>)
+Source: Neumann km-140s -> Lunatec V3 -> Sound Devices 722
+
+Location:  Stage Left, about 1/3 back
+
+Conversion: Mike Sarnovsky (<email>)
+Equipment: 722 -> PC -> Wavelab (Dither to 16bit) -> FLAC
+
+------------------------------------------------------------
+
+Disc One:
+
+01:	Intro                                              
+02: 	The Song That Janes Likes
+03:	When The World Ends
+04:	One Sweet World
+05:	Why I Am
+06:	#41
+07:	Samurai Cop
+08:	Don't Drink The Water
+
+Disc Two:
+
+01:	Bob Law
+02:	What Would You Say
+03:	Big Eyed Fish
+04:	Bismarck
+05:	Sugar Will
+06:	Belly Belly Nice
+07:	Virginia In The Rain
+08:	Warehouse
+
+Disc Three:
+
+01:	Jimi Thing *
+02:	Space Between
+03:	Grey Street
+04:	Ants Marching
+05:	The Last Stop
+06:	Tripping Billies
+
+------------------------------------------------------------
+
+* - With John D'Earth
+
+dmb2016-05-07d1t01.flac:8c89fc9235b8098d345bc4890b45a67f
+dmb2016-05-07d1t02.flac:a549809d64bd08d7d70f6d5db00642fe
+dmb2016-05-07d1t03.flac:91a28c0a332902a588df39e9da1d0e27
+dmb2016-05-07d1t04.flac:e5d98fcdf140b81aaec6dfbaeb3b4fb4
+dmb2016-05-07d1t05.flac:125efecd5ade4911546bd982e8557b8c
+dmb2016-05-07d1t06.flac:42b157e81158b2bf9fc02e781aa794f0
+dmb2016-05-07d1t07.flac:b75f509bfa7efba6f615c834e66d1ee8
+dmb2016-05-07d1t08.flac:ab5b1b724c9d24fb316c473774f86996
+dmb2016-05-07d2t01.flac:7d7a57892cc613755fb90aeca3cfac8a
+dmb2016-05-07d2t02.flac:d56ba692d7ad98e1fe3c5b0181e7b03d
+dmb2016-05-07d2t03.flac:be7868c78e9af26377fe622b6b12f4c0
+dmb2016-05-07d2t04.flac:c5fc2204648dda34fa8bccf692d4d790
+dmb2016-05-07d2t05.flac:2ca96a069c5121f447483440f26d67d7
+dmb2016-05-07d2t06.flac:074bc95fb65b6c6eee732328cb7b27c0
+dmb2016-05-07d2t07.flac:bc39937b85797049e737e11c52ed1791
+dmb2016-05-07d2t08.flac:5aa02b7f824e47eaf59ce55bfc528719
+dmb2016-05-07d3t01.flac:920e03a4bf2e78680f33106f282584a2
+dmb2016-05-07d3t02.flac:a5634b8f0ba2edfa90e28e6b1efbfbbf
+dmb2016-05-07d3t03.flac:fa84916badc30917b525b0c3176ff936
+dmb2016-05-07d3t04.flac:1b09e51aed5ddd74ccde68a25007636b
+dmb2016-05-07d3t05.flac:e5d5d2223c574a5f3db624fc01f7d7dc
+dmb2016-05-07d3t06.flac:6aa88edd38a3fb81e65092156f7a8a0d
+
+
+
+

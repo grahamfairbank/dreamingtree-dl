@@ -1,0 +1,44 @@
+Dave Matthews Band
+Nationwide Arena
+Columbus, OH
+November 16, 2024
+
+Taper: Jason Johnson (<email>)
+Location: Pit Stage Right, DIN @ 15'
+Source: akg ck61s > nbob actives > SD MixPre-6ii (32/48)
+Conversion: MixPre-6ii > Adobe Audition (hi-pass filter, stereo expander, dither, resample) > Trader's Little Helper > Foobar2000
+
+01: Intro > Carter Solo >
+02: Ants Marching
+03: The Maker
+04: Idea of You
+05: Walk Around the Moon
+06: Funny the Way It Is
+07: Looking for a Vein
+08: Busted Stuff
+09: Fool in the Rain
+10: Grace Is Gone
+11: So Damn Lucky
+12: Stolen Away on 55th & 3rd
+13: Stay or Leave
+14: Typical Situation
+15: Intro to...>
+16: Don't Drink the Water
+17: I'll Back You Up
+18: Old Dirt Hill (Bring That Beat Back)
+19: Jimi Thing > Brick House
+20: Encore Break
+21: Oh*
+22: Intro to...>
+23: All Along the Watchtower
+
+Notes:
+* Dave solo
+
+Thanks to Kelley and Greg for all the help.
+Thanks to Aaron for the venue assist.
+
+24/48 version also exists.
+
+Compiled by Jason Johnson on November 17, 2024.
+www.greppson.net

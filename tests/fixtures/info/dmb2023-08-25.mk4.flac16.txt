@@ -1,0 +1,46 @@
+Dave Matthews Band 
+August 25, 2023
+FivePoint Amphitheatre - Irvine, CA
+
+Taper: Jon Koch 
+Source: Schoeps MK4 > active cables > Nbox Platinum > Edirol R-09HR (24/48) 
+Location: FOH, slightly left of center, Mics DIN ~8'  
+Transfer: Edirol R-09HR > SDHC > PC 
+Edit: wav > Sony Soundforge 9.0a > wav > CD Wave > wav 
+Conversion: wav > Trader's Little Helper 2.4.1 > .flac 
+
+---PRESERVE THE QUALITY, PLEASE DO NOT ENCODE INTO MP3 OTHER THAN FOR PERSONAL USE--- 
+
+01: Intro				[02:20]
+02: Spoon				[06:24]
+03: #27					[05:52]
+04: Virginia in the Rain		[07:30]
+05: Madman's Eyes			[08:00]
+06: The Ocean and the Butterfly		[05:11]
+07: Don't Drink the Water		[08:04]
+08: Stolen Away on 55th & 3rd		[06:31]
+09: So Damn Lucky			[11:56]
+10: Cry Freedom				[07:47]
+11: Walk Around the Moon		[07:29]
+12: Grace Is Gone			[09:44]
+13: Sledgehammer			[07:37]
+14: Monsters				[07:06]
+15: What Would You Say			[06:57]
+16: Jimi Thing > 			[11:03]
+17: Brick House				[03:57]
+18: Crash Into Me			[05:32]
+19: Two Step				[16:36]
+20: Encore break/intro			[06:22]
+21: Little Red Bird *			[03:30]
+22: Crush				[15:23]
+Total:	      		       	       [2:50:43] 
+
+* Dave solo
+# Greg Phillinganes on keyboards
+$ Bob Mintzer and Kamasi Washington on saxophone
+
+
+Notes: This recording is dedicated to the memory of LeRoi Moore.
+Thanks to the DMB sound crew for the assistance and space at FOH.
+
+Compiled on 08.26.23

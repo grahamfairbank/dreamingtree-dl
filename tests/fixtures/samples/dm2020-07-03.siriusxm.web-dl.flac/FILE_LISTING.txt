@@ -1,0 +1,33 @@
+dm2020-07-03.siriusxm.web-dl.flac:
+total 227896
+-rw-r--r-- 1 user user  2347567 2026-10-20 05:55 01 - Intro.flac
+-rw-r--r-- 1 user user  2244573 2026-10-20 05:55 02 - Fan Request Cry Freedom.flac
+-rw-r--r-- 1 user user  1324163 2026-10-20 05:55 03 - Dave Speak Cry Freedom.flac
+-rw-r--r-- 1 user user 22592390 2026-10-20 05:55 04 - Cry Freedom.flac
+-rw-r--r-- 1 user user  1793911 2026-10-20 05:55 05 - Fan Request Loving Wings.flac
+-rw-r--r-- 1 user user   961160 2026-10-20 05:55 06 - Dave Speak Loving Wings.flac
+-rw-r--r-- 1 user user 16139451 2026-10-20 05:55 07 - Loving Wings.flac
+-rw-r--r-- 1 user user  3767555 2026-10-20 05:55 08 - Dave Speak Here On Out.flac
+-rw-r--r-- 1 user user  1265520 2026-10-20 05:55 09 - Fan Request Here On Out.flac
+-rw-r--r-- 1 user user 13047183 2026-10-20 05:55 10 - Here On Out.flac
+-rw-r--r-- 1 user user  1008508 2026-10-20 05:55 11 - Fan Request Best Of Whats Around.flac
+-rw-r--r-- 1 user user  2020224 2026-10-20 05:55 12 - Dave Speak Best Of Whats Around.flac
+-rw-r--r-- 1 user user 16593308 2026-10-20 05:55 13 - Best Of Whats Around.flac
+-rw-r--r-- 1 user user  2119278 2026-10-20 05:55 14 - Fan Request Samurai Cop.flac
+-rw-r--r-- 1 user user   498428 2026-10-20 05:55 15 - Dave Speak Samurai Cop.flac
+-rw-r--r-- 1 user user 19982773 2026-10-20 05:55 16 - Samurai Cop.flac
+-rw-r--r-- 1 user user 26088882 2026-10-20 05:55 17 - Pig [Dave Solo Debut].flac
+-rw-r--r-- 1 user user 14213354 2026-10-20 05:55 18 - Sister.flac
+-rw-r--r-- 1 user user  1590736 2026-10-20 05:55 19 - Dave Speak #41.flac
+-rw-r--r-- 1 user user  1825580 2026-10-20 05:55 20 - Fan Request #41.flac
+-rw-r--r-- 1 user user 18018681 2026-10-20 05:55 21 - #41.flac
+-rw-r--r-- 1 user user  2289747 2026-10-20 05:55 22 - Fan Request Grey Street.flac
+-rw-r--r-- 1 user user  1841024 2026-10-20 05:55 23 - Dave Speak Grey Street.flac
+-rw-r--r-- 1 user user 19929856 2026-10-20 05:55 24 - Grey Street.flac
+-rw-r--r-- 1 user user   631142 2026-10-20 05:55 25 - Dave Speak You And Me.flac
+-rw-r--r-- 1 user user   801212 2026-10-20 05:55 26 - Fan Request You And Me.flac
+-rw-r--r-- 1 user user 20535184 2026-10-20 05:55 27 - You And Me.flac
+-rw-r--r-- 1 user user   524777 2026-10-20 05:55 28 - Dave Speak Sweet.flac
+-rw-r--r-- 1 user user 16059025 2026-10-20 05:55 29 - Sweet.flac
+-rw-r--r-- 1 user user  1238353 2026-10-20 05:55 30 - Outro.flac
+-rw-r--r-- 1 user user     1465 2026-10-20 05:55 dm2020-07-03.siriusxm.web-dl.flac.txt

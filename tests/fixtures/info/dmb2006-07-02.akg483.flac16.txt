@@ -1,0 +1,60 @@
+Dave Matthews Band
+Alpine Valley Music Theatre 
+East Troy, WI
+July 2, 2006
+
+
+Taper:  Crumbo
+Location: Section 102, Row F, Seats 100 & 101
+Source:  AKG 480/ck63 (A-B, ~16') > V3 (analog out) > SD 722 (24/96)
+Conversion:  SD 722 > Wavelab 5.01b (resample, dither w/MegaBitMax) > CDWav 1.94.4 > foobar2000
+
+
+***DO NOT DISTRIBUTE IN LOSSY FORMATS***
+***24/96 version exists in flac format***
+
+
+Disc 1
+
+01 Intro                                               00:58.07
+02 Intro to... >                                       04:23.57
+03 Don't Drink the Water *                             08:17.61
+04 Everyday *                                          09:18.34
+05 Proudest Monkey * >                                 08:53.66
+06 Satellite *                                         06:01.69
+07 Song That Jane Likes *                              05:26.44
+08 Last Stop *                                         12:36.23
+
+Disc 1 Total: 55:56.61
+
+Disc 2
+
+01 If I Had It All *                                   05:54.45
+02 Dancing Nancies * >                                 10:35.02
+03 Warehouse * >                                       10:55.52
+04 Typical Situation *                                 16:28.72
+05 The Idea Of You *                                   04:38.01
+06 Grace Is Gone                                       13:53.16
+
+Disc 2 Total: 62:25.38
+
+Disc 3
+
+01 Pig *                                               07:22.36
+02 Digging a Ditch *                                   06:35.03
+03 Smooth Rider *                                      11:30.57
+04 Pantala Naga Pampa * > Rapunzel *                   08:10.28
+05 Encore Break                                        07:47.26
+06 JTR *                                               06:27.43
+07 Stay *                                              07:17.24
+
+Disc 3 Total: 55:10.67
+
+
+
+Notes:
+
+* Rashawn Ross on Trumpet
+-Thanks to Jason for all the help.
+
+Compiled by Crumbo 7-3-2006.

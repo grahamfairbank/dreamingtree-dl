@@ -1,0 +1,50 @@
+Dave Matthews Band
+18 November 2023
+Madison Square Garden
+New York, New York
+
+Recorded by: Christopher Jones <<email>>
+Source: Sonodore CMA-1622 (Sonodore CMA-16 +/- 16V microphone preamplifier bodies with matched Schoeps MK22 open cardioid capsules) > Mogami 6-pin XLR microphone cable > Sonodore PSB-402LI power supply > Mogami XLR interconnect > Millennia Media HV-32P microphone preamplifier > Mogami XLR interconnect > Sonosax SX-R4+ (non-U.S. version with unconstrained headroom; @ 24-bit / 176.4 kHz)
+Location: Stageright GA; microphones elevated approximately 4 meters, NOS
+SD > .flac: Apple 14" Macbook Pro (Apple M1 Max / 32GB RAM) > Avid Pro Tools Ultimate v. 2021.12.0 > Dell Precision 7670 16" (i9-12950HX / 32GB RAM) > Merging Technologies Pyramix 14 Native Premium (@ 24-bit / 176.4 kHz) > Merging Technologies Horus (w/ DA8P Premium output module; @ 24-bit / 176.4 kHz) > Mogami Gold DB25 / XLR3M snake > Manley Massive Passive stereo tube program equalizer > Mogami Gold XLR > Rupert Neve Designs Master Bus Transformer > Mogami Gold XLR > Rupert Neve Designs Portico II Master Buss Processor > Mogami Gold XLR > Network Sound Mamba XLR-to-DB25 patchbay > Merging Technologies Horus (w/ 4 x AKD8DP Premium input modules; @ 24-bit / 176.4 kHz) > Merging Technologies Pyramix 14 Native Premium (@ 24-bit / 176.4 kHz) > Apple 14" Macbook Pro (Apple M1 Max / 32GB RAM) > DSP-Quattro 5.9 > xACT v2.52
+
+t01 Introduction  						03:18.74
+t02 Spoon  							07:10.54
+t03 You Never Know  						08:34.27
+t04 Monsters  							06:17.17
+t05 Hunger For The Great Light  				04:56.51
+t06 Grey Street  						07:26.62
+t07 American Baby Intro >  					07:37.38
+t08 Break Free  						08:27.26
+t09 You Might Die Trying  					10:09.12
+t10 Captain %  							06:59.50
+t11 Sledgehammer ^  						08:30.47
+t12 Smooth Rider + > 						05:34.27
+t13 Intro To...  						01:24.20
+t14 Crush  							15:27.45
+t15 Rooftop  							06:46.49
+t16 Granny  							05:09.26
+t17 Fool In The Rain * 						08:21.46
+t18 Tripping Billies # 						06:43.02
+t19 So Much To Say # >  					04:12.11
+t20 Anyone Seen The Bridge # > 					01:56.40
+t21 Too Much # >   						05:36.17
+t22 Ants Marching # +  						20:56.08
+---
+t23 Baby Blue @							06:00.09
+t24 The Last Stop (Immigrant Song *)  				08:24.16
+
+								176:01.24
+
+>  Indicates a segue into the next song
+%  Featuring Mark Whitfield
+^  Peter Gabriel cover
++  Featuring Trombone Shorty
+#  Featuring Cory Wong
+*  Led Zeppelin cover
+@  Dave solo
+() Indicates a tease or partial song if not part of a song with a parenthetical subtitle
+
+Notes:
+
+Compiled by Christopher Jones <<email>> 13 January 2024.

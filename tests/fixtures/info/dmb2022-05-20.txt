@@ -1,0 +1,33 @@
+Dave Matthews Band
+May 20th 2022
+PNC Music Pavilion Charlotte
+Charlotte, NC
+
+Source: SiriusXM HLS "Extreme" quality stream > VLC > WAV
+Conversion: Decompress AAC to WAV via VLC > Audacity (Tracking) > foobar2000 (Tagging, conversion to FLAC Level 8)
+
+01: Intro
+02: Funny the Way It Is
+03: One Sweet World
+04: Where Are You Going
+05: The Only Thing
+06: Sweet
+07: Crush
+08: Samurai Cop (Oh Joy Begin)
+09: Granny
+10: So Damn Lucky
+11: Can't Stop
+12: Lover Lay Down
+13: Dancing Nancies »
+14: Warehouse
+15: Break for It
+16: Walk Around the Moon
+17: Grace Is Gone
+18: Jimi Thing
+19: She
+20: Two Step
+-----------------------------------
+21: Why I Am
+22: Time Bomb
+
+Compiled on 5/21/2022

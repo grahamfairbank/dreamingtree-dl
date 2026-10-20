@@ -1,0 +1,31 @@
+Dave Matthews Band
+July 30, 2021
+iTHINK Financial Amphitheatre, West Palm Beach, FL
+
+Source: SiriusXM HLS "Extreme" quality stream > VLC > WAV
+Conversion: Decompress AAC to WAV via VLC > Audacity (Tracking) > foobar2000 (Tagging, conversion to FLAC Level 8)
+
+01: Seek Up
+02 Crash into Me
+03: When the World Ends
+04: Satellite
+05: Sweet Up and Down
+06: Sweet
+07: Recently
+08: Funny the Way It Is
+09: Walk Around the Moon
+10: Jimi Thing »
+11: I Want a New Drug [partial] » Sexy M.F. [partial]
+12: Seven
+13: Where Are You Going
+14: Rooftop
+15: Lying in the Hands of God
+16: You & Me
+17: Don't Drink the Water
+18: Louisiana Bayou
+19: Shake Me Like a Monkey
+-----------------------------------
+20: Sister
+21: Tripping Billies
+
+Compiled on 7/31/2021

@@ -1,0 +1,75 @@
+Dave Matthews Band
+9 May 2023
+Auditorio Nacional - Mexico City, MEX
+
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+*=*=*=*=* 16/48 RECORDING *=*=*=*=*
+*=* NOT SUITABLE FOR CD BURNING *=*
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+
+Taper: Zachary Semcken
+Source: AKG C414 XLII (Hypercardioid) > MixPre 10 II (32 Bit Float @ 96)
+Location: Front Stage Left Corner of FOH, DFC, Mics PAS @ 7'
+Editing: WAV > Reaper 6.79 (Gain, Mixing/Post Processing, Normalizing, Resample 32/48) > Audacity 3.3.2 (Fades, Tracking) > FLAC (Level 8)
+
+Setlist:
+
+01. Intro
+02. Satellite
+03. Pantala Naga Pampa >
+04. Rapunzel
+05. Come On Come On
+06. Madman's Eyes¹
+07. Dave Speak: Español
+08. Virginia in the Rain
+09. Jimi Thing
+10. Bismarck
+11. Dave Speak: Pandemia
+12. #41
+13. Band Introductions
+14. Grey Street
+15. Dave Speak: Demasiado para beber/Ciudad de México amor
+16. Busted Stuff
+17. The Space Between
+18. Louisiana Bayou
+19. Crash into Me²
+20. Monsters³
+21. Why I Am 
+22. You & Me⁴
+23. Warehouse⁵
+24. Encore Break
+25. Dave Speak: Looking for a Vein Intro
+26. Looking for a Vein⁶
+27. Don't Drink the Water⁷
+
+Set Time: [02:33:55.013]
+
+Dave Matthews Band:
+
+Dave Matthews - Guitar, Lead Vocals
+Tim Reynolds - Electric Guitar
+Stefan Lessard - Bass
+Buddy Strong - Keyboards, Vocals
+Rashawn Ross - Trumpet, Vocals
+Jeff Coffin - Saxophone, Flute
+Carter Beauford - Drums
+
+Notes:
+
+¹ Dave album intro vocals; extended outro
+² Dixie Chicken interpolation
+³ Full Band Debut
+⁴ includes Hope for Tomorrow prelude
+⁵ Improv and stop-time intros
+⁶ Song Debut
+⁷ includes prelude with Forty Six & 2 interpolation
+
+Rashawn teases "Feels So Good" by Chuck Mangione between Jimi Thing and Bismarck.
+
+During "Louisiana Bayou", Dave's guitar pack has a malfunction that causes the band to lose track of where they are in the song.
+
+My undying gratitude to Red Light Management for making this recording possible.
+
+This recording is dedicated to all the tapers that have taught me to love archiving live music.
+
+Compiled on 2023/05/10.

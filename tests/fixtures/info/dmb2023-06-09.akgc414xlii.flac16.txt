@@ -1,0 +1,75 @@
+Dave Matthews Band
+June 9, 2023
+Forest Hills Stadium - Forest Hills, NY
+
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+*=*=*=*=* 16/48 RECORDING *=*=*=*=*
+*=* NOT SUITABLE FOR CD BURNING *=*
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+
+Taper: Zachary Semcken
+Source 1: AKG C414 XLII (Hypercardioid) > MixPre 10 II (32 Bit Float @ 96)
+Location: Front House Right Corner of FOH, Slightly Right of DFC, Approx. 115' from Stage Lip, Mics PAS @ 13'
+Editing: WAV > Reaper 6.80 (Gain, Mixing/Post Processing, Normalizing, Resample 32/48) > Audacity 3.3.2 (Fades, Tracking) > FLAC (Level 8)
+
+Setlist:
+
+01. Intro
+02. One Sweet World¹
+03. Dave Speak: Smokey Manhattan
+04. When the World Ends
+05. Busted Stuff
+06. Pantala Naga Pampa >
+07. Rapunzel
+08. Dave Speak: Borders are Bullshit
+09. Looking for a Vein
+10. Madman's Eyes
+11. Funny the Way It Is
+12. Kill the Preacher
+13. Why I Am
+14. Walk Around the Moon
+15. JTR²
+16. You & Me
+17. The Only Thing
+18. Jimi Thing >
+19. Brick House³ (Partial)
+20. #41⁴
+21. It Could Happen
+22. Warehouse⁵
+23. Crash Into Me⁶
+24. You Might Die Trying⁷
+25. Encore Break
+26. Monsters
+27. Granny
+28. Crush⁸
+
+Set Time: [02:41:30.493]
+
+Dave Matthews Band:
+
+Dave Matthews - Guitar, Lead Vocals
+Tim Reynolds - Electric Guitar
+Stefan Lessard - Bass
+Buddy Strong - Keyboards, Vocals
+Rashawn Ross - Trumpet, Vocals
+Jeff Coffin - Saxophone, Flute
+Carter Beauford - Drums
+
+Notes:
+
+¹ Swim Naked outro
+² played in response to crowd chants after the rain started
+³ The Commodores cover
+⁴ with "Empire State of Mind" (Jay-Z/Alicia Keys) interpolation
+⁵ improv intro; with "Louie Louie" interpolation
+⁶ with "Dixie Chicken" interpolation
+⁷ Dave skips the lyrics to half of the first verse
+⁸ very brief Stefan solo intro
+
+Heavy rain started to fall during "Walk Around the Moon" through "JTR", causing my mics to become wet. There's a few heavy pops of rain that I've edited to be less jarring during these sections.
+
+There is a brief "Hope For Tomorrow" tease from Dave between "JTR" and "You & Me".
+
+This recording is dedicated to Jaclyn Hensen Aochoa and all those who loved her. May her spirit continue to live on through them and through the music of Dave Matthews.
+
+Compiled on 2023/06/14.

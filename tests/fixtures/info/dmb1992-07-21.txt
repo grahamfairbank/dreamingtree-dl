@@ -1,0 +1,57 @@
+Dave Matthews Band
+July 21, 1992
+Trax 
+Charlottesville, VA
+
+SBD+ Vol. 3.
+
+Taper:  Unknown
+Source: DSBD
+
+Master:	SHN > 32Bit WAV > DC Remove > Edits/SpRepair > DeNoise > 
+	PEQ/MD/MHE/MTI/RV/UM/Vox/Brick > Dither > 16Bit WAV > FLAC
+
+
+Disc 1:
+
+01:	Tangerine
+02:	Lie In Our Graves
+03:	Drive In, Drive Out
+04:	Seek Up
+05:	Best of What's Around (solo)
+06:	Two Step
+07:	Minarets
+08:	Blue Water
+09:	One Sweet World
+10:	So Much To Say
+11:	Song That Jane Likes
+12:	Lover Lay Down
+13.	Satellite
+14.	Help Myself
+
+Disc 2:
+
+1:	dead time
+2:	Ants Marching
+3:	Recently
+4:	Spotlight
+5:	Dancing Nancies
+6:	Tripping Billies
+7:	True Reflections
+
+Disc 3:
+
+1:	(Warehouse)
+2:	What Would You Say?
+3:	All Along the Watchtower
+4:	Best of What's Around (full band)
+5:	Typical Situation Intro
+6:	Typical Situation
+
+Master Notes:
+----------
+
+* Lots of problems in this show, but the SBD is relatively clean and the show is too good not to release.
+* Cleaned up. 
+* The recording of Warehouse is broken beyond repair and thus was left out. A fade was inserted into WWYS. 
+* Mastered over a period of months in 2010. 

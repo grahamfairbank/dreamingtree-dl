@@ -1,0 +1,64 @@
+Dave Matthews Band
+November 5, 2022
+Moda Center - Portland, OR
+
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+*=*=*=*=* 16/48 RECORDING *=*=*=*=*
+*=* NOT SUITABLE FOR CD BURNING *=*
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+
+Mixing: Zachary Semcken
+Source: AKG C414 XLII (Hypercardioid) > MixPre 6 II (32 Bit Float @ 96)
+Location: GA Floor, House Left Rear Rail, Aligned w/ House Right Stack, Approx. 45' from Stage, Mics PAS @ 15'
+Editing: WAV > Reaper 6.69 (Gain, Mixing, Normalizing, Resample 32/48) > WAV (32 Bit Float @ 48) > Audacity 3.2.1 (Fades, Tracking) > FLAC (Level 8)
+
+Setlist:
+
+01. Intro
+02. Granny¹
+03. Do You Remember
+04. You Might Die Trying
+05. Madman's Eyes
+06. Sweet
+07. So Much to Say >
+08. Anyone Seen the Bridge² >
+09. Too Much
+10. If Only
+11. Pantala Naga Pampa >
+12. Rapunzel
+13. Lying in the Hands of God³
+14. Fool in the Rain⁴
+15. Lover Lay Down
+16. Can't Stop
+17. #41
+18. You & Me⁵
+19. Dancing Nancies >
+20. Ants Marching⁶
+21. Encore Break
+22. Don't Drink the Water⁷
+
+Set Time: [02:34:04.947]
+
+Dave Matthews Band:
+
+Dave Matthews - Guitar, Lead Vocals
+Tim Reynolds - Electric Guitar
+Stefan Lessard - Bass
+Buddy Strong - Keyboards, Vocals
+Rashawn Ross - Trumpet, Vocals
+Jeff Coffin - Saxophone, Flute
+Carter Beauford - Drums
+
+Notes:
+
+¹ with prelude
+² Also Sprach Zarathustra and Heartbreaker interpolations
+³ American Baby Intro and Bourbons & Lacs interpolations
+⁴ Led Zeppelin cover
+⁵ with Hope for Tomorrow prelude
+⁶ with Carter solo intro and Shake Your Body (Down to the Ground) interpolation
+⁷ with prelude with Forty Six & 2 and Schism interpolations, Tim delay outro
+
+This recording is dedicated to all the tapers that have taught me to love archiving live music.
+
+Compiled on 2022/11/06.

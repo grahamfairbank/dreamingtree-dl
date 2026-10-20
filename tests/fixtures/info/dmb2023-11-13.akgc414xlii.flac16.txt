@@ -1,0 +1,67 @@
+Dave Matthews Band
+November 13, 2023
+Mohegan Sun Arena - Uncasville, CT
+
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+*=*=*=*=* 16/48 RECORDING *=*=*=*=*
+*=* NOT SUITABLE FOR CD BURNING *=*
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+
+Taper: Zachary Semcken
+Source: AKG C414 XLII (Hypercardioid) > MixPre 10 II (32 Bit Float @ 96)
+Location: House Left of FOH, Slightly LOC, Mics PAS @ 12'.
+Editing: WAV > Reaper 7.03 (Gain, Mixing, Normalizing, Resample 32/48) > Audacity 3.4.0 (Fades, Tracking) > FLAC (Level 8)
+
+Setlist:
+
+01. Intro
+02. Squirm
+03. Big Eyed Fish >
+04. Madman's Eyes
+05. When the World Ends
+06. Seven
+07. Lying in the Hands of God >
+08. American Baby Intro >
+09. Break Free
+10. Sledgehammer¹
+11. You Might Die Trying
+12. Crash Into Me²
+13. The Only Thing
+14. Rooftop
+15. Lover Lay Down 
+16. So Much to Say >
+17. Anyone Seen the Bridge³ >
+18. Too Much
+19. Looking for a Vein
+20. Dancing Nancies >
+21. Warehouse⁴
+22. Encore Break
+23. Rye Whiskey⁵
+24. All Along the Watchtower⁶
+
+Set Time: [02:36:25.654]
+
+Dave Matthews Band:
+
+Dave Matthews - Guitar, Lead Vocals
+Tim Reynolds - Electric Guitar
+Stefan Lessard - Bass
+Buddy Strong - Keyboards, Vocals
+Rashawn Ross - Trumpet, Vocals
+Jeff Coffin - Saxophone, Flute
+Carter Beauford - Drums
+
+Notes:
+
+¹ Peter Gabriel cover
+² includes Stefan prelude; Dixie Chicken interpolation
+³ Also Sprach Zarathustra and Heartbreaker interpolations
+⁴ improv and stop-time intros; Louie Louie interpolation
+⁵ Tex Ritter cover
+⁶ Bob Dylan cover, Stefan solo intro; Stairway to Heaven interpolation
+
+Huge thanks to Bill Lakenan for providing extra coverage for this show.
+
+This recording is dedicated to all the tapers that have taught me to love archiving live music.
+
+Compiled on 2023/11/17.

@@ -1,0 +1,56 @@
+name: dreamingtree-dl
+
+services:
+  qbittorrent:
+    image: lscr.io/linuxserver/qbittorrent:5.2.4_v2.0.15-ls481
+    container_name: dtdl-qbittorrent
+    environment:
+      PUID: "${APP_UID:-997}"
+      PGID: "${APP_GID:-997}"
+      TZ: Etc/UTC
+      WEBUI_PORT: "8080"
+      TORRENTING_PORT: "6881"
+    volumes:
+      - ../data/qbittorrent:/config
+      - dtdl_staging:/staging
+    ports:
+      - "127.0.0.1:8093:8080"     # WebUI, host-local only (debugging)
+      - "6881:6881"
+      - "6881:6881/udp"
+    restart: unless-stopped
+
+  app:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    image: dreamingtree-dl:latest
+    container_name: dtdl-app
+    user: "${APP_UID:-997}:${APP_GID:-997}"
+    group_add: ["${HOST_GID:-1000}"]   # shares data/ (your group, setgid) with the host user
+    environment:
+      DTDL_CONFIG: /app/data/config.json
+      DTDL_FAKE: "0"
+      DTDL_PLEX_SSH: "${PLEX_SSH:-plex@media-server}"
+    volumes:
+      - ../data:/app/data
+      - dtdl_staging:/staging
+      - dtdl_library:/library
+    ports:
+      - "8092:8092"
+    depends_on:
+      - qbittorrent
+    restart: unless-stopped
+
+volumes:
+  dtdl_staging:
+    driver: local
+    driver_opts:
+      type: nfs
+      o: addr=${NAS_ADDR:?set NAS_ADDR in docker/.env},rw,nfsvers=4,soft,timeo=100,retrans=2
+      device: ":${NAS_EXPORT:-/export/dreamingtree-dl}"
+  dtdl_library:
+    driver: local
+    driver_opts:
+      type: nfs
+      o: addr=${MEDIA_ADDR:?set MEDIA_ADDR in docker/.env},rw,nfsvers=4,soft,timeo=100,retrans=2
+      device: ":${MEDIA_EXPORT:-/srv/music}"

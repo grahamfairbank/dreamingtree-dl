@@ -1,0 +1,47 @@
+Dave Matthews Band 
+September 19, 2022
+Hollywood Bowl - Hollywood, CA
+
+Taper: Jon Koch 
+Source: Schoeps MK4 > active cables > Nbox Platinum > Edirol R-09HR (24/48) 
+Location: FOH, DFC, Mics DIN ~10'  
+Transfer: Edirol R-09HR > SDHC > PC 
+Edit: wav > Sony Soundforge 9.0a > wav > CD Wave > wav 
+Conversion: wav > Trader's Little Helper 2.4.1 > .flac 
+
+---PRESERVE THE QUALITY, PLEASE DO NOT ENCODE INTO MP3 OTHER THAN FOR PERSONAL USE--- 
+
+01: Intro			[02:17]
+02: #41				[11:04]				
+03: You Never Know		[09:08]
+04: Fool in the Rain		[07:27]
+05: Satellite			[06:03]
+06: Walk Around the Moon	[06:39]
+07: Sweet			[07:15]
+08: Don't Drink the Water	[07:30]
+09: The Riff			[06:05]
+10: You & Me			[06:59]
+11: Lover Lay Down		[10:00]
+12: Squirm+			[06:23]
+13: When the World Ends+	[04:53]
+14: Steady As We Go+		[04:05]
+15: What You Are+		[09:23]
+16: Stay or Leave		[04:09]
+17: Kill the Preacher		[02:11]
+18: Why I Am			[07:13]
+19: Jimi Thing@			[16:01]
+20: Ants Marching@^		[08:07]
+21: Encore break/intro		[05:46]
+22: Rye Whiskey%		[04:07]
+23: Grey Street			[07:06]
+Total:	      		       [2:39:51] 
+
++ w/ string section conducted by Dave Campbell
+@ w/ Alex Wasily (trombone) & Elizabeth Lea (trombone)
+^ w/ Ann Marie Simpson (violin) 
+% Dave solo
+
+Notes: This recording is dedicated to the memory of LeRoi Moore.
+Thanks to the DMB sound crew for all their work and for providing space at FOH.  
+
+Compiled on 09.21.22

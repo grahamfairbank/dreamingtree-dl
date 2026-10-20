@@ -1,0 +1,47 @@
+Dave Matthews Band
+Fiddler's Green Amphitheatre
+Greenwood Village, CO
+September 10, 2022
+
+Taper: Jason Johnson (<email>)
+Location: Sec 102 Row MM Seat 114, DIN @ 10'
+Source: akg ck61s > nbob actives > SD MixPre-6ii (32/48)
+Conversion: MixPre-6ii > Adobe Audition (dither) > Trader's Little Helper > Foobar2000
+
+01 Intro
+02 Granny
+03 Pig
+04 Eh Hee
+05 Do You Remember
+06 Fool to Think
+07 If Only
+08 So Right
+09 Drunken Soldier
+10 Grey Street
+11 It's Your Thing
+12 Intro to...>
+13 Crush
+14 Fool in the Rain
+15 Come On Come On
+16 Tripping Billies
+17 Kill the Preacher*
+18 Why I Am
+19 So Damn Lucky
+20 Everyday >
+21 Ants Marching
+22 Encore Break
+23 Oh@
+24 Pantala Naga Pampa >
+25 Rapunzel
+
+Notes:
+* Dave solo
+@ Dave and Tim
+
+24/48 version also exists.
+Thanks to Ron for everything.
+Slight phasing throughout due to mist/rain and wind.
+Drop in audio level during Rapunzel was venue-related, not due to recording.
+
+Compiled by Jason Johnson on September 12, 2022.
+www.greppson.net

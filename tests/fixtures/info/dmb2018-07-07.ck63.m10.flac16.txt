@@ -1,0 +1,44 @@
+Dave Matthews Band
+Deer Creek Music Center
+Noblesville, IN
+July 7, 2018
+
+Taper: Crumbo
+Location: Section A, Row O, Seats 18-19
+Source: AKG ck63 (DINa-ish, ~16') > NBob Actives > nbox platinum > Sony PCM-M10 (24/96)
+Conversion: Sony PCM-M10 > Wave Editor 1.58 (iZotope Resampler, iZotope MBIT+ Dither) > xACT 2.45
+
+***24/96 Version exists in flac format***
+
+01. Intro                                            02:33.57
+02. That Girl Is You                                 05:31.36
+03. What Would You Say                               06:39.27
+04. Stay or Leave                                    04:40.20
+05. So Much to Say                                   05:10.54
+06. Grey Street                                      07:29.13
+07. Come Tomorrow                                    07:43.29
+08. So Right                                         07:44.72
+09. Hunger for the Great Light                       04:24.15
+10. You Might Die Trying                             10:11.47
+11. Can't Stop                                       05:04.30
+12. Dancing Nancies >                                09:56.00
+13. Warehouse                                        11:41.32
+14. Here On Out *                                    04:56.02
+15. Lying in the Hands of God > American Baby Intro  14:38.71
+16. Rhyme & Reason                                   07:08.07
+17. Shake Me Like a Monkey                           04:38.19
+18. Granny                                           04:34.25
+19. Two Step                                         21:01.47
+20. Encore Break                                     06:19.27
+21. Come On Come On                                  06:23.49
+22. Ants Marching                                    10:54.62
+
+Total: 169:25.66
+
+Notes:
+
+* Dave Solo
+-Thanks to Drews for the tix, Jason for the help and Scott and Kathy for the hospitality.
+
+
+Compiled by Crumbo on 7-8-2018

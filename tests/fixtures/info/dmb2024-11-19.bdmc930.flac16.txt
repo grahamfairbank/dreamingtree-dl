@@ -1,0 +1,37 @@
+Dave Matthews Band
+November 19, 2024
+Mohegan Sun Arena
+Uncasville, CT
+
+Taper:		Steven Walkuski (<email>)
+Source:		Beyerdynamic MC930 (Cardioids) > Lunatec V3 (Digital out)> Tascam HD-P2 (recorded as 24-bit/44.1kHz, resampled to 16-bit)
+Location:	Stage left, back of the pit, in line with the stack
+Conversion:	Adobe Audition 2024 > CD Wave Editor V1.98 to flac, level 8
+Mixing:		Scooped the bass -5dB at 60Hz, various volume adjustments to amplify
+
+01 - Tripping Billies			06:51
+02 - Satellite				05:38
+03 - Madman's Eyes			07:43
+04 - What Would You Say			05:17
+05 - #27				06:27
+06 - #41				08:55
+07 - Kill the Preacher			02:13
+08 - Why I Am				06:27
+09 - Spaceman				06:11
+10 - One Sweet World			08:39
+11 - Let's Dance			05:07
+12 - Looking for a Vein			04:39
+13 - Crash Into Me			08:23
+14 - Black and Blue Bird		05:51
+15 - Jimi Thing >			10:31
+16 - Brick House			03:55
+17 - You & Me				04:54
+18 - Everyday				08:06
+19 - Ants Marching			13:17
+==========
+20 - The Book of Love (Dave solo)	07:45
+21 - Grey Street			07:11
+
+There were several quick volume adjustments during the first 20 seconds of Tripping Billies that were smoothed out as best as possible.
+
+Compiled by Henry Hart on 11.22.2024

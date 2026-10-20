@@ -1,0 +1,46 @@
+Dave Matthews Band
+July 18th, 2019
+Wantagh, NY
+Northwell Health at Jones Beach Theater	 
+
+Taper : Zachary Mohney (<email>)
+Location : Left Pit 10 Feet from Stack @ ~12 Feet 
+Source :
+Mic Pair 1 | Oktava MK012 (Cardioid Caps) > Mogami Snake > Sound Devices MixPre6
+Mic Pair 2 | dpa4061 > DAD6001 > Mogami Snake > Sound Device MixPre6
+Lineage :
+Sound Devices MixPre6 @ 96/24 > SD Card > MacBook > 
+Adobe Audition (Assembly / Leveling / Tracking) > xACT (Flac & CBR ACC)
+
+24 Bit Flac Release | No 16 Bit Source Release
+
+01. Introduction
+02. Intro To...
+03. The Last Stop
+04. Corn Bread
+05. #41
+06. The Song That Jane Likes
+07. Kill The Preacher >
+08. Why I Am
+09. Come Tomorrow
+10. Joyride
+11. Lover Lay Down
+12. Dancing Nancies >
+13. Warehouse
+14. Can't Stop
+15. Sledgehammer
+16. Here on Out
+17. Sugar Will
+18. What Would You Say
+19. Jimi Thing >
+20. Back in Black > (Stayin' Alive)
+21. Fly Like an Eagle
+22. Pantala Naga Pampa >
+23. Rapunzel
+24. Encore Break
+25. Where Are You Going
+26. Louisiana Bayou
+
+Notes:
+- Rescheduled make up show for the storm delay at Jones Beach the night before.
+- Weather was fairly extreme with major winds the whole night and rain at various times.

@@ -1,0 +1,44 @@
+Dave Matthews Band
+Bank of NH Pavilion
+Gilford, NH
+July 16, 2024
+
+Taper: Jason Johnson (<email>)
+Location: Pit Stage Right, DIN @ 15'
+Source: akg ck61s > nbob actives > SD MixPre-6ii (32/48)
+Conversion: MixPre-6ii > Adobe Audition (hi-pass filter, dither, resample) > Trader's Little Helper > Foobar2000
+
+01: Intro
+02: JTR
+03: Spoon
+04: Recently
+05: Walk Around the Moon
+06: The Best of What's Around
+07: Busted Stuff
+08: Rhyme & Reason
+09: Stolen Away on 55th & 3rd
+10: Where Are You Going
+11: Madman's Eyes
+12: Sugar Will
+13: Pantala Naga Pampa >
+14: Pig
+15: Anyone Seen the Bridge >
+16: Too Much
+17: Digging a Ditch
+18: Let's Dance
+19: So Damn Lucky
+20: The Last Stop
+21: Encore Break
+22: Just Breathe*
+23: Grey Street
+
+Notes:
+* Dave solo
+
+Thanks to Kelley and John for all the help.
+Thanks to Kevin and Jonathan for the venue assists.
+
+24/48 version also exists.
+
+Compiled by Jason Johnson on July 17, 2024.
+www.greppson.net

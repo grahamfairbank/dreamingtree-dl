@@ -1,0 +1,53 @@
+Dave Matthews Band
+June 2, 2018
+Blossom Music Center
+Cuyahoga Falls, OH
+
+Source: SiriusXM Web Player (Extreme Quality Setting, 256kbps AAC v4) > ffmpeg-20180616-70742f0-win64-static
+Conversion: Convert AAC to WAV via ffmpeg-20180616-70742f0-win64-static > CD Wave Editor 1.97 (Tracking) > foobar2000 (Tagging, conversion to FLAC Level 8)
+
+01: Introduction
+02: Do You Remember
+03: Shake Me Like a Monkey
+04: When the World Ends
+05: Granny
+06: #41
+07: Idea of You
+08: Grey Street
+09: Smooth Rider
+10: Why I Am
+11: Crush
+12: Samurai Cop (Oh Joy Begin)
+13: Corn Bread
+14: Jimi Thing
+15: She
+16: Crash into Me
+17: Typical Situation
+18: Louisiana Bayou
+19: Ants Marching
+20: Encore Break
+21: You & Me
+22: Stay (Wasting Time)
+
+Compiled on 8/10/2018
+
+Notes:  Original media info for ADTS format AAC prior to conversion to FLAC for distribution is included below for reference.  No further "lossy" conversions took place in processing this capture.
+
+General
+Format                                   : ADTS
+Format/Info                              : Audio Data Transport Stream
+File size                                : 328 MiB
+Overall bit rate mode                    : Variable
+
+Audio
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format version                           : Version 4
+Format profile                           : LC
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 kHz
+Frame rate                               : 43.066 FPS (1024 spf)
+Compression mode                         : Lossy
+Stream size                              : 328 MiB (100%)

@@ -1,0 +1,70 @@
+Dave Matthews Band
+November 18, 2022
+Madison Square Garden - New York, NY
+
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+*=*=*=*=* 16/48 RECORDING *=*=*=*=*
+*=* NOT SUITABLE FOR CD BURNING *=*
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+
+Mixing: Zachary Semcken
+Source: AKG C414 XLII (Hypercardioid) > MixPre 10 II (32 Bit Float @ 96)
+Location: Inside FOH, Slightly House Right of DFC, Mics PAS @ ~15'
+Editing: WAV > Reaper 6.70 (Gain, Mixing, Normalizing, Resample 32/48) > WAV (32 Bit Float @ 48) > Audacity 3.2.1 (Fades, Tracking) > FLAC (Level 8)
+
+Setlist:
+
+01. Intro
+02. When the World Ends
+03. You Might Die Trying
+04. You Never Know
+05. Can't Stop
+06. If Only
+07. Rooftop
+08. So Damn Lucky¹
+09. The Riff
+10. What Would You Say
+11. The Ocean and the Butterfly
+12. Crush²
+13. Squirm
+14. Louisiana Bayou
+15. Lying in the Hands of God³
+16. Why I Am
+17. Lie in Our Graves⁴⁵
+18. Stay (Wasting Time)⁶
+19. Ants Marching⁷⁸
+20. Encore Break
+21. Some Devil
+22. Grey Street⁹
+
+Set Time: [02:48:06.282]
+
+Dave Matthews Band:
+
+Dave Matthews - Guitar, Lead Vocals
+Tim Reynolds - Electric Guitar
+Stefan Lessard - Bass
+Buddy Strong - Keyboards, Vocals
+Rashawn Ross - Trumpet, Vocals
+Jeff Coffin - Saxophone, Flute
+Carter Beauford - Drums
+
+Notes:
+
+¹ Thank You (Falettinme Be Mice Elf Agin) interpolation
+² Stefan solo intro; Theme from New York, New York interpolation
+³ American Baby Intro and Bourbons & Lacs interpolations
+⁴ with Louis Cato on Electric Guitar & Vocals
+⁵ No Reprise
+⁶ with Louis Cato on Electric Guitar, Louis Fouché on Alto Sax, and Jon Lampley on Trumpet
+⁷ with Louis Fouché on Alto Sax and Jon Lampley on Sousaphone
+⁸ Carter solo intro; Shake Your Body (Down to the Ground) interpolation
+⁹ St. Thomas interpolation
+
+Major shout out to Greg Mendelsohn for the clamp space and being the best taping buddy a guy can ask for. 
+
+Huge thanks to the DMB Crew for letting Greg & I set up a stand in the cage and being incredibly supportive of live taping.
+
+This recording is dedicated to all the tapers that have taught me to love archiving live music.
+
+Compiled on 2022/11/19.

@@ -1,0 +1,80 @@
+Dave Matthews Band
+November 9, 2021
+Mohegan Sun Arena
+Uncasville, CT
+
+
+
+
+Taper: Steven Walkuski (<email>)
+Location: Inside Soundboard, LOC, Stand at ~12ft
+Source: Beyerdynamic MC930 (Cardioids) > Lunatec V3 (Digital out)> Tascam DR-100mkII  (@24/48 LPCM)
+Transfer: DR-100mkII> PC
+Conversion: 24/48kHz wav->Sound Forge Pro 10 > iZotope 64-Bit SRC & iZotope MBIT+ for resample and dither to 16/44.1 kHz, No normalization, Fade in fade out applied, Waves L3 Ultramaximizer applied->CD Wave Editor->Flac (level 8)> Foobar 2000 for tagging 
+
+***************************************************************************************** 
+*****************DO NOT ENCODE THIS SHOW TO LOSSY FORMATS******************************** 
+*******************DO NOT SELL OR DISTRIBUTE FOR PROFIT**********************************
+*****************************************************************************************
+
+Disc 1
+
+01. Intro
+02. #41
+03. So Much To Say->
+    Anyone Seen The Bridge-> 
+04. Too Much
+05. Broken Things
+06. Louisiana Bayou
+07. One Sweet World
+08. Sweet
+
+Disc 2
+
+09. Sledgehammer
+10. Squirm
+11. Sweet Up And Down
+12. The Space Between
+13. The Song That Jane Likes
+14. So Damn Lucky
+15. Rooftop
+
+Disc 3 
+
+16. Grace Is Gone
+17. Typical Situation
+18. Don't Drink The Water->
+19. Ants Marching 
+
+20. Encore Break
+
+
+Encore
+
+21. I'll Back You Up
+22. Lie In Our Graves
+
+
+
+
+Entire show with Buddy Strong on keys
+
+
+
+
+Taper notes: I want to thank John Gortakowski for being a great partner in crime. Also want to thank Tommy for letting us set up inside the soundboard area.
+
+
+
+Thanks to Steve for taping and sending me the wav file to convert and share.  Enjoy.
+
+
+ 
+
+Compiled by Tom Gambichler on November 12, 2021 
+
+
+
+ 
+
+

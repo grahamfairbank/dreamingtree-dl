@@ -1,0 +1,58 @@
+Dave Matthews Band
+September 11, 2021
+Five Point Amphitheatre - Irvine, CA
+
+Taper: Zachary Semcken
+Source: AKG C414 XLII (Hypercardioid) > Zoom F6 (32 Bit Float)
+Location: DFC FOH, approx. 100' from stage, Mics XY ~11'
+Editing: WAV > Reaper 6.36 (Gain, Mixing, Normalizing) > Audacity 3.0,4 (Fades, Tracking) > FLAC (Level 8)
+
+01. Intro
+02. One Sweet World&
+03. You Never Know
+04. So Much to Say >
+05. Anyone Seen the Bridge^ >
+06. Too Much
+07. Squirm
+08. Where Are You Going
+09. #41
+10. Pantala Naga Pampa >
+11. Rapunzel
+12. Stay or Leave
+13. Say Goodbye
+14. Samurai Cop (Oh Joy Begin)
+15. #27
+16. Pig
+17. I'll Back You Up
+18. Grey Street
+19. All Along the Watchtower%
+20. Corn Bread
+21. Everyday >
+22. Ants Marching$
+23. Encore Break
+24. Dave Speak: Batson & Daughters
+25. Sister
+26. Why I Am
+
+Dave Matthews Band:
+
+Dave Matthews - Guitar, Lead Vocals
+Tim Reynolds - Electric Guitar
+Stefan Lessard - Bass
+Buddy Strong - Keyboards, Vocals
+Rashawn Ross - Trumpet, Vocals
+Jeff Coffin - Saxophone, Flute
+Carter Beauford - Drums
+
+Notes:
+
+& Swim Naked outro
+^ Also Sprach Zarathustra and Heartbreaker interpolations
+% Bob Dylan cover, with Stefan solo intro, with Stairway to Heaven interpolation
+$ with Carter solo intro, 
+
+Huge thanks to the DMB Crew for letting me set up at FOH.
+
+This recording is dedicated to all the tapers before me who continue to preserve live music.
+
+Compiled on 2021/09/12.

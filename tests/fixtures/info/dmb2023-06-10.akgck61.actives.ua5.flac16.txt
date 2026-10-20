@@ -1,0 +1,77 @@
+Dave Matthews Band
+June 10, 2023
+Xfinity Theatre
+Hartford, CT
+
+
+
+
+Taper: John Gortakowski
+Location: Rear of GA PIT, Right Stack @ 12 ft
+Source: akg/ck61 (cardioids)> nBob actives> > Edirol UA5 (Warm Mod) > Sony PCM-10, Analog input (@ 24/96kHz)
+Transfer: PCM-10> USB> PC
+Conversion: 24/96kHz wav->Sound Forge Pro 10> iZotope 64-Bit SRC & iZotope MBIT+ for resample and dither to 24/48kHz> 16/44.1 kHz, No normalization, Fade in fade out applied, Waves L3 Ultramaximizer applied->CD Wave Editor->Flac (level 8)> Foobar 2000 for tagging 
+
+***************************************************************************************** 
+*****************DO NOT ENCODE THIS SHOW TO LOSSY FORMATS******************************** 
+*******************DO NOT SELL OR DISTRIBUTE FOR PROFIT**********************************
+*****************************************************************************************
+
+Disc 1
+
+01. Intro
+02. The Song That Jane Likes
+03. Stay Or Leave
+04. Satellite (Off-key intro)
+05. All You Wanted Was Tomorrow
+06. Grey Street
+07. Walk Around The Moon
+08. You Might Die Trying
+09. Virginia In The Rain
+10. Madman's Eyes
+11. I Want You (She's So Heavy)->
+12. After Everything
+
+Disc 2
+
+13. Louisiana Bayou
+14. Typical Situation
+15. Don't Drink the Water
+16. Looking For A Vein
+17. The Space Between
+18. Dancing Nancies->
+19. Stay (Wasting Time)
+
+20. Encore Break
+
+Encore
+
+    (#40 tease)
+21. Say Goodbye
+22. Shake Me Like A Monkey
+
+
+
+
+Entire show with Buddy Strong on keys
+
+
+
+
+
+Thanks to Greg for the clamp space. Special thanks to Steve for figuring out the tickets. Always great to have an excuse to get together with you guys!
+
+
+Thanks John to for taping and for sending me the wav file to convert and share.  Enjoy.
+
+
+
+ 
+
+Compiled by Tom Gambichler on June 11, 2023 
+
+
+
+ 
+
+

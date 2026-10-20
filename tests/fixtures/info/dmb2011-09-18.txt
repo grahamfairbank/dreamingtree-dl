@@ -1,0 +1,131 @@
+Dave Matthews Band
+Dave Matthews Band Caravan
+Hudson Stage
+Randall's Island, New York
+9/18/2011
+
+Source: Schoeps CCM4V'S(din)>Lunatec V2>Benchmark AD2K>
+Sound Devices 722 (24/48)
+FOB/DRFC/KFC/ZFC/AARP 45' From Stage, 13' High
+DSP: Sound Devices 722>Sound Forge 9.0>CD Wave>flac(16)
+Recorded By: Z-Man
+Seeded By: Z-Man
+
+Disc I 
+
+01 Greeting
+02 The Stone
+03 Squirm
+04 Alligator Pie
+05 Intro Jam >
+06 Don't Drink The Water
+07 Proudest Monkey >
+08 Satellite
+09 Spoonful Of Sugar Verse
+10 Warehouse
+11 Dave Banter
+12 Brightest Star
+
+Disc II 
+
+01 Burning Down The House
+02 Dave Banter
+03 *Out Of My Hands
+04 Dave Banter
+05 Lying In The Hands Of God
+06 Jimi Thing >
+07 Sexy Mother Fucker
+08 Cornbread
+
+Disc III 
+
+01 Diggin' A Ditch
+02 American Baby >
+03 American Baby
+04 You Might Die Trying
+Encore I:
+05 Dave Banter
+06 Sister
+07 Lie In Our Graves Reprise>
+08 Halloween >
+09 Ants Marching
+Encore II:
+10 Dave Thank You
+11 Thank You For Lettin' Me Be Myself
+
+* With Dave On Piano
+
+Thanks To Chris for the Clamp Space! Great to Hang with Him
+And Scott B>!
+
+Flac Fingerprint 
+
+dmb2011-09-18d01t01.flac:f960c2f5874a3f15abafa79c4e7d65b7
+dmb2011-09-18d01t02.flac:d98eef8609da74485e52960021501d9d
+dmb2011-09-18d01t03.flac:dd2389811477d2ede7ef8e313d933044
+dmb2011-09-18d01t04.flac:f256707e03c9a09483d94f2384eacb0b
+dmb2011-09-18d01t05.flac:651e40b5eb45f34e6223aa526f6c0428
+dmb2011-09-18d01t06.flac:7e3e53961c52bce96834d35b2e0fe3d8
+dmb2011-09-18d01t07.flac:ff97d474b845cf82af112bac8f3a3249
+dmb2011-09-18d01t08.flac:b185923d8a066a693dbc6a30c11dae80
+dmb2011-09-18d01t09.flac:5b7a8c226ff12d72dc020698ac61451d
+dmb2011-09-18d01t10.flac:371774bc6ccc5db98cf36ce8bdfac0cf
+dmb2011-09-18d01t11.flac:3aabf705ed3fc170eeadeafb7fb9cd6b
+dmb2011-09-18d01t12.flac:20aa8db77344fe8d0aaece875066524d
+dmb2011-09-18d02t01.flac:cc4d7380150f02deaa9237e2b0c35a21
+dmb2011-09-18d02t02.flac:05d7a24d4548f291c9e35327905e0469
+dmb2011-09-18d02t03.flac:9e0b7445dd8488a6dc6dd2c12d7608fc
+dmb2011-09-18d02t04.flac:7b62c0d31aea870501b1e34b8a18985e
+dmb2011-09-18d02t05.flac:fdbfb75ce04238902901ff04d50bdfd1
+dmb2011-09-18d02t06.flac:051516fb54e8a2c21a0f1e9a274d2c3c
+dmb2011-09-18d02t07.flac:8d98c65452a080f0c657ec3019dda3da
+dmb2011-09-18d02t08.flac:786c5d7d2a622c4c581b033a2a9b70a1
+dmb2011-09-18d03t01.flac:9a4bcf2a09595842faac4bd3bf8e49ec
+dmb2011-09-18d03t02.flac:28d66183782379acd2482554e65a7954
+dmb2011-09-18d03t03.flac:a1256e83c07e812ac9433fb29c0f3a7a
+dmb2011-09-18d03t04.flac:6f5d5342621a45e67083d496dec433eb
+dmb2011-09-18d03t05.flac:9b9127fea6a2eb7808eb16649ddf9570
+dmb2011-09-18d03t06.flac:60fdda18409cf7d15367062f6dd89840
+dmb2011-09-18d03t07.flac:d5dae92f8864dcc32950e1ef6b3e52c6
+dmb2011-09-18d03t08.flac:17ae3e8d4cbda7ffa192b766a221d378
+dmb2011-09-18d03t09.flac:a8ac49fa7b2699097d8c803cea6c0164
+dmb2011-09-18d03t10.flac:d8d76906ce265e13ff31bb89c20f6f14
+dmb2011-09-18d03t11.flac:224217f66a1d173ec82523cee43cb0c8
+
+Shntool 
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     0:18.37        3262268 B   ---   --   ---xx   flac  0.3770  dmb2011-09-18d01t01.flac
+    13:24.65      141978524 B   ---   --   ---xx   flac  0.4916  dmb2011-09-18d01t02.flac
+     5:20.40       56542124 B   ---   --   ---xx   flac  0.5313  dmb2011-09-18d01t03.flac
+     5:23.61       57120716 B   ---   --   ---xx   flac  0.4862  dmb2011-09-18d01t04.flac
+     2:00.09       21189212 B   ---   --   ---xx   flac  0.2824  dmb2011-09-18d01t05.flac
+     6:55.59       73344812 B   ---   --   ---xx   flac  0.5570  dmb2011-09-18d01t06.flac
+    10:25.53      110374700 B   ---   --   ---xx   flac  0.4094  dmb2011-09-18d01t07.flac
+     5:10.61       54827516 B   ---   --   ---xx   flac  0.4821  dmb2011-09-18d01t08.flac
+     0:28.29        5007452 B   ---   --   ---xx   flac  0.3316  dmb2011-09-18d01t09.flac
+     9:15.30       97972604 B   ---   --   ---xx   flac  0.5230  dmb2011-09-18d01t10.flac
+     1:31.05       16064204 B   ---   --   ---xx   flac  0.3445  dmb2011-09-18d01t11.flac
+     4:39.06       49229756 B   ---   --   ---xx   flac  0.5292  dmb2011-09-18d01t12.flac
+     4:58.74       52741292 B   ---   --   ---xx   flac  0.4859  dmb2011-09-18d02t01.flac
+     1:41.48       17929340 B   ---   --   ---xx   flac  0.3071  dmb2011-09-18d02t02.flac
+     7:32.54       79859852 B   ---   --   ---xx   flac  0.3303  dmb2011-09-18d02t03.flac
+     1:21.40       14382524 B   ---   --   ---xx   flac  0.3042  dmb2011-09-18d02t04.flac
+    17:06.05      180998204 B   ---   --   ---xx   flac  0.4806  dmb2011-09-18d02t05.flac
+    15:12.32      160952108 B   ---   --   ---xx   flac  0.5006  dmb2011-09-18d02t06.flac
+     2:31.36       26721116 B   ---   --   ---xx   flac  0.4334  dmb2011-09-18d02t07.flac
+     6:55.52       73328348 B   ---   --   ---xx   flac  0.5174  dmb2011-09-18d02t08.flac
+     5:30.46       58320236 B   ---   --   ---xx   flac  0.3906  dmb2011-09-18d03t01.flac
+     9:55.52      105080348 B   ---   --   ---xx   flac  0.4635  dmb2011-09-18d03t02.flac
+     5:01.24       53152892 B   ---   --   ---xx   flac  0.5124  dmb2011-09-18d03t03.flac
+     8:36.08       91041260 B   ---   --   ---xx   flac  0.5423  dmb2011-09-18d03t04.flac
+     1:10.49       12463292 B   ---   --   ---xx   flac  0.3170  dmb2011-09-18d03t05.flac
+     4:06.17       43434428 B   ---   --   ---xx   flac  0.3147  dmb2011-09-18d03t06.flac
+     1:18.23       13813340 B   ---   --   ---xx   flac  0.5031  dmb2011-09-18d03t07.flac
+     5:19.40       56365724 B   ---   --   ---xx   flac  0.5559  dmb2011-09-18d03t08.flac
+     8:59.58       95216060 B   ---   --   ---xx   flac  0.5495  dmb2011-09-18d03t09.flac
+     0:49.49        8758892 B   ---   --   ---xx   flac  0.3883  dmb2011-09-18d03t10.flac
+     9:30.30      100618604 B   ---   --   ---xx   flac  0.4936  dmb2011-09-18d03t11.flac
+   182:32.67     1932091748 B                            0.4762  (31 files)
+
+

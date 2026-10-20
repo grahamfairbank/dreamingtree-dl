@@ -1,0 +1,68 @@
+Dave Matthews Band
+November 4, 2022
+Climate Pledge Arena - Seattle, WA
+
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+*=*=*=*=* 16/48 RECORDING *=*=*=*=*
+*=* NOT SUITABLE FOR CD BURNING *=*
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+
+Mixing: Zachary Semcken
+Source: AKG C414 XLII (Hypercardioid) > MixPre 6 II (32 Bit Float @ 96)
+Location: GA Floor, House Right Rear Rail, Aligned w/ House Right Stack, Approx. 45' from Stage, Mics PAS @ 14'
+Editing: WAV > Reaper 6.69 (Gain, Mixing, Normalizing, Resample 32/48) > WAV (32 Bit Float @ 48) > Audacity 3.2.1 (Fades, Tracking) > FLAC (Level 8)
+
+Setlist:
+
+01. Intro
+02. One Sweet World
+03. The Maker¹
+04. Dave Speak: Old Calendars
+05. Stay or Leave
+06. Madman's Eyes
+07. Dave Speak: Vote
+08. Seek Up
+09. She
+10. Crush
+11. Walk Around the Moon
+12. So Damn Lucky²
+13. Gravedigger³
+14. Sledgehammer⁴
+15. Grey Street
+16. Band Introductions
+17. Come Tomorrow
+18. All Along the Watchtower⁵
+19. Kill the Preacher
+20. Why I Am
+21. Jimi Thing⁶
+22. Louisiana Bayou
+23. Encore Break
+24. Dave Speak: Pandemic Memories
+25. Singing from the Windows
+26. Two Step⁷
+
+Set Time: [03:01:08.901]
+
+Dave Matthews Band:
+
+Dave Matthews - Guitar, Lead Vocals
+Tim Reynolds - Electric Guitar
+Stefan Lessard - Bass
+Buddy Strong - Keyboards, Vocals
+Rashawn Ross - Trumpet, Vocals
+Jeff Coffin - Saxophone, Flute
+Carter Beauford - Drums
+
+Notes:
+
+¹ Daniel Lanois cover
+² Thank You (Falettinme Be Mice Elf Agin) interpolation
+³ with Carter solo intro
+⁴ Peter Gabriel cover
+⁵ Bob Dylan cover, with Mike McCreedy on Guitar, with Mike McCreedy solo intro
+⁶ with Skerik on Tenor Sax, with Flash Light interpolation
+⁷ with Time Bomb intro
+
+This recording is dedicated to all the tapers that have taught me to love archiving live music.
+
+Compiled on 2022/11/06.

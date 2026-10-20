@@ -1,0 +1,69 @@
+Dave Matthews Band
+2 November 2022
+Rogers Arena - Vancouver, BC
+
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+*=*=*=*=* 16/48 RECORDING *=*=*=*=*
+*=* NOT SUITABLE FOR CD BURNING *=*
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+
+Mixing: Zachary Semcken
+Source: AKG C414 XLII (Hypercardioid) > MixPre 6 II (32 Bit Float @ 96)
+Location: GA Floor, House Right Rear Rail, Aligned w/ House Right Stack, Approx. 45' from Stage, Mics PAS @ 13'
+Editing: WAV > Reaper 6.69 (Gain, Mixing, Normalizing, Resample 32/48) > WAV (32 Bit Float @ 48) > Audacity 3.2.1 (Fades, Tracking) > FLAC (Level 8)
+
+Setlist:
+
+01. Intro¹
+02. When the World Ends
+03. Pantala Naga Pampa >
+04. Rapunzel
+05. Samurai Cop (Oh Joy Begin)
+06. Madman's Eyes
+07. Grace Is Gone
+08. Drive In Drive Out²
+09. Fool in the Rain³
+10. The Riff
+11. Lover Lay Down
+12. Grey Street
+13. Dave Speak: Hello, Canada?⁴
+14. The Ocean and the Butterfly
+15. Rooftop
+16. Jimi Thing⁵⁶
+17. Band Introductions⁷
+18. Can't Stop⁵
+19. Stolen Away on 55th & 3rd
+20. Don't Drink the Water⁸
+21. Louisiana Bayou
+22. Why I Am
+23. Encore Break
+24. Come Tomorrow
+25. Warehouse
+
+Set Time: [02:39:48.712]
+
+Dave Matthews Band:
+
+Dave Matthews - Guitar, Lead Vocals
+Tim Reynolds - Electric Guitar
+Stefan Lessard - Bass
+Buddy Strong - Keyboards, Vocals
+Rashawn Ross - Trumpet, Vocals
+Jeff Coffin - Saxophone, Flute
+Carter Beauford - Drums
+
+Notes:
+
+¹ Crowd sings "Happy Birthday" to Carter
+² with extended intro
+³ Led Zeppelin cover
+⁴ with "Keep A-Knockin' (But You Can't Come In)" (Little Richard) snippet by Dave
+⁵ with Audrey Ochoa on Trombone
+⁶ with I Want to Take You Higher outro
+⁷ Crowd sings "Happy Birthday" to Carter, Tim joins in for a snippet
+⁸ with prelude
+⁹ with prelude & stop time intro
+
+This recording is dedicated to all the tapers that have taught me to love archiving live music.
+
+Compiled on 2022/11/03.

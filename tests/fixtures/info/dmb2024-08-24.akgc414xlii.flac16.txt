@@ -1,0 +1,69 @@
+Dave Matthews Band
+August 24, 2024
+Fiddler's Green Amphitheatre - Greenwood Village, CO
+
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+*=*=*=*=* 16/48 RECORDING *=*=*=*=*
+*=* NOT SUITABLE FOR CD BURNING *=*
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+
+Taper: Zachary Semcken
+Source: AKG C414 XLII (Hypercardioid) > MixPre 10 II (32 Bit Float @ 96)
+Location: Rear House Right of FOH, DFC, Mics PAS @ 13'
+Editing: WAV > Reaper 7.22 (Gain, Mixing, Normalizing, Resample 24/48) > Audacity 3.6.2 (Fades, Tracking) > FLAC (Level 8)
+
+Setlist:
+
+01. Intro
+02. Ants Marching¹
+03. Idea of You
+04. Spoon
+05. Virginia in the Rain²
+06. Sweet
+07. Can't Stop
+08. Monsters
+09. Sugar Will
+10. Crash Into Me³
+11. Lying in the Hands of God >
+12. American Baby Intro >
+13. Break Free
+14. Lie in Our Graves⁴
+15. Band Introductions
+16. Spaceman
+17. #27
+18. The Space Between
+19. Typical Situation
+20. Anyone Seen the Bridge⁵ >
+21. Too Much
+22. Encore Break
+23. Just Breathe⁶
+24. Grey Street
+
+Set Time: [02:33:20.675]
+
+Dave Matthews Band:
+
+Dave Matthews - Guitar, Lead Vocals
+Tim Reynolds - Electric Guitar
+Stefan Lessard - Bass
+Buddy Strong - Keyboards, Vocals
+Rashawn Ross - Trumpet, Vocals
+Jeff Coffin - Saxophone, Flute
+Carter Beauford - Drums
+
+Notes:
+
+¹ direct intro; Shake Your Body (Down to the Ground) interpolation
+² jazz outro
+³ Dixie Chicken interpolation
+⁴ Wonderful Tonight interpolation
+⁵ Also Sprach Zarathustra and Heartbreaker interpolations
+⁶ Pearl Jam cover, Dave Solo
+
+Between "Typical Situation" and "Anyone Seen the Bridge", Rashawn teases "The James Bond Theme".
+
+Huge thanks to the entire DMB organization for supporting live taping.
+
+This recording is dedicated to all the tapers that have taught me to love archiving live music.
+
+Compiled on 2024/09/06.

@@ -1,0 +1,61 @@
+Dave Matthews Band
+September 18, 2021
+Saratoga Performing Arts Center - Saratoga Springs, NY
+
+Taper: Zachary Semcken
+Source: AKG C414 XLII (Hypercardioid) > Zoom F6 (32 Bit Float)
+Location: Section 8, Row AA, Seat 6, Front Left of FOH, DFC, Mics DIN ~11'
+Editing: WAV > Reaper 6.36 (Gain, Mixing, Normalizing) > Audacity 3.0.4 (Fades, Tracking) > FLAC (Level 8)
+
+01. Intro
+02. Big Eyed Fish >
+03. Bartender#
+04. Grace Is Gone
+05. Grey Street
+06. #27
+07. The Stone&
+08. So Much to Say >
+09. Anyone Seen the Bridge^ >
+10. Too Much
+11. Sugar Will
+12. Crush%
+13. Squirm
+14. Lying in the Hands of God@
+15. Time of the Season*
+16. Pantala Naga Pampa >
+17. Rapunzel
+18. The Ocean and the Butterfly
+19. Drive In Drive Out
+20. Granny
+21. Warehouse$
+22. All Along the Watchtower!
+23. Encore Break
+24. Christmas Song
+25. Shake Me Like a Monkey
+
+Dave Matthews Band:
+
+Dave Matthews - Guitar, Lead Vocals
+Tim Reynolds - Electric Guitar
+Stefan Lessard - Bass
+Buddy Strong - Keyboards, Vocals
+Rashawn Ross - Trumpet, Vocals
+Jeff Coffin - Saxophone, Flute
+Carter Beauford - Drums
+
+Notes:
+
+# If I Only Had a Brain interpolation
+& Can't Help Falling in Love interpolation
+^ Also Sprach Zarathustra and Heartbreaker interpolations
+% Stefan solo intro
+@ Bourbons & Lacs and American Baby Intro interpolations
+* The Zombies cover
+$ Stop time intro, salsa jam, Louie Louie interpolation
+! Bob Dylan cover, Stefan solo intro, Stairway to Heaven interpolation
+
+Huge thanks to the DMB Crew for letting me set up at FOH.
+
+This recording is dedicated to all the tapers before me who continue to preserve live music.
+
+Compiled on 2021/09/19.

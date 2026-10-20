@@ -1,0 +1,69 @@
+Dave Matthews Band
+Deer Creek
+Noblesville, IN
+July 31, 2009
+
+
+Taper: Crumbo
+Location:  section A, Row S, Seats 4 & 5 
+Source: Schoeps CCM4 (DINa, ~17') > Aerco MP-2 > Edirol R-09HR (24/48)
+Conversion: Edirol R-09HR > Wavelab 5.01b (resample, dither w/MegaBitMax) > CDWav 1.97 > xACT 0.5.9 > foobar2000
+
+
+***DO NOT DISTRIBUTE IN LOSSY FORMATS***
+***24/48 Version exists in flac format*** 
+
+
+Disc 1
+
+01 Intro                                                       01:20.49
+02 Bartender *                                                 18:08.63
+03 Proudest Monkey * >                                         07:16.60
+04 Satellite *                                                 05:43.14
+05 Seven *                                                     05:42.12
+06 Shake Me Like a Monkey * \m/                                05:03.65
+07 Funny The Way It Is *                                       07:29.01
+
+Disc 1 Total: 50:44.39
+
+Disc 2
+
+01 #41 *                                                       22:11.16
+02 You Never Know *                                            09:05.66
+03 Why I Am *                                                  04:45.33
+04 Crash (Into Me) *                                           06:35.02
+05 Spaceman *                                                  05:08.22
+06 So Damn Lucky *                                             08:11.44
+07 Lie In Our Graves * >                                       10:29.50
+08 (Shotgun )                                                  03:00.39
+09 Squirm *                                                    05:22.28
+
+Disc 2 Total: 74:50.00
+
+Disc 3
+
+01 Alligator Pie *                                             06:02.61
+02 Jimi Thing                                                  14:57.05
+03 Time Bomb *                                                 06:01.05
+04 Encore Break                                                07:11.03
+05 Rye Whiskey +                                               04:37.40
+06 The Maker * >                                               08:34.55
+07 All Along The Watchtower *                                  09:14.66
+
+Disc 3 Total: 56:39.10
+
+
+
+
+
+Notes:
+
+* Jeff Coffin
++ Dave Solo
+\m/ Metal Intro
+-Thanks to Missy and Will for the ride and Jason for all the help.
+
+
+Compiled by Crumbo 8-1-2009.
+
+

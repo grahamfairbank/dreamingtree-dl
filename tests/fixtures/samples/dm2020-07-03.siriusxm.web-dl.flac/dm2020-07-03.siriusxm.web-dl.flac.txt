@@ -1,0 +1,52 @@
+Dave Matthews
+July 03, 2020
+Live From Home By Request
+Sirius XM Live Broadcast
+
+Source: SiriusXM hls stream 'maximum' quality > ffmpeg version git-2020-04-09-a39536c
+Conversion: ffmpeg -i source.aac output.wav > CD Wave Editor 1.98 (Tracking) > foobar2000 (tags, convert FLAC level 8)
+
+01. Intro
+02. Fan Request Cry Freedom
+03. Dave Speak Cry Freedom
+04. Cry Freedom %
+05. Fan Request Loving Wings
+06. Dave Speak Loving Wings
+07. Loving Wings
+08. Dave Speak Here On Out
+09. Fan Request Here On Out
+10. Here On Out
+11. Fan Request Best Of Whats Around
+12. Dave Speak Best Of Whats Around
+13. Best Of Whats Around
+14. Fan Request Samurai Cop
+15. Dave Speak Samurai Cop
+16. Samurai Cop
+17. Pig *
+18. Sister
+19. Dave Speak #41
+20. Fan Request #41
+21. #41
+22. Fan Request Grey Street
+23. Dave Speak Grey Street
+24. Grey Street
+25. Dave Speak You And Me
+26. Fan Request You And Me
+27. You And Me
+28. Dave Speak Sweet
+29. Sweet
+30. Outro
+
+Compiled 07/09/2020
+
+Notes:
+
+% - Electric, First time played solo since 09-07-02
+* - Solo Debut
+
+Snagged this AAC stream (best I could find was a 'maximum' setting). If someone has a better quality pull please notify me and I will remove this.
+I used streamlink to snag and output original stream.
+Metadata:
+    id3v2_priv.com.apple.streaming.transportStreamTimestamp: \x00\x00\x00\x00\xfd-\x01g
+  Bitrate: 258 kb/s
+    Stream #0:0: Audio: aac (LC), 44100 Hz, stereo, fltp, 258 kb/s

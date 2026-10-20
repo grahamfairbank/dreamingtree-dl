@@ -1,0 +1,39 @@
+Dave Matthews Band
+July 19, 2024
+Freedom Mortgage Pavilion
+Camden, NJ
+
+Taper: Jeff Travitz
+Location: soundboard
+Source: Neumann km185 > Grace Audi V3 > Sound Devices 744T
+Conversion: Adobe Audition (normalized to -0.1) > CD Wave Editor v1.98 to .flac level 8
+
+01 - introduction (3:03)
+02 - Hello Again (6:30)
+03 - Pantala Naga Pampa > (0:37)
+04 - Lie in Our Graves (12:03)
+05 - Recently (9:53)
+06 - Ants Marching (9:16)
+07 - Sweet (7:07)
+08 - Break for It (6:54)
+09 - One Sweet World (7:35)
+10 - Looking for a Vein (4:30)
+11 - Can't Stop (6:07)
+12 - Captain (4:44)
+13 - Fool in the Rain (6:46)
+14 - Digging a Ditch (6:03)
+15 - It Could Happen (5:07)
+16 - Jimi Thing (14:38)
+17 - Don't Drink the Water (7:00)
+18 - You & Me (5:06)
+19 - What You Are (7:14)
+20 - ========== (5:59)
+21 - stage banter - Dressed to the Nines (2:07)
+22 - I'll Back You Up (6:13)
+23 - Rapunzel (7:05)
+TOTAL (144:46)
+
+
+source exists in both 16/44.1 and 24/48
+
+Compiled on 07.20.24

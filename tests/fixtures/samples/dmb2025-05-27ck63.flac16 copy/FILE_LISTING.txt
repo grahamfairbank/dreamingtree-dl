@@ -1,0 +1,25 @@
+.:
+total 866236
+-rw-r--r-- 1 user user  2819080 Oct 20 06:50 01 Intro.flac
+-rw-r--r-- 1 user user 69565281 Oct 20 06:50 02 Warehouse.flac
+-rw-r--r-- 1 user user 67317985 Oct 20 06:51 03 PNP Lie In Our Graves.flac
+-rw-r--r-- 1 user user 47418545 Oct 20 06:51 04 Rapunzel.flac
+-rw-r--r-- 1 user user 34343131 Oct 20 06:51 05 Spaceman.flac
+-rw-r--r-- 1 user user 41742457 Oct 20 06:51 06 Tripping Billies.flac
+-rw-r--r-- 1 user user 34033932 Oct 20 06:51 07 Walk Around The Moon.flac
+-rw-r--r-- 1 user user 40110784 Oct 20 06:51 08 Crash Into Me.flac
+-rw-r--r-- 1 user user 40115753 Oct 20 06:51 09 So Much To Say ASTB (Too Much).flac
+-rw-r--r-- 1 user user 26419568 Oct 20 06:51 10 Word Up.flac
+-rw-r--r-- 1 user user 68222786 Oct 20 06:51 11 Jimi Thing.flac
+-rw-r--r-- 1 user user 39806979 Oct 20 06:51 12 Sledgehammer.flac
+-rw-r--r-- 1 user user 51498195 Oct 20 06:51 13 Lover Lay Down.flac
+-rw-r--r-- 1 user user 42438986 Oct 20 06:51 14 Don't Drink The Water.flac
+-rw-r--r-- 1 user user 26410162 Oct 20 06:51 15 Looking For A Vein.flac
+-rw-r--r-- 1 user user 25799895 Oct 20 06:51 16 Why I Am.flac
+-rw-r--r-- 1 user user 64151920 Oct 20 06:51 17 Dancing Nancies.flac
+-rw-r--r-- 1 user user 64026323 Oct 20 06:51 18 Granny.flac
+-rw-r--r-- 1 user user 22681093 Oct 20 06:51 19 Peace On Earth.flac
+-rw-r--r-- 1 user user 50046238 Oct 20 06:51 20 Old Dirt Hill.flac
+-rw-r--r-- 1 user user 27978899 Oct 20 06:51 21 Shake Me Like A Monkey.flac
+-rw-r--r-- 1 user user     1250 Oct 20 06:51 dmb2025-05-27ck63.ffp
+-rw-r--r-- 1 user user      593 Oct 20 06:51 dmb2025-05-27ck63.txt

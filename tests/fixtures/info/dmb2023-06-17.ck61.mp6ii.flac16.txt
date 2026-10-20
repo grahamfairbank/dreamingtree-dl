@@ -1,0 +1,44 @@
+Dave Matthews Band
+Great Woods/Xfinity Center
+Mansfield, MA
+June 17, 2023
+
+Taper: Jason Johnson (<email>)
+Location: PIT left @ ~15' off left stack, DIN @ 15'
+Source: akg ck61s > nbob actives > SD MixPre-6ii (32/48)
+Conversion: MixPre-6ii > Adobe Audition (hi-pass filter, dither, resample) > Trader's Little Helper > Foobar2000
+
+01 Intro
+02 Fool in the Rain
+03 The Space Between
+04 JTR
+05 Louisiana Bayou
+06 I Want You (She's So Heavy) >
+07 After Everything
+08 #41
+09 Walk Around the Moon
+10 When the World Ends
+11 So Damn Lucky
+12 Kill the Preacher >
+13 Why I Am
+14 Looking for a Vein
+15 Madman's Eyes
+16 Jimi Thing > Brick House
+17 Only Takes a Moment
+18 What You Are
+19 Dancing Nancies >
+20 Stay (Wasting Time)
+21 Encore Break
+22 Something to Tell My Baby *
+23 Virginia in the Rain >
+24 Pantala Naga Pampa >
+25 Rapunzel
+
+Notes:
+* Dave solo
+
+24/48 version also exists.
+Thanks to Zach for the assist.
+
+Compiled by Jason Johnson on June 18, 2023.
+www.greppson.net

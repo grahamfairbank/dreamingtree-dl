@@ -1,0 +1,69 @@
+Dave Matthews Band
+December 3, 1998
+Madison Square Garden
+New York City, New York
+
+Taper:		Steve Walkuski
+Source Info:	mk4s > kc-5 actives > cmc-5 > sonosax sm-x2 > sbm-1 > d-8
+Position:	18th row dead center stand @ 15 feet
+
+Conversion:	Frank Crowe <<email>>
+DAT>SHN:	Archive Python DDS/dat2wav > .wav; no soundcard
+		Soundforge for resampling & CDWAV used for tracking
+
+	*****************************************************
+	*	DO NOT encode to a lossy format (MP3)       *
+	*****************************************************
+
+Disc 1:
+Track	Title				Time
+-----	-----				----
+01.	Intro				00:42
+02.	Jimi Thing			13:46
+03.	Warehouse (stop time intro) *	09:37
+04.	Lie In Our Graves *^		18:02
+05.	Minarets (scat intro) ^		11:03
+---	
+Disc 1 Total:				53:10
+
+Disc 2:
+Track	Title				Time
+-----	-----				----
+01.	#41 *^$	 			19:01
+02.	Say Goodbye			09:35
+03.	Drive In, Drive Out *		08:58
+04.	The Last Stop *^		11:34
+05.	Crash Into Me (Dixie Chicken) *	09:01
+---	
+Disc 2 Total:				58:09
+
+Disc 3:
+Track	Title				Time
+-----	-----				----
+01.	Don't Drink The Water *^	07:15
+02.	PNP Intro >			03:29
+03.	Pantala Naga Pampa >		00:40
+04.	Rapunzel *			08:08
+Encore:
+05.	I'll Back You Up		06:40
+06.	Stefan Intro >			01:02
+07.	All Along the Watchtower *@	13:59
+---	
+Disc 3 Total:				41:13
+
+
+Entire set with Tim Reynolds
+* w/ Butch Taylor on keys
+^ w/ Bela Fleck on banjo
+$ w/ Jeff Coffen on saxophone
+@ w/ Warren Haynes on electric guitar
+
+
+Notes:
+----------
+* Encore break cut on the DAT, faded using Sound Forge
+* volume boosted 3dB in Sound Forge
+* This show has been converted before from this same source.  
+  the original source has filler on the third disc.
+
+* Compiled by Frank Crowe <<email>> on November 12, 2001.

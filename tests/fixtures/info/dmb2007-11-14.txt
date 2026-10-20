@@ -1,0 +1,51 @@
+Dave Matthews Band
+"AT&T World's Loudest Pep Rally"
+11/14/2007
+Eisenhower Hall Theatre
+West Point, NY
+
+Recorded By: Scott Brown
+Source: DPA (B&K) 4023s > Lunatec V3 (HPF2)  > Audio Magic Illusion QL XLRs >  Mytek Stereo 192 ADC @24bit, 48khz > Audio Magic Illusion QL Digital XLR > Sound Devices 722
+722 > Apple MacBook Pro > Spark Xl 2.8.2 (tracking, resample to 44.1khz, dither to 16 bit) > xACT 1.63 > flac
+Location: At the Soundboard, ~15 feet up, XY
+
+
+Disc 1
+
+01 Intro                      02:26.47
+02 Pantala Naga Pampa >       00:39.49
+03 Rapunzel�                  07:55.64
+04 Where Are You Going�       05:13.54
+05 Crush�                     13:40.10
+06 Corn Bread�                06:07.65
+07 You Might Die Trying�      08:22.24
+08 Grace Is Gone�>            06:30.34
+09 Black Water�               04:09.02
+10 Louisiana Bayou�+          12:55.32
+11 Sister�                    05:16.48
+
+Disc 1 Total: 73:17.54
+
+
+Disc 2
+
+01 Dreaming Tree�             20:23.22
+02 Eh Hee �                   04:50.26
+03 #27�                       05:44.45
+04 So Much To Say�>           05:40.23
+05 Anyone Seen The Bridge? >� 02:00.44
+06 Too Much�                  07:34.16
+07 Stay (Wasting Time)�       12:09.10
+Encore:
+08 Gravedigger�@              04:36.66
+09 Everyday�                  07:33.17
+10 Ants Marching�             08:14.69
+
+Disc 2 Total: 78:47.38
+
++�with Robert Randolph
+@�Dave Solo
+
+notes: Thi is a 16 bit, 44.1khz copy for CD.  The original 24 bit, 48khz recording exists in flac format
+
+compiled by scott brown on 11/15/2007

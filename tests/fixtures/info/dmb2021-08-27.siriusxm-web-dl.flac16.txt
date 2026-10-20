@@ -1,0 +1,57 @@
+Dave Matthews Band
+August 27, 2021
+The Pavilion at Star Lake
+Burgettstown, PA
+
+Source: SiriusXM HLS "Extreme" quality stream > ffmpeg-latest-win64-static
+Conversion: Decompress AAC to WAV via ffmpeg-4.1.3-win64-static > CD Wave Editor 1.97 (Tracking) > foobar2000 (Tagging, conversion to FLAC Level 8)
+
+01: Introduction
+02: Big Eyed Fish >
+03: Bartender
+04: Pig
+05: Can't Stop
+06: Proudest Monkey >
+07: Satellite
+08: The Only Thing
+09: Pantala Naga Pampa >
+10: Rapunzel
+11: Samurai Cop (Oh Joy Begin)
+12: So Damn Lucky
+13: Louisiana Bayou
+14: Drive In Drive Out
+15: Sledgehammer
+16: Lying in the Hands of God
+17: Why I Am
+18: The Best of What's Around
+19: Crush
+20: Ants Marching
+21: Encore Break
+22: I'll Back You Up
+23: Warehouse
+24: Outro
+
+Compiled on 8/30/2021
+
+Notes:  Original media info for ADTS format AAC prior to conversion to FLAC for distribution is included below for reference.  No further "lossy" conversions took place in processing this capture.
+
+General
+Complete name                            : dmb2021-08-27.aac
+Format                                   : ADTS
+Format/Info                              : Audio Data Transport Stream
+File size                                : 317 MiB
+Overall bit rate mode                    : Variable
+
+Audio
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format version                           : Version 4
+Format profile                           : LC
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 kHz
+Frame rate                               : 43.066 FPS (1024 spf)
+Compression mode                         : Lossy
+Stream size                              : 317 MiB (100%)
+

@@ -1,0 +1,73 @@
+Dave Matthews Band
+Summerfest
+American Family Insurance Amphitheater
+Milwaukee, WI
+July 1, 2018
+
+Taper:  bersey (<email>)
+Location:  Handicapped section behind section 6, left stack, mics 6' high
+Source:  CA-11 cardioids > CA-9100 > Sony PCM-M10 @ 24 bit/48kHz
+Conversion:  Sony PCM-M10 > PC > Sony Sound Forge Audio Studio 9.0 (fades, normalize,  
+             resample to 44.1 kHz, dither to 16 bit) > CD Wave Editor (tracking) > 
+             Trader's Little Helper (encode to flac,level 6) > foobar 2000 (tagging)
+
+********************************************************************************************
+*************************DO NOT DISTRIBUTE IN LOSSY FORMATS LIKE MP3************************
+***********************RECORDING IS NOT FOR SALE OR ANY COMMERCIAL USE**********************
+********************************************************************************************
+
+01. Intro	                   02:20.00
+02. Again and Again                05:20.00
+03. Satellite                      06:28.00
+04. Hello Again                    06:06.00
+05. Here On Out *                  03:35.00
+06. Lie In Our Graves              13:58.00
+07. Virginia In the Rain           06:59.00
+08. The Song That Jane Likes       04:36.00
+09. Samurai Cop (Oh Joy Begin)     05:20.00
+10. You Might Die Trying           08:48.00 
+11. Warehouse                      12:44.00
+12. Can't Stop                     05:04.00 
+13. You & Me                       06:22.00
+14. #41                            13:18.00
+15. So Right                       07:26.00 
+16. Sister ^                       04:53.00
+17. Come On Come On                06:50.00
+18. Intro to...                    04:46.00
+19. Don't Drink the Water          08:12.00
+20. Corn Bread                     08:44.00
+21. So Much to Say                 04:59.00
+22. Louisiana Bayou                09:12.00
+23. Encore Break                   06:08.00
+24. Jimi Thing >                   13:42.00 
+25. Sexy MF ~                      03:50.00
+     
+Total:                           2:59:40.00
+
+
+Notes:
+* Dave solo
+^ Dave, Tim, Carter, Rashawn
+~ Prince cover
+
+
+Dave Matthews Band:
+Dave Matthews - acoustic guitar, electric guitar, vocals
+Carter Beauford - drums, percussion, backing vocals
+Stefan Lessard - electric bass guitar
+Tim Reynolds - electric guitar
+Jeff Coffin - saxophones
+Rashawn Ross - trumpet, backing vocals
+Arthuer "Buddy" Strong - keys, backing vocals
+
+Long story short, Summerfest allowed us to tape but not secure our
+stands to our seats or run higher than head height.  Soling and I
+taped from the handicapped section at the back of the pavilion.  
+Depsite the circumstances, I think the recording turned out fine.
+
+Thanks to the couple who traded seats with me even though I ended 
+up not taping from there.
+
+Thanks to Dave Matthews Band for letting me tape the show!
+
+Compiled by Kurt Berwanger on July 4, 2018

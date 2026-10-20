@@ -1,0 +1,57 @@
+Dave Matthews Band
+17 November 2023
+Madison Square Garden
+New York, New York
+
+Recorded by: Christopher Jones <<email>>
+Source: DPA 4011A (Sonodore-modified +/- 16V MMP-A microphone preamplifier bodies with matched DPA MMC4011 cardioid capsules) > Mogami 6-pin XLR microphone cable > Sonodore PSB-402LI power supply > Mogami XLR interconnect > Millennia Media HV-32P microphone preamplifier > Mogami XLR interconnect > Sonosax SX-R4+ (non-U.S. version with unconstrained headroom; @ 24-bit / 176.4 kHz)
+Location: Stageright GA; microphones elevated approximately 4 meters, NOS
+SD > .flac: Apple 14" Macbook Pro (Apple M1 Max / 32GB RAM) > Avid Pro Tools Ultimate v. 2021.12.0 > Dell Precision 7670 16" (i9-12950HX / 32GB RAM) > Merging Technologies Pyramix 14 Native Premium (@ 24-bit / 176.4 kHz) > Merging Technologies Horus (w/ DA8P Premium output module; @ 24-bit / 176.4 kHz) > Mogami Gold DB25 / XLR3M snake > Manley Massive Passive stereo tube program equalizer > Mogami Gold XLR > Rupert Neve Designs Master Bus Transformer > Mogami Gold XLR > Rupert Neve Designs Portico II Master Buss Processor > Mogami Gold XLR > Network Sound Mamba XLR-to-DB25 patchbay > Merging Technologies Horus (w/ 4 x AKD8DP Premium input modules; @ 24-bit / 176.4 kHz) > Merging Technologies Pyramix 14 Native Premium (@ 24-bit / 176.4 kHz) > Apple 14" Macbook Pro (Apple M1 Max / 32GB RAM) > DSP-Quattro 5.9 > xACT v2.52
+
+t01 Introduction  						02:58.02
+t02 Virginia In The Rain  					07:46.45
+t03 Old Dirt Hill (Bring That Beat Back)  			08:28.33
+t04 Straight Shot  						06:07.72
+t05 Intro To...  						02:54.04
+t06 Madman's Eyes  						05:01.30
+t07 The Best Of What's Around  					08:00.11
+t08 She  							04:32.52
+t09 Walk Around The Moon  					06:36.47
+t10 The Weight # +  						07:49.55
+t11 Intro To...  						00:42.17
+t12 All Along The Watchtower % ^  				08:16.17
+t13 Lie In Our Graves > (Wonderful Tonight *) ^			13:57.49
+t14 Spaceman 							06:53.14
+t15 #41 $  							12:53.69
+t16 Come Together ~ =  						07:24.08
+t17 Jimi Thing = & >  						11:06.32
+t18 (Brick House ! = &)						04:02.32
+t19 Warehouse &  						13:06.49
+t20 Cry Freedom  						07:30.71
+t21 Pig 							07:39.10
+t22 So Damn Lucky 						16:36.04
+---
+t23 (Just Breathe @)  						00:56.62
+t24 Just Breathe @  						04:55.09
+t25 Pantala Naga Pampa >  					00:38.26
+t26 Rapunzel  							08:42.02
+
+								185:36.72
+
+() Indicates a tease or partial song if not part of a song with a parenthetical subtitle
+#  The Band cover
++  Featuring Susan Tedeschi
+%  Bob Dylan cover
+^  Featuring Derek Trucks
+*  Eric Clapton cover
+$  Featuring James Genus
+~  The Beatles cover
+=  Featuring Trombone Shorty
+&  Featuring Jon Faddis
+>  Indicates a segue into the next song
+!  The Commodores cover
+@  Dave solo
+
+Notes:
+
+Compiled by Christopher Jones <<email>> 22 January 2024.

@@ -1,0 +1,69 @@
+Dave Matthews Band
+November 13, 2021
+Madison Square Garden - New York, NY
+
+Taper: Zachary Semcken
+Source: AKG C414 XLII (Hypercardioid) > Zoom F6 (32 Bit Float)
+Location: Left of FOH, Sec E, Row 2, Seat 1, Mics DIN @ 12'
+Editing: WAV > Reaper 6.41 (Gain, Mixing, Normalizing) > Audacity 3.1.1 (Fades, Tracking) > FLAC (Level 8)
+
+01. Intro
+02. Tripping Billies*
+03. Dancing Nancies >
+04. Warehouse&
+05. Stay or Leave
+06. You Might Die Trying
+07. Lying in the Hands of God^
+08. You & Me
+09. She
+10. Dave Speak: Crew Thank You
+11. Grace Is Gone
+12. The Song That Jane Likes >
+13. Water into Wine
+14. Pantala Naga Pampa >
+15. Rapunzel
+16. Sledgehammer%
+17. #41
+18. Corn Bread$#
+19. Jimi Thing# >
+20. I Want to Take You Higher@#
+21. Where Are You Going
+22. What You Are!
+23. Stay (Wasting Time)
+24. Encore Break
+25. Christmas Song
+26. The Last Stop? >
+27. Ants Marching€
+
+Dave Matthews Band:
+
+Dave Matthews - Guitar, Lead Vocals
+Tim Reynolds - Electric Guitar
+Stefan Lessard - Bass
+Buddy Strong - Keyboards, Vocals
+Rashawn Ross - Trumpet, Vocals
+Ben Golder-Novick - Saxophone
+Carter Beauford - Drums
+
+Notes:
+
+* with Nature intro
+& with Stop Time intro
+^ with Bourbons & Lacs and American Baby Intro interpolations
+% Peter Gabriel cover
+# with Alex Wasily (Trombone) and Ashlin Parker (Trumpet) of Dumpstaphunk
+$ with Down by the Riverside interpolation
+@ Sly & The Family Stone cover
+! with prelude
+? truncated version
+€ with Carter solo intro, Shake Your Body (Down to the Ground) interpolation
+
+Jeff Coffin was unable to perform due to a breakthrough case of COVID-19. Ben Golder-Novick filled in for the evening.
+
+Huge thanks to the DMB Crew for letting me set up at FOH.
+
+Thank you to Greg Mendelsohn for all his help during the show.
+
+This recording is dedicated to all the tapers before me who continue to preserve live music.
+
+Compiled on 2021/11/14.

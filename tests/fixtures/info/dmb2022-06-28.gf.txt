@@ -1,0 +1,70 @@
+Dave Matthews Band
+June 28, 2022
+Northwell Health at Jones Beach Theater - Wantagh, NY
+
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+*=*=*=*=* 16/48 RECORDING *=*=*=*=*
+*=* NOT SUITABLE FOR CD BURNING *=*
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+
+Taper: Zachary Semcken
+Source: AKG C414 XLII (Hypercardioid) > MixPre 6 II (32 Bit Float @ 96)
+Location: Front of FOH, Stage Right, DFC, Mics PAS @ 13'
+Editing: WAV > Reaper 6.61 (Gain, Mixing, Normalizing, Resample 32/48) > Audacity 3.1.3 (Fades, Tracking) > FLAC (Level 8)
+
+01. Intro
+02. Recently
+03. Shake Me Like a Monkey
+04. Come On Come On
+05. Madman's Eyes
+06. The Stone¹
+07. Sweet
+08. Kill the Preacher (Tease)
+09. Why I Am
+10. So Damn Lucky²
+11. So Right
+12. The Only Thing
+13. Warehouse³
+14. Again and Again
+15. Grey Street
+16. Dave Speak: Pride March⁴
+17. Break for It
+18. Crush⁵
+19. Dave Speak: Eating Mushrooms
+20. Walk Around the Moon
+21. Pantala Naga Pampa >
+22. Rapunzel
+23. Band Introductions
+24. Louisiana Bayou
+25. Encore Break
+26. Virginia in the Rain
+27. Two Step⁶
+
+Total Performance Time: [02:55:49.891]
+
+Dave Matthews Band:
+
+Dave Matthews - Guitar, Lead Vocals
+Tim Reynolds - Electric Guitar
+Stefan Lessard - Bass
+Buddy Strong - Keyboards, Vocals
+Rashawn Ross - Trumpet, Vocals
+Jeff Coffin - Saxophone, Flute
+Carter Beauford - Drums
+
+Notes:
+
+¹ Can't Help Falling in Love interpolation
+² Thank You (Falettinme Be Mice Elf Agin) interpolation
+³ stop time intro
+⁴ with "Break for It" vocal outro snippet from Dave
+⁵ Stefan solo intro
+⁶ Time Bomb intro
+
+Huge thanks to Greg Mendelsohn for the clamp space.
+
+Big thumbs up to the DMB & Jones Beach crew for making taping as easy as possible.
+
+This recording is dedicated to all the tapers before me who continue to preserve live music.
+
+Compiled on 2022/06/30.

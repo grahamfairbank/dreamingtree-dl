@@ -1,0 +1,59 @@
+Dave Matthews Band
+August 30, 2019
+The Gorge Amphitheatre
+George, WA
+
+Source: SiriusXM HLS "Extreme" quality stream > ffmpeg-20190722-817235b-win64-static
+Conversion: Decompress AAC to WAV via ffmpeg-20190722-817235b-win64-static > CD Wave Editor 1.97 (Tracking) > foobar2000 (Tagging, conversion to FLAC Level 8)
+
+01: Introduction
+02: Seek Up
+03: Come Tomorrow
+04: What Would You Say
+05: Rooftop
+06: Do You Remember
+07: Crush
+08: Drunken Soldier
+09: Kill The Preacher
+10: Why I Am
+11: The Maker
+12: Don't Drink the Water
+13: Sister
+14: Dancing Nancies
+15: The Last Stop
+16: Granny
+17: Corn Bread
+18: You & Me
+19: Tripping Billies
+20: Everyday
+21: Encore Break
+22: I'll Back You Up
+23: Two Step
+24: Pantala Naga Pampa
+25: Rapunzel
+26: Outro
+
+Compiled on 9/1/2019
+
+Notes:  Original media info for ADTS format AAC prior to conversion to FLAC for distribution is included below for reference.  No further "lossy" conversions took place in processing this capture.
+
+General
+Complete name                            : dmb2019-08-30.aac
+Format                                   : ADTS
+Format/Info                              : Audio Data Transport Stream
+File size                                : 340 MiB
+Overall bit rate mode                    : Variable
+
+Audio
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format version                           : Version 4
+Format profile                           : LC
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 kHz
+Frame rate                               : 43.066 FPS (1024 spf)
+Compression mode                         : Lossy
+Stream size                              : 340 MiB (100%)
+

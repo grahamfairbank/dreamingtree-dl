@@ -1,0 +1,43 @@
+Dave Matthews Band
+Alpine Valley Music Theatre
+East Troy, WI
+June 21, 2024
+
+Taper: Jason Johnson (<email>)
+Location: Sec 201 Row BB Seats 9/11, DIN @ 15'
+Source: akg ck61s > nbob actives > SD MixPre-6ii (32/48)
+Conversion: MixPre-6ii > Adobe Audition (hi-pass filter, dither, resample) > Trader's Little Helper > Foobar2000
+
+01: Intro
+02: Pantala Naga Pampa
+03: The Best of What's Around
+04: Granny
+05: Squirm
+06: Walk Around the Moon
+07: Recently
+08: Rapunzel
+09: Intro to...>
+10: Don't Drink the Water
+11: Stolen Away on 55th & 3rd
+12: Samurai Cop (Oh Joy Begin)
+13: Lie in Our Graves
+14: Looking for a Vein
+15: Madman's Eyes [fake] >
+16: Minarets
+17: So Much to Say >
+18: Anyone Seen the Bridge >
+19: Too Much
+20: Spaceman
+21: Corn Bread
+22: Louisiana Bayou
+23: Encore Break
+24: Sister
+25: The Last Stop
+
+Notes:
+Thanks Crumbo for all the help.
+
+24/48 version also exists.
+
+Compiled by Jason Johnson on June 22, 2024.
+www.greppson.net

@@ -1,0 +1,77 @@
+Dave Matthews Band
+August 24, 2019
+Fiddler's Green Ampitheatre
+Greenwood Village, CO
+
+
+
+
+Taper: Rockinman 
+Location: Rear of GA PIT, Right Stack, mics A-B config, stand @ 6 feet
+Source: akg/ck63 (hypercaps)>Nbob active cables>Lunatec V3>Marantz PMD661(SPDIF In) @ 24/48 kHz
+Transfer: PMD661->USB->PC
+Conversion: 24/48kHz wav->Sound Forge Pro 10> iZotope 64-Bit SRC & iZotope MBIT+ for resample and dither to 16/44.1 kHz, No normalization, Fade in and fade out applied,20 Band Graphic EQ applied for bass reduction->Waves L3 Ultramaximizer applied->CD Wave Editor->Flac (level 8)> Foobar 2000 for tagging 
+
+************************************************************************************
+*****************DO NOT ENCODE THIS SHOW TO LOSSY FORMATS*************************** 
+*******************DO NOT SELL OR DISTRIBUTE FOR PROFIT*****************************
+************************************************************************************
+
+Disc 1
+
+01. Intro
+02. Why I Am
+03. Grace Is Gone
+04. Warehouse (Passion intro)
+05. Samurai Cop (Oh Joy Begin)
+06. Kill the Preacher (partial)->
+07. Don't Drink the Water (with Prelude)   
+08. Spoon
+09. The Best of What's Around
+10. Again and Again
+11. You Might Die Trying
+   (Spanish Flea tease) $
+12. She
+13. You & Me
+
+Disc 2
+
+14. Seek Up
+15. Write a Song
+16. Dancing Nancies
+17. The Space Between->
+18. Stay (Wasting Time)
+
+19. Encore Break
+
+Encore
+
+20. Some Devil *
+21. Anyone Seen the Bridge->
+22. Too Much->
+23. Ants Marching (Snare intro)
+
+
+
+
+$ Herb Alpert & The Tijuana Brass cover
+* Dave solo
+
+
+
+
+
+Entire show with Buddy Strong on keys
+
+
+
+
+
+Notes:
+Due to venue Security policy for this show, the mic stand had to be at head height. You will hear talking and yelling in between songs but not nearly as bad as the previous night's show.  
+
+
+
+ 
+
+Compiled by Tom Gambichler on August 25, 2019 

@@ -1,0 +1,26 @@
+Dave Matthews Band
+August 06, 2021
+Huntington Bank Pavilion at Northerly Island, Chicago, IL
+
+Source: SiriusXM HLS "Extreme" quality stream (AOD) > VLC > WAV
+Conversion: Decompress AAC to WAV via VLC > Audacity (Tracking) > foobar2000 (Tagging, conversion to FLAC Level 8)
+
+01: Intro
+02: One Sweet World
+03: So Much to Say » Anyone Seen the Bridge »
+04: Too Much
+05: Big Eyed Fish »
+06: Bartender
+07: Can't Stop
+08: So Damn Lucky
+09: The Ocean and the Butterfly
+10: When the World Ends
+11: What Would You Say
+12: Proudest Monkey »
+13: Lie in Our Graves
+14: Stay or Leave
+15: Squirm
+16: Everyday [aborted]
+17: Grey Street
+
+Compiled on 8/18/2021

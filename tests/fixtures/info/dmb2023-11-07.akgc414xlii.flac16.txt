@@ -1,0 +1,67 @@
+Dave Matthews Band
+November 7, 2023
+Enmarket Arena - Savannah, GA
+
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+*=*=*=*=* 16/48 RECORDING *=*=*=*=*
+*=* NOT SUITABLE FOR CD BURNING *=*
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+
+Taper: Zachary Semcken
+Source: AKG C414 XLII (Hypercardioid) > MixPre 10 II (32 Bit Float @ 96)
+Location: Rear of FOH. DFC, Mics PAS @ ~14'
+Editing: WAV > Reaper 7.03 (Gain, Mixing, Normalizing, Resample 32/48) > Audacity 3.4.0 (Fades, Tracking) > FLAC (Level 8)
+
+Setlist:
+
+01. Intro
+02. The Maker¹
+03. Lying in the Hands of God >
+04. American Baby Intro >
+05. Break Free
+06. Spaceman
+07. Old Dirt Hill (Bring That Beat Back)
+08. Madman's Eyes
+09. Dancing Nancies >
+10. Warehouse²
+11. Band Introductions
+12. Virginia in the Rain³
+13. Don't Drink the Water⁴
+14. Granny
+15. Looking for a Vein
+16. When the World Ends
+17. Lover Lay Down⁵
+18. Can't Stop
+19. Say Goodbye
+20. Grey Street
+21. Encore Break
+22. Funny How Time Slips Away⁶
+23. Pantala Naga Pampa >
+24. Rapunzel
+
+Set Time: [02:40:31.329]
+
+Dave Matthews Band:
+
+Dave Matthews - Guitar, Lead Vocals
+Tim Reynolds - Electric Guitar
+Stefan Lessard - Bass
+Buddy Strong - Keyboards, Vocals
+Rashawn Ross - Trumpet, Vocals
+Jeff Coffin - Saxophone, Flute
+Carter Beauford - Drums
+
+Notes:
+
+¹ Daniel Lanois cover
+² Louie Louie interpolation
+³ extended Carter outro
+⁴ includes prelude
+⁵ Over the Rainbow teases
+⁶ Willie Nelson cover, with On the Road Again tease
+
+Huge thanks to Henry Hart, Mark Terrell, and Steven "ZMan" Ziegler for making a great DMB taper section for the tour opener.
+
+This recording is dedicated to all the tapers that have taught me to love archiving live music.
+
+Compiled on 2023/11/08.

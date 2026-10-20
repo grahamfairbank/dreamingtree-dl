@@ -1,0 +1,49 @@
+Dave Matthews Band
+Bank of New Hampshire Pavilion
+Gilford, NH
+08-24-2021
+
+Taper: John Gortakowski (<email>)
+Location: PIT (Back Rail, Left Stack) 
+Source: AKG ck61 (DINa, ~12’) > Nbob active cables > Edirol UA-5 (w Mod) > Sony PCM-M10 (24bit/96kHz)
+Conversion: Sony PCM-M10 > Audacity 2.1 (Normalize to -0.03dB; Fade In and Out applied; dither to 16/44.1) > CD Wave Editor (tracking) > xACT 2.47 (level 8) > FLAC 
+
+******************** DO NOT DISTRIBUTE IN LOSSY FORMATS*********************
+*************** RECORDING IS NOT FOR SALE OR ANY COMMERCIAL USE *********
+
+01.  Intro					
+02.  You Never Know				
+03.  Do You Remember			
+04.  Dancing Nancies >					
+05.  Warehouse			
+06.  Grace Is Gone		
+07.  Can't Stop			
+08.  Proudest Monkey >		
+09.  Satellite			
+10.  So Much To Say >				
+11.  Anyone Seen The Bridge >				
+12.  Too Much		
+13.  Walk Around The Moon				
+14.  Jimi Thing >				
+15.  I Want A New Drug >				
+16.  Sexy M.F. >		
+17.  [Brown Sugar] > [Bitch] > (I Can't Get No) Satisfaction^				
+18.  Louisiana Bayou							
+19.  Shake Me Like a Monkey			
+20.  Funny The Way It Is					
+21.  You & Me			
+22.  Grey Street
+23.  Encore Break
+24.  Singing From The Windows*
+25.  Don't Drink the Water					
+						
+
+Notes:
+> Indicates a segue into next song
+* Dave solo
+^ Rolling Stones cover played in tribute to drummer Charlie Watts, who passed away earlier that day.
+
+compiled by John Gortakowski on August 27, 2021
+
+
+

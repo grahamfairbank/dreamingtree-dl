@@ -1,0 +1,58 @@
+Dave Matthews Band
+Floodzone
+Richmond, VA
+July 14, 1993
+
+Taper:      	Unknown
+Source Info:    ASBD (unknown generation) -> CD
+
+Conversion: Adam Nelson (<email>) & Henry Hart
+
+CD > flac > .wav > flac (see notes below):
+	EAC (secure mode, all tracks 100%) -> WAV -> flac frontend
+	(level 6) Tracks split using CD Wave v1.93.3 > .wav > AddaWav >
+	Cool Edit Pro v2.1 > CDWav
+
+
+                          ********************
+                          PRESERVE THE QUALITY
+                          DO NOT ENCODE TO MP3
+                          ********************
+
+
+Track   |       Name            |   Time (m:s)
+------------------------------------------------
+d1t01		Intro				01:55
+d1t02		Seek Up			15:25
+d1t03		Spotlight			07:00
+d1t04		So Much To Say		05:07
+d1t05		Ants Marching		05:52
+d1t06		Warehouse			10:41
+d1t07		Recently			10:50
+ENCORE
+d1t08		True Reflections *	09:33
+d1t09		Halloween			07:48
+
+
+NOTES:
+----------
+* = with Tri Poetics
+
+This is only the end of a much longer show... maybe the second set?
+
+SMTS is cut off.
+
+The end of Halloween is cut off.
+
+Dave mentions that he was on the roof of the Floodzone building dropping stickers (presumably DMB stickers) on people below. 
+
+Dave mentions the upcoming 07/27/93 Floodzone show being on a Tuesday, not the usual Wednesday night spot. He also says something about a show at Mitchell's on Wednesday (07/28/93). I am not sure if that is a previously unknown show, or even where Mitchell's is located. 
+
+These rare older shows have been collected and converted through a collaborative effort to get them into circulation. Sometimes these shows do not have the best sound quality (and maybe that's why they aren't circulated much to begin with), but people should have access to them. 
+
+Thanks to Daniel Norman for the CD source used for this conversion.
+
+Compiled By Adam Nelson on October 15, 2006
+
+UPDATE by henry Hart on 10.24.06:
+When I got this show the speed/pitch was high, so I fixed this and did some volume adjustments in Cool Edit Pro v2.1 then retracked with CDWav.  I added a couple of notes above, too.

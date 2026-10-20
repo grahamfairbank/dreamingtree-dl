@@ -1,0 +1,33 @@
+Dave Matthews Band
+June 3, 2022
+Credit One Stadium
+Charleston, SC
+
+Source: SiriusXM HLS "Extreme" quality stream > VLC > WAV
+Conversion: Decompress AAC to WAV via VLC > Audacity (Tracking) > foobar2000 (Tagging, conversion to FLAC Level 8)
+
+01: Intro
+02: Pantala Naga Pampa »
+03: Rapunzel
+04: Stay or Leave
+05: #41
+06: Madman's Eyes
+07: Proudest Monkey »
+08: Satellite
+09: Seek Up
+10: Do You Remember
+11: Don't Drink the Water
+12: Lying in the Hands of God
+13: #27
+14: Sledgehammer
+15: Stolen Away on 55th & 3rd
+16: What Would You Say
+17: Shotgun
+18: Grey Street
+19: You & Me
+20: Ants Marching
+-----------------------------------
+21: Something to Tell My Baby
+22: All Along the Watchtower
+
+Compiled on 6/4/2022

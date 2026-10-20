@@ -1,0 +1,36 @@
+Dave Matthews Band
+12-18-02
+Late Night with Conan O'Brian
+GE Building - NBC Studio 6A
+New York, NY
+
+
+Taper:	Unknown
+Source: TV > unknown?? > mpeg
+
+Conversion:	Steve Marshall (<email>) on 12-17-08
+
+mpeg > AoA Audio Converter v1.2.3 > CD Wave Extractor v1.93.3 for track splitting > FLAC Frontend (level 6)
+
+
+			*********************
+			PRESERVE THE QUALITY
+			DO NOT CONVERT TO MP3
+			*********************
+
+
+
+d1t01		Intro by Conan O'Brien
+d1t02		Grey Street
+d1t03		Intro by Conan O'Brien
+d1t01		Grace Is Gone*
+
+
+Notes:
+______
+* Cuts out abruptly because of a cut in the broadcast.
+DMB appeared on the Late Show with Conan O'Brien the night after playing the Pepsi Arena in Albany and before they played the last 2 shows of the 2002 Winter Tour at Madison Square Garden.
+
+
+compiled by Steve Marshall
+December 18, 2008

@@ -1,0 +1,34 @@
+Dave Matthews Band
+10/21/96 (Monday)
+Dane County Coliseum
+Madison, WI
+
+Source: Audio Technica 4051 > Stewart BPS-1 > Sony TCD-D8 @ 44.1kHz
+Transfer: Tascam DA-20mkII > Delta Di0 2496 >
+Samplitude v5.55 > CDWAV v1.9 > mkwACT v0.97 Beta 1
+No DAE - Seek tables appended - Clone used in transfer
+Taped by Dave Gatewood and Tony D.
+Transfer, encoding and info file by <email>
+
+Disc 1:
+01: Intro
+02: Drive In, Drive Out
+03: Dancing Nancies
+04: Tripping Billies
+05: Crash Into Me
+06: Lie In Our Graves
+07: #41
+08: Jimi Thing
+
+Disc 2:
+01: Help Myself
+02: So Much To Say >
+03: Anyone Seen The Bridge? >
+04: Too Much
+05: Recently >
+06: Typical Situation
+07: Granny
+08: Two Step
+09: Ants Marching
+10: E: Angel From Montgomery
+11: Satellite

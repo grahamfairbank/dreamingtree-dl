@@ -1,0 +1,52 @@
+Dave Matthews Band
+August 29, 2023
+Hayden Homes Amphitheater
+Bend, OR
+
+Taper: Ryan Hoyt
+Equipment: dpa4023 > sx-r4+ (non-US version)
+Location: FOH, mics DIN at 10'
+Conversion: MBIT+ Dithering to 16 bit
+
+*** A 24/96 version of this source exists ***
+
+01. Introduction                 02:41.32
+02. Virginia in the Rain         08:17.63
+03. When the World Ends          04:24.54
+04. Spoon                        06:19.55
+05. Grace Is Gone                09:13.63
+06. Spaceman                     06:31.06
+07. Walk Around the Moon         06:24.40
+08. Madman's Eyes                08:10.72
+09. Sweet                        07:43.64
+10. Lover Lay Down               08:59.17
+11. Drunken Soldier              07:59.57
+12. Warehouse                    11:45.53
+13. All You Wanted Was Tomorrow  05:56.72
+14. Come On Come On              07:14.74
+15. Monsters                     06:20.17
+16. Pantala Naga Pampa >         00:37.69
+17. Rapunzel                     07:16.63
+18. Break Free                   09:20.56
+19. Late in the Evening          06:56.61
+20. Jimi Thing >                 12:31.24
+21. Brick House                  08:02.23
+22. Rye Whiskey                  03:26.07
+23. All Along the Watchtower     09:48.45
+
+
+Notes:
+ - compiled 2023-09-02
+ - Some wind noise is present in the first part of the set
+ - Thanks to the crowd around me for keeping the stand protected
+   all night!
+ - A set of dpa4011s was also on the same stand, with the same 
+   pattern (DIN), the same windscreens (DPA UA0896), and the same
+   preamp/ adc (r4+). This was done to compare the 4023s which were
+   noted by DPA as out of spec. The two tapes should sound almost
+   exactly the same. In this version, tracks 3 and 4 were edited to 
+   match the 4011s volume. For these two tracks, I matched the gain
+   on the preamp for all 4 channels (+32.3 db). This showed there was
+   about a 7 db difference between the 4023s and the 4011s. I added that
+   back in post for this copy. The un-edited files are also available.
+   Thank you to Scott Brown for the loan of the r4+ to do the comparison!

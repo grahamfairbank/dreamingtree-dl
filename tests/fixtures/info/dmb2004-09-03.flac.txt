@@ -1,0 +1,43 @@
+Dave Matthews Band
+Gorge Amphitheater
+George, WA
+September 3, 2004
+
+Taper:		Ian White <<email>>
+Location:	Section B, Row 6, Seat 1 (right stage speakers)
+Source:		Sennheiser MKH-800s @ ~ 8' (cards) > Lunatec V3 @ 16/48 > Sony PCM-M1
+Conversion:	Sony PCM-M1 > Audiophile 2496 > Goldwave 5.06 > CD Wave 1.93 > shntool 1.2.3
+
+
+** DO NOT ENCODE TO MP3 OR OTHER LOSSY FORMAT **
+
+
+Disc 1: 51:03
+01	Intro					04:33
+02	Pig					07:44
+03	#41					10:24
+04	One Sweet World				06:57
+05	Hello Again				08:59
+06	Satellite				06:19
+07	What Would You Say			06:50
+
+Disc 2: 63:52
+01	Bartender				15:44
+02	Drive In Drive Out			06:58
+03	When The World Ends			03:49
+04	Sugar Will				15:22
+05	Grey Street				05:43
+06	Joy Ride				04:08
+07	Loving Wings				08:02
+08	Where Are You Going			04:03
+
+Disc 3: 46:43
+01	Jimi Thing				16:37
+02	Tripping Billies			15:02
+-Encore-
+03	(Butterfly)				00:24
+04	Granny					04:45
+05	Warehouse				09:53
+
+
+Compiled by Ian White on 09-07-04

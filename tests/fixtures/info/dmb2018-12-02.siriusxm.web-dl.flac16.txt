@@ -1,0 +1,52 @@
+Dave Matthews Band
+December 2, 2018
+Mohegan Sun Arena
+Uncasville, CT
+
+Source: SiriusXM HLS "Extreme" quality stream > ffmpeg-20200403-52523b6-win64-static
+Conversion: Decompress AAC to WAV via ffmpeg-20200403-52523b6-win64-static > CD Wave Editor 1.97 (Tracking) > foobar2000 (Tagging, conversion to FLAC Level 8)
+
+01: Introduction
+02: #41
+03: That Girl Is You
+04: Why I Am
+05: Satellite
+06: Don't Drink the Water >
+07: Seek Up
+08: Can't Stop
+09: You & Me
+10: Say Goodbye
+11: The Stone
+12: Sweet Emotion >
+13: Minarets
+14: Kill the King
+15: Where Are You Going
+16: Dancing Nancies
+17: The Space Between
+18: She
+19: Ants Marching
+20: So Much to Say >
+21: All Along the Watchtower
+22: Outro
+
+Compiled on 4/11/2020
+
+Notes:  Original media info for ADTS format AAC prior to conversion to FLAC for distribution is included below for reference.  No further "lossy" conversions took place in processing this capture.
+
+General
+Complete name                            : dmb2018-12-02.aac
+Format                                   : ADTS
+Format/Info                              : Audio Data Transport Stream
+File size                                : 281 MiB
+
+Audio
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format version                           : Version 4
+Format profile                           : LC
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 kHz
+Frame rate                               : 43.066 FPS (1024 spf)
+Compression mode                         : Lossy
+Stream size                              : 281 MiB (100%)

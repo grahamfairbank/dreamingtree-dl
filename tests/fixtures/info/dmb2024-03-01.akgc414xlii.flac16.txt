@@ -1,0 +1,71 @@
+Dave Matthews Band
+March 1, 2024
+Dolby Live at MGM Grand - Las Vegas, NV
+
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+*=*=*=*=* 16/48 RECORDING *=*=*=*=*
+*=* NOT SUITABLE FOR CD BURNING *=*
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+
+Taper: Zachary Semcken
+Source: AKG C414 XLII (Hypercardioid) > MixPre 10 II (32 Bit Float @ 96)
+Location: Rear Rail of Section 204, House Right of FOH, DFC, Mics PAS @ 8'
+Editing: WAV > Reaper 7.11 (Gain, Mixing, Normalizing, Resample 24/48) > Audacity 3.4.2 (Fades, Tracking) > FLAC (Level 8)
+
+Setlist:
+
+01. Intro
+02. Virginia in the Rain¹
+03. Old Dirt Hill (Bring That Beat Back)
+04. Madman's Eyes
+05. Looking for a Vein
+06. Satellite
+07. Will It Go Round in Circles²
+08. Spaceman
+09. Dave Speak: Protect Children
+10. The Last Stop³
+11. Lover Lay Down
+12. Straight Shot
+13. Dave Speak: Balding
+14. Let's Dance⁴
+15. Grey Street
+16. The Space Between
+17. Jimi Thing⁵
+18. Cheap Sunglasses⁶
+19. Gravedigger⁷
+20. Why I Am
+21. Warehouse⁸
+22. Encore Break
+23. Dave Speak: Hazel's Version
+24. Pretty Bird⁹
+25. Dancing Nancies
+
+Set Time: [02:34:05.414]
+
+Dave Matthews Band:
+
+Dave Matthews - Guitar, Lead Vocals
+Tim Reynolds - Electric Guitar
+Stefan Lessard - Bass
+Buddy Strong - Keyboards, Vocals
+Rashawn Ross - Trumpet, Vocals
+Jeff Coffin - Saxophone, Flute
+Carter Beauford - Drums
+
+Notes:
+
+¹ with extended Carter outro
+² Billy Preston cover; first time played by DMB
+³ truncated version, with "Immigrant Song" (Led Zeppelin) outro
+⁴ David Bowie cover; first time played by DMB
+⁵ with Rashawn "Dancing Machine" (The Jackson 5) interpolation
+⁶ ZZ Top cover; first time played by DMB
+⁷ with Carter solo intro
+⁸ with improv intro & Louie Louie interpolation
+⁹ Hazel Dickens cover; Dave Solo
+
+Huge thanks to the entire DMB organization for supporting live taping.
+
+This recording is dedicated to all the tapers that have taught me to love archiving live music.
+
+Compiled on 2024/03/09.

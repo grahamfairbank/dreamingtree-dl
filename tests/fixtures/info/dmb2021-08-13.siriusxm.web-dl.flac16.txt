@@ -1,0 +1,42 @@
+Dave Matthews Band
+Aug 13 2021
+Ruoff Music Center
+Noblesville, IN
+
+Source: SiriusXM HLS stream > streamlink > AAC
+Conversion: FFMPEG (AAC to WAV) > Audacity (Tracking, Conversion FLAC Level 8) > foobar2000 (Tagging)
+
+ 1.  SXM Intro
+ 2.  Intro
+ 3.  Tripping Billies 
+ 4.  Grace Is Gone 
+ 5.  Dancing Nancies 
+ 6.  Warehouse 
+ 7.  Sweet 
+ 8.  The Only Thing ~
+ 9.  #41 
+10.  The Best of Whats Around 
+11.  Do You Remember 
+12.  So Damn Lucky 
+13.  Shake Me Like a Monkey 
+14.  Write A Song 
+15.  Louisiana Bayou 
+16.  Singing From The Windows *
+17.  Proudest Monkey 
+18.  Satellite 
+19.  You Might Die Trying 
+20.  Corn Bread 
+21.  Ants Marching 
+22.  Encore Break
+
+-------- ENCORE --------
+ 
+23.  Granny 
+24.  All Along The Watchtower 
+25.  SXM Outtro
+
+
+SHOW NOTES:
+
+~ Song Debut
+* Dave Solo

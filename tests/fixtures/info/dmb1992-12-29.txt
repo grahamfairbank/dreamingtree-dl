@@ -1,0 +1,71 @@
+Dave Matthews Band
+COMPLETE SHOW
+12.29.92  
+Trax, Charlottesville, Va
+
+Source Info:  	SBD & Schoeps MK-4V onstage mics (Digital Mix) > DAT > CD >
+		EAC (all tracks 100%) > Adobe Premire 6.0 > shn 
+
+Master:		SHN > 32Bit WAV > DC Remove > Edits/SpRepair > DeNoise > 
+		PEQ/MD/MHE/MTI/RV/UM/Vox/Saturation/Brick > Dither > 16Bit WAV > FLAC
+
+
+**DO NOT COMPRESS THIS SHOW INTO MP3 FORMAT**
+
+
+track           name                                    time (m:s)
+------------------------------------------------------------------
+d1t01           [Set1] Satellite                        05:26.01
+d1t02           Warehouse                               09:37.05
+d1t03           Pay For What You Get                    05:56.05
+d1t04           Help Myself                             05:29.40
+d1t05           Dancing Nancies                         09:36.68
+d1t06           Lie in Our Graves                       04:04.16
+d1t07           So Much to Say                          05:13.84
+d1t08           True Reflections                        06:35.17
+ 	Total 51:58.3
+
+d2t01           [Set 2] Drive In, Drive Out^            04:44.19
+d2t02           Spotlight Intro Jam...>                 02:19.03
+d2t03           Spotlight                               06:00.03
+d2t04           Angel From Montgomery                   06:18.04
+d2t05           The Maker                               07:39.03
+d2t06           Two Step                                16:30.00
+d2t07           The Song That Jane Likes                06:13.72
+d2t08           Ants Marching                           05:24.04
+	Total 54.01.0
+
+d3t01           Lover Lay Down                          11:08.29
+d3t02           Halloween                               06:13.22
+d3t03           Granny                                  04:29.10
+d3t04           Tripping Billies                        08:04.13
+d3t05           All Along The Watchtower                06:13.22
+ 	Total 36:29.2
+------------------------------------------------------------------
+
+
+Notes:  
+
+^ Dave Solo
+This show previously existed, but only in parts.  12.29.92 existed
+minus the beginning of set 2, and billies.  Those songs existed on a show
+claiming to be 1.12.93 (with filler from 6.3.96).  Dave was on vacation
+in South Africa from 1.1.93-1.18.93, rendering the 1.12.93 date erroneous.
+
+	This is an accurate retracking of the show in its original order.
+F.Y.I., D1 did not change at all from the previous 12.29.92 version, but
+D2 and D3 both were edited to match the tracks together properly. 
+
+	And for the record, this show contains probably the best Billies ever.  
+
+
+Complete version compiled by:
+Jake Vigliotti
+<email>
+5/31/02
+
+Master Notes: 
+* mastered between april and may 2011
+* Had to EQ it quite extensively to get Roi's sax and Dave's vocals to sound remotely bearable. 
+  As a result, it sounds a little flat but some harmonics have been added to make up for it somewhat.
+* It's a great show. Enjoy. 

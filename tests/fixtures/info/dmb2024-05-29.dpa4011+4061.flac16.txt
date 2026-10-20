@@ -1,0 +1,36 @@
+Dave Matthews Band
+May 29, 2024
+Daily's Place
+Jacksonville, FL
+
+Tapers:			Henry Hart and his daughter Jacqueline
+Source:			DPA 4011 + 4061 > Sound Devices MixPre-6ii
+Location:		left stack, on the rail
+Conversion:		Adobe Audition 2023 > CD Wave Editor v1.98 to .flac level 8
+Mixing:			mixed a 4061 mic to center, mixed <125Hz to center, scooped the bass -5dB and raised the highs +2.5dB, normalize and fade in/outs
+
+01 - Intro						03:35
+02 - PNP > Granny				05:57
+03 - Sweet						06:59
+04 - Big Eyed Fish >			04:51
+05 - Bartender					12:20
+06 - So Much to Say > ASTB >	06:15
+07 - Too Much					06:20
+08 - Looking for a Vein			04:29
+09 - #41						10:28
+10 - Let's Dance				05:34
+10 - Crash Into Me				06:40
+11 - Grey Steet					07:36
+12 - Digging a Ditch			06:26
+13 - Lie in Our Graves			12:48
+14 - Spaceman					05:37
+15 - Break Free					07:38
+16 - Warehouse					10:54
+17 - You Might Die Trying		14:04
+==========
+18 - Here On Out (Dave solo)	04:09
+19 - All Along the Watchtower	09:22
+
+Thank you so much to Eric Wallace for providing the stand and support and especially to Josh Copher. Let's do another 50 together. Love you brother! <3
+
+Compiled on 5.30.2024

@@ -1,0 +1,54 @@
+Dave Matthews Band
+November 8, 1994
+Lisner Auditorium (George Washington University)
+Washington, D.C.
+
+
+Source:		DSBD
+
+Conversion:	Tascam da20 > Emagic Audiowerk2
+		Sound Forge 4.5a (record/resample) > CDWav > MKWact
+		Louie Rendek <<email>>
+
+Master: 	SHN > 32Bit WAV > DC Remove > Edits/SpRepair > DeNoise > 
+	        PEQ/MD/MHE/MTI/REV/LM/Vox/Brick > Dither > 16Bit WAV > FLAC
+
+
+Disc One:  
+
+01:		Intro				-	00:09.48
+02:		Seek Up				-	14:08.48
+03:		Dancing Nancies ->		-	07:47.22
+04:		Warehouse			-	08:58.03
+05:		Satellite			-	05:33.38
+06:		Rhyme & Reason			-	05:51.69
+07:		Best Of What's Around		-	06:39.43
+08:		Get In Line			-	05:25.06
+09:		Tripping Billies		-	05:22.28
+
+Total:						-	59:56.05
+
+Disc Two:  
+
+01:		Jimi Thing			-	12:49.21
+02:		Cry Freedom			-	06:46.02
+03:		Minarets ->			-	08:37.51
+04:		Typical Situation		-	09:31.07
+05:		#36 ->				-	08:17.15
+06:		Ants Marching <fix>		-	07:24.66
+07:		E:  Halloween			-	05:08.70
+
+Total:						-	58:45.53
+
+Notes:
+----------
+*	There was a 1.15 second dropout at 2:06 in Jimi Thing.  I
+	edited this spot to fix the problem.  I had another CD
+	source for this show from Tom Bernhard and the ~ 1 second
+	dropout was also present there.  The edit was done since
+	I could not find a clean source for this track.
+*	Some of the encore break was not present on the DAT, so
+	a crossfade was inserted to smooth this spot out.
+
+*  compiled by Louie Rendek <<email>> on December 29, 2002.
+*  mastered over a period in February, 2009.

@@ -1,0 +1,61 @@
+Dave Matthews Band
+September 10, 2021
+Five Point Amphitheatre
+Irvine, CA
+
+Source: SiriusXM HLS "Extreme" quality stream > ffmpeg-latest-win64-static
+Conversion: Decompress AAC to WAV via ffmpeg-4.1.3-win64-static > CD Wave Editor 1.97 (Tracking) > foobar2000 (Tagging, conversion to FLAC Level 8)
+
+01: Introduction
+02: Seek Up
+03: Funny the Way It Is
+04: Grace Is Gone
+05: Can't Stop
+06: Sweet
+07: Warehouse
+08: That Girl Is You
+09: What Would You Say
+10: Do You Remember
+11: When the World Ends
+12: Lying in the Hands of God
+13: Rooftop
+14: Walk Around the Moon
+15: Jimi Thing >
+16: I Want a New Drug >
+17: Sexy M.F.
+18: Sledgehammer
+19: Dancing Nancies
+20: You & Me
+21: Louisiana Bayou
+22: Encore Break
+23: Some Devil
+24: Don't Drink the Water
+25: Outro
+
+Compiled on 9/11/2021
+
+Notes:  
+
+Original airing of the live broadcast ended during Lying In the Hands of God.  This is a capture of the first "encore" broadcast on 9/11/2021.
+
+Original media info for ADTS format AAC prior to conversion to FLAC for distribution is included below for reference.  No further "lossy" conversions took place in processing this capture.
+
+General
+Complete name                            : dmb2021-09-10.aac
+Format                                   : ADTS
+Format/Info                              : Audio Data Transport Stream
+File size                                : 318 MiB
+Overall bit rate mode                    : Variable
+
+Audio
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format version                           : Version 4
+Format profile                           : LC
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 kHz
+Frame rate                               : 43.066 FPS (1024 spf)
+Compression mode                         : Lossy
+Stream size                              : 318 MiB (100%)

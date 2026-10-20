@@ -1,0 +1,158 @@
+#!/usr/bin/env bash
+# dtdl-plex-analyze: deep-analyse newly published music in Plex so FLACs become playable.
+#
+# Installed on media-server as /usr/local/bin/dtdl-plex-analyze and run AS THE plex USER, normally
+# via a forced-command SSH key from dreamingtree-dl (see media-server/setup.sh). Commands arrive in
+# SSH_ORIGINAL_COMMAND (or as arguments when run by hand as plex):
+#
+#   analyze <folder>   scan <folder> in Plex, wait for its tracks to appear, deep-analyse the ones
+#                      without a bitrate, then verify every track has one
+#   status  <folder>   read-only: tracks in Plex for <folder> and how many lack a bitrate
+#   sweep              deep-analyse every music track in Plex that lacks a bitrate
+#
+# Why bitrate: Plex can't stream a FLAC until "Plex Media Scanner --analyze-deeply" has run on it,
+# and the visible sign of that in the database is media_items.bitrate being NULL.
+#
+# Exit codes: 0 ok, 1 bad request or environment, 2 finished but some tracks still lack a bitrate,
+# 3 timed out waiting for Plex to pick the folder up.
+set -uo pipefail
+
+LIBRARY_ROOT="/srv/music"   # your Plex music library root; edit before installing
+PMS_DIR="/usr/lib/plexmediaserver"
+SUPPORT="/var/lib/plexmediaserver/Library/Application Support/Plex Media Server"
+DB="$SUPPORT/Plug-in Support/Databases/com.plexapp.plugins.library.db"
+PREFS="$SUPPORT/Preferences.xml"
+PLEX_URL="http://127.0.0.1:32400"
+WAIT_SECS="${DTDL_WAIT_SECS:-900}"      # how long to wait for Plex to create the items
+LOG="/var/lib/plexmediaserver/dtdl-plex-analyze.log"
+AUDIO_RE='.*\.(flac|mp3|m4a|ogg|wav|ape|alac|aiff?)'
+
+export PLEX_MEDIA_SERVER_APPLICATION_SUPPORT_DIR="/var/lib/plexmediaserver/Library/Application Support"
+export LD_LIBRARY_PATH="$PMS_DIR/lib${LD_LIBRARY_PATH:+:$LD_LIBRARY_PATH}"
+
+log() { { printf '%s %s\n' "$(date -u +%FT%TZ)" "$*" >>"$LOG"; } 2>/dev/null || true; }
+die() { echo "ERROR: $*" >&2; log "ERROR: $*"; exit "${2:-1}"; }
+sql() { "$PMS_DIR/Plex SQLite" -readonly "$DB" "$1"; }
+q() { printf "%s" "${1//\'/\'\'}"; }   # escape for a single-quoted SQL literal
+
+[ "$(id -un)" = plex ] || die "must run as the plex user (running as $(id -un))"
+
+cmdline="${SSH_ORIGINAL_COMMAND:-$*}"
+verb="${cmdline%% *}"
+arg=""
+[ "$cmdline" != "$verb" ] && arg="${cmdline#* }"
+
+resolve_folder() {
+    local raw="$1" real
+    case "$raw" in *$'\n'*|"") die "folder required" ;; esac
+    real="$(realpath -e -- "$raw" 2>/dev/null)" || die "no such folder: $raw"
+    [ -d "$real" ] || die "not a folder: $real"
+    case "$real/" in "$LIBRARY_ROOT"/?*) ;; *) die "refusing folder outside $LIBRARY_ROOT: $real" ;; esac
+    printf '%s' "$real"
+}
+
+# "<tracks in Plex> <tracks without bitrate>" for files directly inside the folder
+folder_counts() {
+    local p; p="$(q "$1/")"
+    sql "select count(*), coalesce(sum(mi.bitrate is null),0) from media_parts mp
+         join media_items mi on mi.id = mp.media_item_id
+         where substr(mp.file, 1, length('$p')) = '$p' and instr(substr(mp.file, length('$p') + 1), '/') = 0;" | tr '|' ' '
+}
+
+folder_ids_missing() {
+    local p; p="$(q "$1/")"
+    sql "select distinct mi.metadata_item_id from media_parts mp
+         join media_items mi on mi.id = mp.media_item_id
+         where substr(mp.file, 1, length('$p')) = '$p' and instr(substr(mp.file, length('$p') + 1), '/') = 0
+           and mi.bitrate is null order by 1;"
+}
+
+count_audio() {   # audio files directly inside the folder
+    find "$1" -maxdepth 1 -type f -regextype posix-extended -iregex "$AUDIO_RE" -printf . | wc -c
+}
+
+deep_analyse() {   # ids on stdin; prints how many it ran
+    local n=0 id
+    while read -r id; do
+        [[ "$id" =~ ^[0-9]+$ ]] || continue
+        if "$PMS_DIR/Plex Media Scanner" --analyze-deeply --item "$id" >>"$LOG" 2>&1; then
+            n=$((n + 1))
+        else
+            log "scanner failed for item $id"
+        fi
+    done
+    echo "$n"
+}
+
+trigger_scan() {
+    local folder="$1" token section url
+    token="$(grep -o 'PlexOnlineToken="[^"]*"' "$PREFS" 2>/dev/null | cut -d'"' -f2)"
+    section="$(sql "select library_section_id from section_locations
+                    where '$(q "$folder")/' like root_path || '/%' order by length(root_path) desc limit 1;")"
+    [ -n "$section" ] || die "no Plex library covers $folder"
+    url="$PLEX_URL/library/sections/$section/refresh?path=$(python3 -c 'import sys,urllib.parse;print(urllib.parse.quote(sys.argv[1]))' "$folder")"
+    if [ -n "$token" ]; then
+        curl -fsS -m 20 -H "X-Plex-Token: $token" "$url" >/dev/null 2>&1 || log "scan request failed for $folder (Plex may still pick it up itself)"
+    else
+        log "no Plex token in Preferences.xml; relying on Plex's own change detection"
+    fi
+}
+
+exec 9>"/tmp/dtdl-plex-analyze.lock"
+flock -w 3600 9 || die "another dtdl-plex-analyze is still running"
+
+case "$verb" in
+status)
+    folder="$(resolve_folder "$arg")" || exit 1   # die() inside $() only leaves the subshell
+    read -r have missing <<<"$(folder_counts "$folder")"
+    files=$(count_audio "$folder")
+    echo "STATUS folder=$folder audio_files=$files in_plex=$have missing_bitrate=$missing"
+    ;;
+analyze)
+    start=$(date +%s)
+    folder="$(resolve_folder "$arg")" || exit 1   # die() inside $() only leaves the subshell
+    files=$(count_audio "$folder")
+    [ "$files" -gt 0 ] || die "no audio files in $folder"
+    log "analyze $folder ($files audio files)"
+    trigger_scan "$folder"
+    # wait for Plex to create one item per audio file (and stay there for two polls)
+    stable=0 last=-1
+    while :; do
+        read -r have missing <<<"$(folder_counts "$folder")"
+        if [ "$have" -ge "$files" ] && [ "$have" = "$last" ]; then stable=$((stable + 1)); else stable=0; fi
+        [ "$stable" -ge 1 ] && break
+        last="$have"
+        [ $(( $(date +%s) - start )) -ge "$WAIT_SECS" ] && \
+            die "timed out after ${WAIT_SECS}s: Plex has $have of $files tracks for $folder" 3
+        sleep 10
+    done
+    ids="$(folder_ids_missing "$folder")"
+    ran=$(printf '%s\n' "$ids" | deep_analyse)
+    # the scanner writes through the server; give the database a moment to show the bitrates
+    for _ in 1 2 3 4 5 6; do
+        read -r have missing <<<"$(folder_counts "$folder")"
+        [ "$missing" = 0 ] && break
+        sleep 10
+    done
+    range="$(printf '%s\n' "$ids" | grep -E '^[0-9]+$' | sed -n '1p;$p' | paste -sd- -)"
+    msg="folder=$folder tracks=$have deep_analysed=$ran missing_bitrate=$missing items=${range:-none} secs=$(( $(date +%s) - start ))"
+    log "done $msg"
+    if [ "$missing" = 0 ]; then echo "OK $msg"; else echo "INCOMPLETE $msg"; exit 2; fi
+    ;;
+sweep)
+    start=$(date +%s)
+    ids="$(sql "select distinct mi.metadata_item_id from media_items mi
+                join library_sections ls on ls.id = mi.library_section_id
+                where ls.section_type = 8 and mi.bitrate is null order by 1;")"
+    count=$(printf '%s\n' "$ids" | grep -Ec '^[0-9]+$' || true)
+    log "sweep: $count tracks without bitrate"
+    ran=$(printf '%s\n' "$ids" | deep_analyse)
+    left="$(sql "select count(*) from media_items mi join library_sections ls on ls.id = mi.library_section_id
+                 where ls.section_type = 8 and mi.bitrate is null;")"
+    echo "SWEEP found=$count deep_analysed=$ran still_missing=$left secs=$(( $(date +%s) - start ))"
+    [ "$left" = 0 ] || exit 2
+    ;;
+*)
+    die "usage: analyze <folder> | status <folder> | sweep"
+    ;;
+esac

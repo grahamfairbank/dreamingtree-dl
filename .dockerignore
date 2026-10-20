@@ -1,0 +1,12 @@
+# Build context is the repo root (compose context: ..)
+.git
+.gitignore
+data/
+tests/fixtures/
+.pytest_cache/
+__pycache__/
+**/__pycache__/
+*.pyc
+.venv/
+.env
+docs/

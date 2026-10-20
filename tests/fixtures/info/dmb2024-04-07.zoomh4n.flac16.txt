@@ -1,0 +1,60 @@
+Dave Matthews Band
+7 April 2024
+Oslo Spektrum - Oslo, NOR
+
+Taper: Torbjørn Gording Backsæther
+Source: Zoom H4n Handheld Recorder (24/44.1)
+Location: Section 201, Seat 160
+Editing: WAV > Reaper 7.14 (Gain, Mixing, Normalizing, Resample 16/44.1) > Audacity 3.4.2 (Fades, Tracking) > FLAC (Level 8)
+
+Setlist:
+
+01. Intro
+02. When the World Ends
+03. #41
+04. Rooftop
+05. Dave Speak: Nei Oss & Dem
+06. Madman's Eyes
+07. Virginia in the Rain¹
+08. Stay or Leave
+09. The Only Thing
+10. Say Goodbye
+11. So Much to Say >
+12. Anyone Seen the Bridge >
+13. Too Much
+14. Come On Come On
+15. Dave Speak: Takk for at du hørte på
+16. Typical Situation
+17. You Might Die Trying
+18. Bandintroduksjoner
+19. Lying in the Hands of God³
+20. Monsters
+21. Crash Into Me⁴
+22. All Along the Watchtower⁵
+23. Encore Break
+24. Dave Speak: Søstre
+25. Sister
+26. Two Step⁶
+
+Set Time: [02:50:57.138]
+
+Dave Matthews Band:
+
+Dave Matthews - Guitar, Lead Vocals
+Tim Reynolds - Electric Guitar
+Stefan Lessard - Bass
+Buddy Strong - Keyboards, Vocals
+Rashawn Ross - Trumpet, Vocals
+Jeff Coffin - Saxophone, Flute
+Carter Beauford - Drums
+
+Notes:
+
+¹ with extended outro
+² with Also Sprach Zarathustra and Heartbreaker interpolations
+³ with American Baby Intro and Bourbons & Lacs interpolations
+⁴ with Dixie Chicken interpolation
+⁵ Bob Dylan cover, with Stefan solo intro, with "Stairway to Heaven" interpolation
+⁶ with Time Bomb intro
+
+Compiled by Zachary Semcken on 2024-04-12.

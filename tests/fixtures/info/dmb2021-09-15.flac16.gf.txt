@@ -1,0 +1,71 @@
+Dave Matthews Band
+Summerfest
+American Family Insurance Amphitheater
+Milwaukee, WI
+September 15, 2021
+
+Taper:  bersey 
+Location:  FOH, little left of center, mics 6' high
+Source:  CA-11 cardioids > CA-9100 > Sony PCM-M10 @ 24 bit/48kHz
+Conversion:  Sony PCM-M10 > PC > Sony Sound Forge Audio Studio 9.0 (fades, normalize,  
+             resample to 44.1 kHz, dither to 16 bit) > CD Wave Editor (tracking) > 
+             Trader's Little Helper (encode to flac,level 6) > foobar 2000 (tagging)
+
+**************************************************************************************
+**********************DO NOT DISTRIBUTE IN LOSSY FORMATS LIKE MP3*********************
+********************RECORDING IS NOT FOR SALE OR ANY COMMERCIAL USE*******************
+**************************************************************************************
+
+01. Intro	                             01:40.00
+02. Seek Up                                  19:40.00
+03. So Much to Say >                         04:16.00
+04. Anyone Seen the Bridge >                 01:57.00
+05. Too Much                                 06:58.00
+06. That Girl Is You                         06:00.00
+07. Can't Stop                               06:14.00
+08. Grace Is Gone                            09:23.00
+09. Sweet Up and Down                        05:37.00
+10. #41                                      11:16.00 
+11. When the World Ends                      05:02.00
+12. You Never Know                           07:14.00 
+13. Kill the Preacher                        01:48.00
+14. Why I Am                                 04:55.00
+15. You & Me                                 05:01.00 
+16. Davespeak (The Crippler, new music)      01:24.00
+17. Walk Around the Moon                     06:23.00
+18. Sledgehammer *                           06:50.00
+19. Jimi Thing >                             10:28.00
+20. I Want a New Drug ~ >                    01:25.00
+21. Sexy MF #                                03:30.00
+22. Everyday                                 10:14.00
+23. Dancing Nancies                          11:01.00
+24. Grey Street                              06:24.00 
+25. Encore Break                             03:40.00
+26. Davespeak (Singing From the Windows)     02:27.00
+27. Singing from the Windows !               04:28.00 
+28. Shake Me Like a Monkey                   04:25.00
+     
+Total:                                     2:49:40.00
+
+
+Notes:
+* Peter Gabriel cover
+~ Huey Lewis & The News cover
+# Prince cover
+! Dave solo
+
+
+Dave Matthews Band:
+Dave Matthews - acoustic guitar, electric guitar, vocals
+Carter Beauford - drums, percussion, backing vocals
+Stefan Lessard - electric bass guitar
+Tim Reynolds - electric guitar
+Jeff Coffin - saxophones, backing vocals
+Rashawn Ross - trumpet, vocals
+Arthur "Buddy" Strong - keys, vocals
+
+
+Thanks to Dave Matthews Band for letting me tape the show and
+thanks to the DMB road crew for letting set up FOH!
+
+Compiled by Kurt Berwanger on September 19, 2021

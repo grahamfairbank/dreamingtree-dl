@@ -1,0 +1,45 @@
+Dave Matthews Band
+June 22, 2000
+Noblesville, IN
+
+Taper: Jeremy Schultz & Doug Weiner
+Source: Schoeps cmc6/mk4 > unknown
+Conversion: unknown
+
+CD > Flac (level 8): Exact Audio Copy
+
+01 - introduction				02:19
+02 - The Stone >				07:22
+03 - Drive In Drive Out				08:28
+04 - #41					11:15
+05 - Recently (truncated)			03:55
+06 - Lover Lay Down				07:50
+07 - The Song That Jane Likes			05:13
+08 - Lie in Our Graves				12:17
+09 - Grey Street				08:55
+10 - Jimi Thing					16:26
+11 - Sweet Up and Down				06:25
+12 - Satellite					05:22
+13 - Bartender					12:25
+14 - Crash into Me				07:28
+15 - Raven					07:11
+16 - #40					04:13
+17 - Too Much					11:54
+==========
+18 - The Maker					07:04
+19 - JTR					06:17
+
+TOTAL						02:32:19
+
+
+There is a tiny pop prior to Raven, not from the CD trackmarking.
+
+I received these discs from the taper after the tour ended. The source was not listed on etree.org, 
+but an upgrade to what is was out there. So I extracted with high error recovery, and all tracks
+extracted at 100%.
+
+The original CDs had an abrupt fade out directly after Too Much and fade back in right before the Maker.
+The encore break was not taped. I have patched in the encore break from the ak40 source with permission
+from that taper for an easier and more complete listening experience.
+
+The show has been retracked from its original tracking that included disc introduction tracks.

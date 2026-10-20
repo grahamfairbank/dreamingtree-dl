@@ -1,0 +1,56 @@
+Dave Matthews Band
+October 8, 2021
+Fiddler's Green Amphitheatre - Greenwood Village, CO
+
+Taper: Zachary Semcken
+Source: AKG C414 XLII (Hypercardioid) > Zoom F6 (32 Bit Float)
+Location: Sec 101, Row LL, Seat 114, right of FOH, DFC, Mics DIN @ 9'.
+Editing: WAV > Reaper 6.36 (Gain, Mixing, Normalizing) > Audacity 3.0.5 (Fades, Tracking) > FLAC (Level 8)
+
+01. Intro
+02. Seek Up
+03. Proudest Monkey (Tease) > Satellite
+04. Pantala Naga Pampa >
+05. Rapunzel
+06. Squirm
+07. Stay or Leave
+08. Sweet Up and Down
+09. #41
+10. So Much to Say >
+11. Anyone Seen the Bridge* >
+12. Too Much
+13. Lover Lay Down
+14. So Right
+15. Lying in the Hands of God&
+16. Dancing Nancies >
+17. Warehouse%
+18. Grace Is Gone >
+19. Funny the Way It Is
+20. What You Are^
+21. Grey Street
+22. Encore Break
+23. I'll Back You Up
+24. You Might Die Trying
+
+Dave Matthews Band:
+
+Dave Matthews - Guitar, Lead Vocals
+Tim Reynolds - Electric Guitar
+Stefan Lessard - Bass
+Buddy Strong - Keyboards, Vocals
+Rashawn Ross - Trumpet, Vocals
+Jeff Coffin - Saxophone, Flute
+Carter Beauford - Drums
+
+Notes:
+
+* Also Sprach Zarathustra and Heartbreaker interpolations
+& Bourbons & Lacs and American Baby Intro interpolations
+% stop time intro
+^ includes prelude
+
+Huge thanks to the DMB Crew for letting me set up at FOH.
+
+This recording is dedicated to all the tapers before me who continue to preserve live music.
+
+Compiled on 2021/10/09.

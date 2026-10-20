@@ -1,0 +1,56 @@
+Dave Matthews Band
+May 14, 2019
+Wells Fargo Arena
+Des Moines, IA
+
+Source: SiriusXM HLS "Extreme" quality stream > ffmpeg-20190722-817235b-win64-static
+Conversion: Decompress AAC to WAV via ffmpeg-20190722-817235b-win64-static > CD Wave Editor 1.97 (Tracking) > foobar2000 (Tagging, conversion to FLAC Level 8)
+
+01: Introduction
+02: Louisiana Bayou
+03: Big Eyed Fish >
+04: Bartender
+05: So Right
+06: Do You Remember
+07: So Much to Say >
+08: Anyone Seen the Bridge >
+09: Too Much
+10: Samurai Cop (Oh Joy Begin) >
+11: Crush
+12: The Stone
+13: Crash into Me
+14: Why I Am
+15: Recently >
+16: Funny the Way It Is >
+17: Typical Situation
+18: You & Me
+19: Everyday
+20: Pantala Naga Pampa >
+21: Rapunzel
+22: Sister
+23: All Along the Watchtower
+24: Outro
+
+Compiled on 8/17/2019
+
+Notes:  Original media info for ADTS format AAC prior to conversion to FLAC for distribution is included below for reference.  No further "lossy" conversions took place in processing this capture.
+
+General
+Complete name                            : dmb2019-05-14.aac
+Format                                   : ADTS
+Format/Info                              : Audio Data Transport Stream
+File size                                : 306 MiB
+Overall bit rate mode                    : Variable
+
+Audio
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format version                           : Version 4
+Format profile                           : LC
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 kHz
+Frame rate                               : 43.066 FPS (1024 spf)
+Compression mode                         : Lossy
+Stream size                              : 306 MiB (100%)

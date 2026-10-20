@@ -1,0 +1,101 @@
+Dave Matthews Band
+October 27, 1994
+Barrymore Theater
+Madison, WI
+
+Taper:	Unknown
+Source: SBD->Panasonic 3700 (Band's)->Unknown DAT Patch->CD-r->SHN
+
+DAT>CD:	Alan Schmit
+Equip:	Unknown
+
+CD>SHN:	John Zei
+Equip:	Unknown
+
+Reconversion: shn>EAC>wav(no errors)>cd wav(to split d2t8 into d2t08 & d2t09)>flac frontend(level 5)
+
+
+-DO NOT ENCODE THIS SHOW INTO MP3 FORMAT-
+
+
+Disc 1:
+
+01:	Seek Up &               		-	14:32
+02:	Dancing Nancies-> 			-	09:00
+03:	Warehouse 				-	09:24
+04:	The Song That Jane Likes 		-	05:05
+05:	The Best Of What's Around 		-	06:59
+06:	Rhyme & Reason	 			-	06:20
+07:	Jimi Thing 				-	14:08
+08:	Pay For What You Get (Norwegian Wood)	-	06:25
+09:	What Would You Say? 			-	06:01
+
+Disc 2:
+ 
+01:	Satellite 				-	05:32
+02:	Nature->Tripping Billies 		-	05:18
+03:	Minarets (Scat intro)-> 		-	08:37
+04:	Cry Freedom 				-	06:52
+05:	Recently 				-	09:02
+06:	#36-> 					-	08:05
+07:	Ants Marching 				-	08:29
+	-Encore-
+08:	I'll Back You Up^ 			-	04:40
+09:	All Along The Watchtower 		-	08:59
+
+
+	-Show Notes-
+
+^	Dave and Stefan
+Rusted Root opened
+
+Seek Up is faded into at the very begiging (it seems a lot of late 94
+shows have the same issue), and the encore break was removed.
+
+updated and completed by Andrew Knowles on 10-28-01
+ 
+
+
+Reconversion: Previous conversion's shn set had disc 2 tracks 8 & 9 as one track.  I split the tracks properly in cd wav editor. Remastered entire source using Soundforge 8.0.  Increased volume due to low levels. In reviewing the wav files, found a significant amount of pops, static and diginoise that were never repaired.
+
+Fixed the following digi-errors,pops or clicks using Soundforge pencil tool:
+
+pops at 2:04 & 2:37 of STJL fixed
+pop at 2:48 of R&R fixed
+dignoise at 1:41 of WWYS fixed, copied right channel to left channel, huge pops at 2:34,2:36,2:43,2:50,2:55,3:03 & 3:11 fixed
+pops at 2:15,2:48,3:17 & 4:20 of Satellite fixed
+pops at 0:52,1:08,1:25,& 4:08 of Billies fixed
+pops at 4:58-4:59 of Minarets fixed
+pops at 2:28,2:39,2:48-3:30 & 7:17-7:21 of Recently fixed
+pops at 1:31,1:40,1:48,2:13,3:00,3:58,4:04,5:02 & 5:23 of Ants fixed
+diginoise &/or static at 2:28,3:28,3:46 & 8:17-8:20 of AATW fixed
+
+& Seek Up starts at beginning,not cutoff
+
+
+Created flac files,fingerprints in Flac Frontend and new md5 checksums in Trader's Little Helper.
+
+
+
+Recompiled & reconverted by Tom Gambichler on May 3, 2009
+
+
+
+dmb1994-10-27d1t01.flac:7be84f0514871503c22e5d1a2e717345
+dmb1994-10-27d1t02.flac:b9bb48e4083c550df63df188f1131b3a
+dmb1994-10-27d1t03.flac:2af977c8f896f1e32519ecd91c2575db
+dmb1994-10-27d1t04.flac:554d5a25fafc4b98bbbed48fd192cdf1
+dmb1994-10-27d1t05.flac:dad4acb22dfeeb35f5d3e626c922d1fe
+dmb1994-10-27d1t06.flac:9b865444d352f10301e4723e3d5a013d
+dmb1994-10-27d1t07.flac:6ead6bc77eb04d5a03801a7a1801b265
+dmb1994-10-27d1t08.flac:47fa0bdef9402e602ff0fa6daeb10943
+dmb1994-10-27d1t09.flac:8c40251460162f5cd51880c946bb5f1a
+dmb1994-10-27d2t01.flac:8010a3d7a9315f8dfad581d017c49365
+dmb1994-10-27d2t02.flac:88158fb22c45970d16bb84dd7cf6c535
+dmb1994-10-27d2t03.flac:8bf9a665fb01ee56412628b7570ea8f7
+dmb1994-10-27d2t04.flac:828f03a41be80bee21f543ec533ec68d
+dmb1994-10-27d2t05.flac:ef443447a66ea4e9504fd3dec1f194f8
+dmb1994-10-27d2t06.flac:34ecc7b15410f03ece7f4b9c84ec7d50
+dmb1994-10-27d2t07.flac:cdf2c1d0c7ca01df004092d1b4c80b54
+dmb1994-10-27d2t08.flac:6a71a5b58ab5e5ba70d09a025e0e34da
+dmb1994-10-27d2t09.flac:c4a997471aa958281b88521e067e98c6

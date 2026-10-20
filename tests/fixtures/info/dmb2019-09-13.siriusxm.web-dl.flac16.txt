@@ -1,0 +1,58 @@
+Dave Matthews Band
+September 13, 2019
+Ak-Chin Pavilion
+Phoenix, AZ
+
+Source: SiriusXM HLS "Extreme" quality stream > ffmpeg-20190722-817235b-win64-static
+Conversion: Decompress AAC to WAV via ffmpeg-20190722-817235b-win64-static > CD Wave Editor 1.97 (Tracking) > foobar2000 (Tagging, conversion to FLAC Level 8)
+
+01: Introduction
+02: Louisiana Bayou
+03: Satellite
+04: Come Tomorrow
+05: Anyone Seen the Bridge
+06: Fly Like an Eagle
+07: Rooftop
+08: Crush
+09: Do You Remember
+10: Lying in the Hands of God
+11: Kill the Preacher [partial]
+12: Don't Drink the Water
+13: Warehouse
+14: Lover Lay Down
+15: Can't Stop
+16: Sledgehammer
+17: Here On Out
+18: Tripping Billies
+19: Where Are You Going
+20: You Might Die Trying
+21: Everyday
+22: Encore Break
+23: Granny
+24: Ants Marching
+25: Outro
+
+Compiled on 9/19/2019
+
+Notes:  Original media info for ADTS format AAC prior to conversion to FLAC for distribution is included below for reference.  No further "lossy" conversions took place in processing this capture.
+
+General
+Complete name                            : dmb2019-09-13.aac
+Format                                   : ADTS
+Format/Info                              : Audio Data Transport Stream
+File size                                : 303 MiB
+Overall bit rate mode                    : Variable
+
+Audio
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format version                           : Version 4
+Format profile                           : LC
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 kHz
+Frame rate                               : 43.066 FPS (1024 spf)
+Compression mode                         : Lossy
+Stream size                              : 303 MiB (100%)
+

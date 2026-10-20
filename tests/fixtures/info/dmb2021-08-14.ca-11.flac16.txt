@@ -1,0 +1,70 @@
+Dave Matthews Band
+Deer Creek Music Center
+Noblesville, IN
+August 14, 2021
+
+Taper:  bersey
+Location:  Section G, Row G, Right Stack-ish, mics about 12' high
+Source:  CA-11 cardioids > CA-9100 > Sony PCM-M10 @ 24 bit/48kHz
+Conversion:  Sony PCM-M10 > PC > Sony Sound Forge Audio Studio 9.0 (fades, normalize, 
+             resample to 44.1 kHz, dither to 16 bit) > CD Wave Editor (tracking) > 
+             Trader's Little Helper (encode to flac, level 6) > foobar 2000 (tagging)
+
+**************************************************************************************
+**********************DO NOT DISTRIBUTE IN LOSSY FORMATS LIKE MP3*********************
+********************RECORDING IS NOT FOR SALE OR ANY COMMERCIAL USE*******************
+**************************************************************************************
+
+01. Intro	                     02:46.00
+02. You Never Know                   08:20.00
+03. One Sweet World                  07:44.00
+04. Seek Up                          17:53.00
+05. Can't Stop                       05:42.00
+06. Where Are You Going              04:31.00
+07. Funny the Way It Is              05:57.00
+08. Sugar Will                       07:51.00
+09. The Stone                        12:54.00
+10. So Much to Say >                 04:18.00 
+11. Anyone Seen the Bridge >         01:58.00
+12. Too Much                         07:03.00 
+13. Walk Around the Moon             07:03.00
+14. Pig                              06:53.00
+15. Minarets                         08:05.00 
+16. Lie In Our Graves                12:20.00
+17. Kill the Preacher                01:53.00
+18. Why I Am                         06:10.00
+19. Jimi Thing >                     12:23.00
+20. I Want a New Drug * >            01:27.00
+21. Sexy M.F. ^                      03:26.00
+22. Everyday                         09:37.00
+23. Grey Street                      06:50.00
+24. Encore Break                     04:35.00 
+25. The Song That Jane Likes         04:35.00
+26. Intro to...                      03:21.00 
+27. Don't Drink the Water            06:56.00
+     
+Total:                             3:03:00.00
+
+
+Notes:
+- Original show date of 6.20.20 postponed to 6.19.21
+  due to COVID-19 pandamic then rescheduled to 8.14.21
+- some minor wind noise present
+* Huey Lewis & The News cover
+^ Prince cover
+
+
+
+Dave Matthews Band:
+Dave Matthews - acoustic guitar, electric guitar, vocals
+Carter Beauford - drums, percussion, backing vocals
+Stefan Lessard - electric bass guitar
+Tim Reynolds - electric guitar
+Jeff Coffin - saxophones, flute, backing vocals
+Rashawn Ross - trumpet, vocals
+Arthur "Buddy" Strong - keys, vocals
+
+
+Thanks to Dave Matthews Band and Deer Creek for letting me tape the show!
+
+Compiled by Kurt Berwanger on August 15, 2021

@@ -1,0 +1,67 @@
+Dave Matthews Band
+Alpine Valley Music Theatre
+East Troy, WI
+July 2, 2022
+
+Taper:  bersey
+Location:  Section 202, Row MM, Seat 100, Right Stack, mics about 15' high
+Source:  CA-11 cardioids > CA-9100 > Sony PCM-M10 @ 24 bit/48kHz
+Conversion:  Sony PCM-M10 > PC > Sony Sound Forge Audio Studio 9.0 (fades, normalize,  
+             resample to 44.1 kHz, dither to 16 bit) > CD Wave Editor (tracking) > 
+             Trader's Little Helper (encode to flac,level 6) > foobar 2000 (tagging)
+
+**************************************************************************************
+********************RECORDING IS NOT FOR SALE OR ANY COMMERCIAL USE*******************
+**************************************************************************************
+
+01. Pig	                           07:58.00
+02. Grace Is Gone                  08:41.00
+03. Madman's Eyes                  07:32.00
+04. Come On Come On                07:09.00
+05. When the World Ends            03:52.00
+06. You Might Die Trying           10:03.00
+07. Stay Or Leave                  05:31.00
+08. The Only Thing                 06:18.00
+09. #41                            11:37.00
+10. Fool In the Rain *             06:53.00 
+11. So Damn Lucky                  11:03.00
+12. The Song That Jane Likes       05:33.00 
+13. Say Goodbye                    09:14.00
+14. Grey Street                    08:30.00
+15. Steady As We Go                04:36.00 
+16. Pantala Naga Pampa >           00:39.00
+17. Rapunzel                       06:35.00
+18. Samurai Cop (Oh Joy Begin)     05:04.00
+19. Dancing Nancies >              10:17.00
+20. Warehouse                      09:35.00
+21. Encore Break                   05:58.00
+22. Rye Whiskey ~                  04:16.00
+23. Two Step                       11:06.00
+     
+Total:                           2:48:00.00
+
+
+Notes:
+* Led Zeppelin cover
+~ Dave solo
+- had issues with my stand around tracks 08 thru 10, 
+  some rustling sounds can be heard between songs
+
+
+Dave Matthews Band:
+Dave Matthews - acoustic guitar, electric guitar, vocals
+Carter Beauford - drums, percussion, backing vocals
+Stefan Lessard - electric bass guitar
+Tim Reynolds - electric guitar
+Jeff Coffin - saxophones, backing vocals
+Rashawn Ross - trumpet, backing vocals
+Arthur "Buddy" Strong - keys, backing vocals
+
+
+Thanks to Dave Matthews Band and Alpine Valley for letting me tape the show!
+
+Thanks to Mark Terrell for the dead rat windscreens!
+
+No Thanks to Puke Boy who puked during Nikki Lane's set :(
+
+Compiled by Kurt Berwanger on July 3, 2022

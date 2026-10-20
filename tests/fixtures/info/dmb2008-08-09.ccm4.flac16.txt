@@ -1,0 +1,67 @@
+Dave Matthews Band
+Alpine Valley Music Theatre
+East Troy, WI
+August 9, 2008
+
+
+Taper: Crumbo
+Location:  Section 102, Row J, Seats 100 & 101
+Source: Schoeps CCM4 (DINa, ~17') > SD 722 (24/48)
+Conversion: SD 722 > Wavelab 5.01b (resample, dither w/MegaBitMax) > CDWav 1.97 > xACT 0.5.9 > foobar2000
+
+
+***DO NOT DISTRIBUTE IN LOSSY FORMATS***
+***24/48 Version exists in flac format*** 
+
+
+Disc 1
+
+01 Intro                                             03:12.56
+02 Dancing Nancies *                                 09:58.12
+03 Seek Up *                                         16:02.74
+04 Proudest Monkey * >                               09:13.20
+05 Satellite *                                       05:58.19
+06 So Damn Lucky *                                   09:48.47
+07 Bartender *                                       13:20.16
+
+Disc 1 Total: 67:34.19
+
+Disc 2
+
+01 Corn Bread *                                      07:49.00
+02 Spoon *                                           07:03.30
+03 Eh Hee >                                          04:34.68
+04 Water Into Wine *                                 05:51.53
+05 Burning Down The House *                          04:18.63
+06 Louisiana Bayou *                                 09:36.01
+07 Anyone Seen The Bridge * >                        03:34.58
+08 Too Much Intro * >                                00:08.14
+09 Halloween * >                                     04:57.71
+10 Water Into Wine (Reprise)                         02:33.26
+11 Out Of My Hands +                                 05:57.08
+
+Disc 2 Total: 56:25.17
+
+Disc 3
+
+01 Intro to.... >                                    01:28.28
+02 Crush *                                           16:56.26
+03 Money * >                                         07:18.47
+04 You Might Die Trying *                            08:24.09
+05 Ants Marching *                                   09:37.18
+06 Encore Break                                      07:45.35
+07 Intro to... >                                     01:37.68
+08 Don�t Drink the Water * >                         06:41.01
+09 Two Step *                                        17:07.04
+
+Disc 3 Total: 76:56.11
+
+
+Notes:
+
+-Thanks to Jason.
+-Send good thoughts for LeRoi
+* Jeff Coffin
++ No Horns, Dave on piano
+
+Compiled by Crumbo 8-10-2008.

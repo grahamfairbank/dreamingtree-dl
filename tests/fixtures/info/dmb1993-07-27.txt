@@ -1,0 +1,74 @@
+Dave Matthews Band
+July 27, 1993
+The Floodzone
+Richmond, VA
+
+
+Source:		DSBD > DAT
+
+Conversion:	Tascam da20 > RME Digi96/PAD
+		Sound Forge 4.5a (record/resample) > CDWav > MKWact
+		Louie Rendek <<email>>
+
+Disc One <set I>:
+
+01:		Rhyme And Reason #		-	03:41.62
+02:		I'll Back You Up #		-	03:09.72
+03:		Two Step #			-	04:59.15
+04:		Any Noise / Anti Noise #	-	04:02.10
+05:		Best Of What's Around #		-	08:12.61
+06:		Jimi Thing			-	15:09.12
+07:		One Sweet World intro ->	-	03:02.60
+08:		One Sweet World			-	06:39.02
+09:		Lie In Our Graves		-	07:37.22
+10:		Tripping Billies @		-	07:08.24
+11:		Recently $			-	08:56.54
+
+Total:						-	72:39.26
+
+Disc Two <set I continued>:  
+
+01:		Warehouse %			-	10:12.49
+
+<Intermission: Al Laughlin (keys), Sean Kelly (The Samples), and Boyd>:
+
+02:		Oceans Of War			-	04:11.17
+03:		Did You Ever Look So Nice?	-	04:42.38
+04:		Feel Us Shaking			-	04:41.55
+
+Total:						-	23:47.72
+
+Disc Three <set II>:
+
+01:		Set II intro			-	02:21.10
+02:		Ants Marching &			-	05:12.19
+03:		Dancing Nancies &		-	09:26.40
+04:		Granny &			-	08:48.04
+05:		#36 ! ^				-	23:59.12
+06:		True Reflections !		-	19:10.50
+
+Total:						-	68:57.61
+
+#	Dave solo
+*	Whole show with Doug Wannamaker on organ (aside from Dave solo).
+@	Nature intro
+$	Pretty girl outro
+%	'Shortenin Bread' tease
+&	with Mike Durham on guitar
+!	with Mike Durham on guitar and Oteil Burbridge on bass
+^	'Woody Woodpecker' and 'Popeye the Sailor' teases
+
+Notes:
+----------
+*	There was a previously circulating set of SHNs for this show
+	converted by Allan Chen.  That set of SHNs was incomplete, so
+	this set of SHNs should replace them.
+*	R&R fades in during Dave singing.  Most documented copies of
+	this show have the same problem.
+*	There was a 2 second diginoise rip around 3:00 in Two Step that
+	I fixed with a patch of audio from another DAT I had.
+*	There are some level adjustments during Jimi Thing.
+*	There are some level adjustments at the beginning of Ants.
+*	There was a nasty feedback pop edited out at 17:13 in #36.
+
+*  compiled by Louie Rendek <<email>> on January 17th, 2004.

@@ -1,0 +1,32 @@
+Dave Matthews Band
+The Wetlands Preserve
+New York, NY
+May 27, 1993
+
+Taper:		Michael Weill
+Source:		dsbd master DAT from Micheal W
+DAT > FLAC:	Sony DTC-A7 > Adobe Audition 2019 > CDWAV, level 8
+
+01:	Recently		-	10:17.43
+02:	Dancing Nancies		-	08:37.59
+03:	Typical Situation	-	09:52.06
+04:	Satellite		-	06:29.20
+05:	Granny			-	05:40.42
+06:	One Sweet World		-	09:13.60
+07:	Ants Marching		-	06:13.69
+08:	Seek Up			-	12:41.11
+------------------------------------------------
+Total:				-	69:06.10
+
+- Increased right channel volume 1.5dB throughout
+- Increased left/right channel volume 1.5dB after Granny
+- Fade in/out
+- Notch filter -60dB at 21,400Hz
+
+This was the only taper at the show and he was not able to record the 2nd set. We will likely never hear that unless this performance becomes an official release. Since you can hear Carter having sound issues throughout this set, officially releasing this show is unlikely.
+
+Note that previously a Dave and Tim concert is listed as May 27, 1993 at the Jefferson Theater (or, alternately, the Charlottesville Performing Arts Center); however, the taper confirmed DMB was in New York City playing this show that night and his calendars from the venue confirm the date and this concert was also advertised in the New York Magazine dated May 31, 1993, so the Dave & Tim can't be the correct date. 
+
+At the Dave & Tim show, Dave mentions that his sister Jane is in attendance and that she hasn't yet seen him play with Tim (implying that this show happened after a few other Dave & Tim shows), and he also mentions that it's summertime. Since we know that Dave & Tim played at Live Arts on May 23, 1993, our best guess is that somewhere along the line the date and venue just got mixed up (the two venues in question are almost adjacent to one another) and that the May 27, 1993 Wetlands date is correct.
+
+Compiled by Henry Hart on December 7, 2021

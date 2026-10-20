@@ -1,0 +1,61 @@
+Dave Matthews Band 
+June 23 , 2012 
+Klipsch Music Center (Deer Creek) 
+Noblesville, IN 
+
+
+
+Taper: Rockinman 
+Location: Behind soundboard, DFC, mics DINA 90 config, stand height @ 14 feet 
+Source: akg460mods/ck63 hypercaps(linear bass setting)>UA5 preamp(Wmod)>Marantz PMD661(SPDIF In) @ 24/48 kHz 
+Transfer: PMD661->USB->PC 
+Conversion: 24/48kHz wav->Sound Forge Pro 10> iZotope 64-Bit SRC & iZotope MBIT+ for resample and  dither to 16/44.1 kHz,No normalization, Waves L3 UltraMaximizer and fade in and fade out applied->CDWave Editor->Flac Frontend(level 5)> Foobar 2000 for tagging 
+
+************************************************************************* 
+***** DO NOT ENCODE THIS SHOW TO LOSSY FORMATS EXCEPT FOR PERSONAL USE*** 
+******************DO NOT SELL OR DISTRIBUTE FOR PROFIT******************* 
+************************************************************************* 
+
+Disc 1 
+
+01. Intro
+02. Seven
+03. Why I Am
+04. You Never Know
+05. Seek Up
+06. The Song That Jane Likes
+07. Pig
+
+Disc 2
+
+08. Spaceman->
+09. Corn Bread (Down by the Riverside interpolation)
+10. Dancing Nancies->
+11. Warehouse (Stop time intro)
+12. Stay or Leave
+13. Fool to Think
+14. Jimi Thing (Thank You, Sexy MF & It's a Jimi Thing Outros)
+
+Disc 3
+ 
+15. Shake Me Like a Monkey
+16. If Only
+17. Two Step (Time Bomb intro)
+
+18. Encore Break
+
+Encore
+
+19. Halloween->
+20. Tripping Billies
+
+
+
+
+Many thanks to Mike Peters for the hospitality and help carrying gear.  Also thanks to Crumbo for the beer
+
+
+
+
+Compiled by Tom Gambichler on June 24, 2012 
+

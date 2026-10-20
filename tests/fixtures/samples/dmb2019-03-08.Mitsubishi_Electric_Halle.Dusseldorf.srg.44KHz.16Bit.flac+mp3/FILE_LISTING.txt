@@ -1,0 +1,55 @@
+dmb2019-03-08.Mitsubishi_Electric_Halle.Dusseldorf.srg.44KHz.16Bit.flac+mp3:
+total 12
+-rw-r--r-- 1 user user 1226 2026-10-20 06:12 dmb2019-03-08.Mitsubishi_Electric_Halle.Dusseldorf.srg.44KHz.16Bit.flac+mp3.txt
+drwxr-xr-x 2 user user 4096 2026-10-20 06:12 FLAC
+drwxr-xr-x 2 user user 4096 2026-10-20 06:10 MP3
+
+dmb2019-03-08.Mitsubishi_Electric_Halle.Dusseldorf.srg.44KHz.16Bit.flac+mp3/FLAC:
+total 1051328
+-rw-r--r-- 1 user user   8738207 2026-10-20 06:12 dmb2019-03-08_00 Intro.flac
+-rw-r--r-- 1 user user  51825941 2026-10-20 06:12 dmb2019-03-08_01 One Sweet World.flac
+-rw-r--r-- 1 user user  71021835 2026-10-20 06:12 dmb2019-03-08_02 Dancing Nancies.flac
+-rw-r--r-- 1 user user  85416472 2026-10-20 06:12 dmb2019-03-08_03 Warehouse.flac
+-rw-r--r-- 1 user user  43965000 2026-10-20 06:10 dmb2019-03-08_04 Do You Remember.flac
+-rw-r--r-- 1 user user  80870250 2026-10-20 06:12 dmb2019-03-08_05 Lying in the Hands of God.flac
+-rw-r--r-- 1 user user  57328288 2026-10-20 06:12 dmb2019-03-08_06 So Right.flac
+-rw-r--r-- 1 user user  30306828 2026-10-20 06:12 dmb2019-03-08_07 The Space Between.flac
+-rw-r--r-- 1 user user  38847367 2026-10-20 06:12 dmb2019-03-08_08 So Much to Say.flac
+-rw-r--r-- 1 user user  36566814 2026-10-20 06:12 dmb2019-03-08_09 Samurai Cop (Oh Joy Begin).flac
+-rw-r--r-- 1 user user  37278323 2026-10-20 06:12 dmb2019-03-08_10 Why I Am.flac
+-rw-r--r-- 1 user user  78657168 2026-10-20 06:12 dmb2019-03-08_11 Don't Drink the Water.flac
+-rw-r--r-- 1 user user  24799391 2026-10-20 06:11 dmb2019-03-08_12 Here On Out.flac
+-rw-r--r-- 1 user user  47868115 2026-10-20 06:12 dmb2019-03-08_13 She.flac
+-rw-r--r-- 1 user user 124545372 2026-10-20 06:12 dmb2019-03-08_14 Jimi Thing.flac
+-rw-r--r-- 1 user user  35349095 2026-10-20 06:10 dmb2019-03-08_15 Satellite.flac
+-rw-r--r-- 1 user user  36541533 2026-10-20 06:12 dmb2019-03-08_16 Granny.flac
+-rw-r--r-- 1 user user  80291759 2026-10-20 06:11 dmb2019-03-08_17 Grey Street.flac
+-rw-r--r-- 1 user user  39724593 2026-10-20 06:11 dmb2019-03-08_18 Can't Stop.flac
+-rw-r--r-- 1 user user  66497816 2026-10-20 06:12 dmb2019-03-08_19 All Along the Watchtower.flac
+-rw-r--r-- 1 user user      1402 2026-10-20 06:12 dmb2019-03-08.Mitsubishi_Electric_Halle.Dusseldorf.srg.44KHz.16Bit.flac.ffp
+-rw-r--r-- 1 user user      1713 2026-10-20 06:12 dmb2019-03-08.Mitsubishi_Electric_Halle.Dusseldorf.srg.44KHz.16Bit.flac.m3u
+
+dmb2019-03-08.Mitsubishi_Electric_Halle.Dusseldorf.srg.44KHz.16Bit.flac+mp3/MP3:
+total 288592
+-rw-r--r-- 1 user user  2894366 2026-10-20 06:04 dmb2019-03-08_00 Intro.mp3
+-rw-r--r-- 1 user user 14007392 2026-10-20 06:07 dmb2019-03-08_01 One Sweet World.mp3
+-rw-r--r-- 1 user user 18928882 2026-10-20 06:06 dmb2019-03-08_02 Dancing Nancies.mp3
+-rw-r--r-- 1 user user 22356551 2026-10-20 06:12 dmb2019-03-08_03 Warehouse.mp3
+-rw-r--r-- 1 user user 13007062 2026-10-20 06:09 dmb2019-03-08_04 Do You Remember.mp3
+-rw-r--r-- 1 user user 23245842 2026-10-20 06:10 dmb2019-03-08_05 Lying in the Hands of God.mp3
+-rw-r--r-- 1 user user 14779760 2026-10-20 06:12 dmb2019-03-08_06 So Right.mp3
+-rw-r--r-- 1 user user  8860454 2026-10-20 05:57 dmb2019-03-08_07 The Space Between.mp3
+-rw-r--r-- 1 user user 10634826 2026-10-20 06:08 dmb2019-03-08_08 So Much to Say.mp3
+-rw-r--r-- 1 user user  9833238 2026-10-20 06:03 dmb2019-03-08_09 Samurai Cop (Oh Joy Begin).mp3
+-rw-r--r-- 1 user user 10387660 2026-10-20 06:12 dmb2019-03-08_10 Why I Am.mp3
+-rw-r--r-- 1 user user 21296113 2026-10-20 06:12 dmb2019-03-08_11 Don't Drink the Water.mp3
+-rw-r--r-- 1 user user  9213653 2026-10-20 06:12 dmb2019-03-08_12 Here On Out.mp3
+-rw-r--r-- 1 user user 12649670 2026-10-20 06:06 dmb2019-03-08_13 She.mp3
+-rw-r--r-- 1 user user 33507977 2026-10-20 06:12 dmb2019-03-08_14 Jimi Thing.mp3
+-rw-r--r-- 1 user user  9763081 2026-10-20 06:12 dmb2019-03-08_15 Satellite.mp3
+-rw-r--r-- 1 user user 10102923 2026-10-20 06:11 dmb2019-03-08_16 Granny.mp3
+-rw-r--r-- 1 user user 21551613 2026-10-20 06:12 dmb2019-03-08_17 Grey Street.mp3
+-rw-r--r-- 1 user user 10372632 2026-10-20 06:05 dmb2019-03-08_18 Can't Stop.mp3
+-rw-r--r-- 1 user user 18067171 2026-10-20 06:10 dmb2019-03-08_19 All Along the Watchtower.mp3
+-rw-r--r-- 1 user user     1693 2026-10-20 06:04 dmb2019-03-08.Mitsubishi_Electric_Halle.Dusseldorf.srg.44KHz.16Bit.mp3.m3u
+-rw-r--r-- 1 user user     1402 2026-10-20 06:04 dmb2019-03-08.Mitsubishi_Electric_Halle.Dusseldorf.srg.44KHz.16Bit.mp3.md5
